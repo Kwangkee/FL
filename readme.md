@@ -9,3 +9,10 @@ Federated Learning emerged as a distributed learning paradigm that takes into ac
 - limited communication in the distributed network (e.g., loss of synchronization, variability of communication capabilities), 
 - and the possibility of a large number of nodes relative to the amounts of data.
 
+
+Where to Begin? Exploring the Impact of Pre-Training and Initialization in Federated Learning, https://arxiv.org/abs/2206.15387
+[Where to Begin? Exploring the Impact of Pre-Training and Initialization in Federated Learning](https://arxiv.org/abs/2206.15387)
+All experiments were performed using the open-source federated learning simulation framework FLSim [1].
+
+
+
