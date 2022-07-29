@@ -1,4 +1,8 @@
-xyz
+기조연설 주제: 웹 3.0, 블록체인과 미래사회 전망(부산대 김호원 교수)
+BCFL을 Web 3.0 관점에서 설명, https://youtu.be/IwEjUQbFb2Y?t=3123 
+블록체인 플랫폼 연구센터, http://itrc.pusan.ac.kr/sub1-3/
+![image](https://user-images.githubusercontent.com/109835677/181742952-cdb5957f-949c-48f3-8175-7e8cada2cf92.png)
+
 
 A Review of Medical Federated Learning: Applications in Oncology and Cancer Research, https://link.springer.com/chapter/10.1007/978-3-031-08999-2_1 
 Download conference paper PDF
