@@ -1,11 +1,11 @@
 ***
 Back to https://github.com/Kwangkee/FL
 
-Han Yu,  
+## Han Yu,  
 https://personal.ntu.edu.sg/han.yu/, [Complete Website](https://sites.google.com/site/hanyushomepage/home), [Google Scholar](https://scholar.google.com.sg/citations?user=eXgoTXMAAAAJ&hl=en),  
 Lab: [Trustworthy Federated Ubiquitous Learning (TrustFUL) Research Lab](https://trustful.federated-learning.org/)
 
-#### Papers 
+## Papers 
 - [Towards personalized federated learning](#towards-personalized-federated-learning), https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=eXgoTXMAAAAJ&sortby=pubdate&citation_for_view=eXgoTXMAAAAJ:0d9pApVQ-n0C
 - Towards Verifiable Federated Learning, https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=eXgoTXMAAAAJ&sortby=pubdate&citation_for_view=eXgoTXMAAAAJ:3AIi9tQMIrsC
 - Towards Fairness-Aware Federated Learning, https://arxiv.org/abs/2111.01872
@@ -19,6 +19,7 @@ Lab: [Trustworthy Federated Ubiquitous Learning (TrustFUL) Research Lab](https:
 - FedCoin: A Peer-to-Peer Payment System for Federated Learning
 - Federated Learning: Privacy and Incentive
 
+***
 
 ## Towards personalized federated learning    
 https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=eXgoTXMAAAAJ&sortby=pubdate&citation_for_view=eXgoTXMAAAAJ:0d9pApVQ-n0C
