@@ -6,7 +6,7 @@ https://personal.ntu.edu.sg/han.yu/, [Complete Website](https://sites.google.com
 Lab: [Trustworthy Federated Ubiquitous Learning (TrustFUL) Research Lab](https://trustful.federated-learning.org/)
 
 #### Papers 
-- [Towards personalized federated learning](#towards-personalized-federated-learning), https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=eXgoTXMAAAAJ&sortby=pubdate&citation_for_view=eXgoTXMAAAAJ:0d9pApVQ-n0C  
+- [Towards personalized federated learning](#towards-personalized-federated-learning), https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=eXgoTXMAAAAJ&sortby=pubdate&citation_for_view=eXgoTXMAAAAJ:0d9pApVQ-n0C
 - Towards Verifiable Federated Learning, https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=eXgoTXMAAAAJ&sortby=pubdate&citation_for_view=eXgoTXMAAAAJ:3AIi9tQMIrsC
 - Towards Fairness-Aware Federated Learning, https://arxiv.org/abs/2111.01872
 - Collaborative Fairness in Federated Learning
