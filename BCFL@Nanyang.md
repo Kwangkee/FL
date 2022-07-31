@@ -6,13 +6,23 @@ https://personal.ntu.edu.sg/han.yu/, [Complete Website](https://sites.google.com
 Lab: [Trustworthy Federated Ubiquitous Learning (TrustFUL) Research Lab](https://trustful.federated-learning.org/)
 
 
-**Papers**  
-[Towards personalized federated learning](#towards-personalized-federated-learning)
+#### Papers 
+[Towards personalized federated learning](#towards-personalized-federated-learning)  
+[Towards Verifiable Federated Learning](#towards-verifiable-federated-learning), https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=eXgoTXMAAAAJ&sortby=pubdate&citation_for_view=eXgoTXMAAAAJ:3AIi9tQMIrsC
 
+
+***
+
+## Towards Verifiable Federated Learning 
+https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=eXgoTXMAAAAJ&sortby=pubdate&citation_for_view=eXgoTXMAAAAJ:3AIi9tQMIrsC
 ***
 
 ## Towards personalized federated learning    
 https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=eXgoTXMAAAAJ&sortby=pubdate&citation_for_view=eXgoTXMAAAAJ:0d9pApVQ-n0C
+
+
+Back to [Papers](#papers)  
+
 
 In this survey, we explore the domain of Personalized FL (PFL) to address the fundamental challenges of FL on heterogeneous data, a universal characteristic inherent in all real-world datasets. We analyze the key motivations for PFL and present a unique taxonomy of PFL techniques categorized according to the key challenges and personalization strategies in PFL. We highlight their key ideas, challenges and opportunities and envision promising future trajectories of research towards new PFL architectural design, realistic PFL benchmarking, and trustworthy PFL approaches.
 
