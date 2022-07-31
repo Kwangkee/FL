@@ -5,25 +5,23 @@ Han Yu,
 https://personal.ntu.edu.sg/han.yu/, [Complete Website](https://sites.google.com/site/hanyushomepage/home), [Google Scholar](https://scholar.google.com.sg/citations?user=eXgoTXMAAAAJ&hl=en),  
 Lab: [Trustworthy Federated Ubiquitous Learning (TrustFUL) Research Lab](https://trustful.federated-learning.org/)
 
-
 #### Papers 
 - [Towards personalized federated learning](#towards-personalized-federated-learning), https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=eXgoTXMAAAAJ&sortby=pubdate&citation_for_view=eXgoTXMAAAAJ:0d9pApVQ-n0C  
 - Towards Verifiable Federated Learning, https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=eXgoTXMAAAAJ&sortby=pubdate&citation_for_view=eXgoTXMAAAAJ:3AIi9tQMIrsC
 - Towards Fairness-Aware Federated Learning, https://arxiv.org/abs/2111.01872
+- Collaborative Fairness in Federated Learning
+- Threats to Federated Learning
 
+- Contribution-Aware Federated Learning for Smart Healthcare
+- CrowdFL: A Marketplace for Crowdsourced Federated Learning
+- Federated Graph Neural Networks: Overview, Techniques and Challenges
+- Personalised Federated Learning: A Combinational Approach
+- FedCoin: A Peer-to-Peer Payment System for Federated Learning
+- Federated Learning: Privacy and Incentive
 
-***
-
-## Towards Verifiable Federated Learning 
-https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=eXgoTXMAAAAJ&sortby=pubdate&citation_for_view=eXgoTXMAAAAJ:3AIi9tQMIrsC
-***
 
 ## Towards personalized federated learning    
 https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=eXgoTXMAAAAJ&sortby=pubdate&citation_for_view=eXgoTXMAAAAJ:0d9pApVQ-n0C
-
-
-Back to [Papers](#papers)  
-
 
 In this survey, we explore the domain of Personalized FL (PFL) to address the fundamental challenges of FL on heterogeneous data, a universal characteristic inherent in all real-world datasets. We analyze the key motivations for PFL and present a unique taxonomy of PFL techniques categorized according to the key challenges and personalization strategies in PFL. We highlight their key ideas, challenges and opportunities and envision promising future trajectories of research towards new PFL architectural design, realistic PFL benchmarking, and trustworthy PFL approaches.
 
@@ -47,18 +45,6 @@ Strategy I: Global Model Personalization. Based on our proposed taxonomy, they a
 
 
 ***
+Back to [Papers](#papers)  
 
-Towards Verifiable Federated Learning
-Towards personalized federated learning
-Towards Fairness-Aware Federated Learning
-Collaborative Fairness in Federated Learning
-Threats to Federated Learning
 
-Contribution-Aware Federated Learning for Smart Healthcare
-CrowdFL: A Marketplace for Crowdsourced Federated Learning
-Federated Graph Neural Networks: Overview, Techniques and Challenges
-Personalised Federated Learning: A Combinational Approach
-FedCoin: A Peer-to-Peer Payment System for Federated Learning
-Federated Learning: Privacy and Incentive
-
-***   
