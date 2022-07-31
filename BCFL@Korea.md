@@ -1,7 +1,13 @@
 Back to https://github.com/Kwangkee/FL
   
+목차  
+[부산대](#부산대)  
+[서울대](#서울대)  
+[기타](#기타)
+
 ***   
-[부산대] 
+## 부산대 
+
 기조연설 주제: 웹 3.0, 블록체인과 미래사회 전망(부산대 김호원 교수)  
 - 블록체인 플랫폼 연구센터, http://itrc.pusan.ac.kr/sub1-3/
 - BCFL을 Web 3.0 관점에서 설명, https://youtu.be/IwEjUQbFb2Y?t=3123  
@@ -15,8 +21,8 @@ FL Market
 *** 
 
 [Sandi Rahmadika@부경대]
-https://scholar.google.co.kr/citations?hl=en&user=3dHNHg0AAAAJ&view_op=list_works&sortby=pubdate 
-https://www.linkedin.com/in/sandirahmadika/?originalSubdomain=kr 
+- https://scholar.google.co.kr/citations?hl=en&user=3dHNHg0AAAAJ&view_op=list_works&sortby=pubdate 
+- https://www.linkedin.com/in/sandirahmadika/?originalSubdomain=kr 
 
 Practical Concerns in Enforcing Ethereum Smart Contracts as a Rewarding Platform in Decentralized Learning, 연합학습의 인센티브 플랫폼으로써 이더리움 스마트 컨트랙트를 시행하는 경우의 실무적 고려사항, https://www.koreascience.or.kr/article/JAKO202006957583461.page 
 
@@ -27,8 +33,8 @@ Blockchain technology for providing an architecture model of decentralized perso
 PDPM: A Patient-Defined Data Privacy Management with Nudge Theory in Decentralized E-Health Environments, https://www.jstage.jst.go.jp/article/transinf/E104.D/11/E104.D_2021NGP0015/_pdf
 
 *** 
+## 서울대 
 
-[서울대]
 문수묵 교수, https://altair.snu.ac.kr/ 
 - NTIS : https://www.ntis.go.kr/hurims/detail/selectDetailInfo.do?hrstKOI=SzY1MDIyNzEwMDAwNQ==&apiGb=true&returnURI=aHR0cHM6Ly93d3cubnRpcy5nby5rci9UaFNlYXJjaFRvdGFsTGlzdC5kbz9zb3J0PVJBTkslMkZERVNDJm50aXNZbj0mc2VhcmNoV29yZD0lRUIlQUMlQjglRUMlODglOTglRUIlQUMlQjUmb3JpZ2luYWxTZWFyY2hXb3JkPSZvcmlnaW5hbFNlYXJjaEd1YnVuPQ==
 - 탈중앙화 방식의 딥 러닝 플랫폼, https://www.ntis.go.kr/project/pjtInfo.do?pjtId=1711147336&pageCode=TH_PJT_PJT_DTL 
@@ -62,7 +68,7 @@ PDPM: A Patient-Defined Data Privacy Management with Nudge Theory in Decentraliz
 
 
 ***
-
+## 기타
 
 [연세대] Blockchained On-Device Federated Learning - arXiv, https://arxiv.org/abs/1808.03949
 
