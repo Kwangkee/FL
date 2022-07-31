@@ -7,7 +7,7 @@ https://scholar.google.com/citations?hl=ko&user=TuL21poAAAAJ&view_op=list_works&
 
 ## Papers 
 - Architectural patterns for the design of federated learning systems, https://arxiv.org/abs/2101.02373
-- Towards Trustworthy AI: Blockchain-based Architecture Design for Accountability and Fairness of Federated Learning Systems, https://scholar.google.com/citations?
+- Towards Trustworthy AI: Blockchain-based Architecture Design for Accountability and Fairness of Federated Learning Systems, https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=TuL21poAAAAJ&sortby=pubdate&citation_for_view=TuL21poAAAAJ:koF6b02d8EEC
 ***
 
 ## Architectural patterns for the design of federated learning systems
