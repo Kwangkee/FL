@@ -1,10 +1,11 @@
 ***
 Back to https://github.com/Kwangkee/FL
   
-**BCFL@Korea**  
+BCFL@Korea  
 [부산대](#부산대)  
 [부경대](#부경대)  
 [서울대](#서울대)  
+[KETI](#keti)  
 [기타](#기타)
 ***   
 
@@ -61,6 +62,13 @@ PDPM: A Patient-Defined Data Privacy Management with Nudge Theory in Decentraliz
 본 연구에서는 불균일한 데이터 분포 환경을 다룰 수 있도록 블록체인 기반의 탈중앙화 연합학습 플랫폼을 제안함으로써 다음 두 목표를 이루고자 한다. 
 첫째, 각 노드가 가지고 있는 데이터들이 불균일하고 심지어 거짓된 데이터가 섞여 있어도 글로벌 모델의 수렴성을 유지한다. 
 둘째, 비슷한 분포의 데이터를 가지고 있는 노드들이 자신들의 데이터에 적합한 독자적인 글로벌 모델을 가진다.
+
+## KETI 
+
+KETI (한국전자기술연구원, 구 전자부품연구원)  
+Design and Development of Server-Client Cooperation Framework for Federated Learning, https://ieeexplore.ieee.org/document/9829693 
+
+Federated learning is a machine learning technique that enables distributed training without explicitly data sharing between multiple heterogeneous devices. In this paper, we propose and develop a practical federated learning framework to effectively support model deployment, aggregation, and client device monitoring. The proposed approach is designed as a microarchitecture service using container-related technologies such as **\_Docker, Kubernetes\_**, and Prometheus.
 
 ## 기타
 
