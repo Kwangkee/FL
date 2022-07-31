@@ -1,6 +1,6 @@
 
 
-FL@Nanyang, https://github.com/Kwangkee/FL/blob/main/BCFL@Nanyang.md  
+FL@Nanyang, https://github.com/Kwangkee/FL/blob/main/FL@Nanyang.md  
 FL@CISRO, https://github.com/Kwangkee/FL/blob/main/FL@CISRO.md  
 FL@Meta, https://github.com/Kwangkee/FL/blob/main/FL@Meta.md  
 
