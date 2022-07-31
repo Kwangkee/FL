@@ -5,7 +5,7 @@ FL@Meta, https://github.com/Kwangkee/FL/blob/main/FL@Meta.md
 Benchmark for PFL, https://github.com/Kwangkee/FL/blob/main/Benchmark4PFL.md  
 
 ***
-BCFL  
+Blockchain-enabled FL  
 FL@Nanyang, https://github.com/Kwangkee/FL/blob/main/FL@Nanyang.md  
 FL@CSIRO, https://github.com/Kwangkee/FL/blob/main/FL@CSIRO.md  
 BCFL@Korea, https://github.com/Kwangkee/FL/blob/main/BCFL@Korea.md  
