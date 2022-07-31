@@ -1,6 +1,7 @@
 
 ***
-BCFL@Korea, https://github.com/Kwangkee/FL/blob/main/BCFL@Korea.md
+BCFL@Korea, https://github.com/Kwangkee/FL/blob/main/BCFL@Korea.md  
+BCFL@Nanyang, https://github.com/Kwangkee/FL/blob/main/BCFL@Nanyang.md
 ***
  
  # 제목1 - H1
