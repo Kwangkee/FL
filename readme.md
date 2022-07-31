@@ -1,10 +1,10 @@
 
 ***
-Trustworthy FL
+Trustworthy FL  
 FL@Nanyang, https://github.com/Kwangkee/FL/blob/main/FL@Nanyang.md  
 FL@CSIRO, https://github.com/Kwangkee/FL/blob/main/FL@CSIRO.md  
 ***
-Personalized FL
+Personalized FL  
 FL@CM, https://github.com/Kwangkee/FL/blob/main/FL@CM.md 
 FL@Meta, https://github.com/Kwangkee/FL/blob/main/FL@Meta.md  
 
