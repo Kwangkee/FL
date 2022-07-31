@@ -1,6 +1,6 @@
 Back to https://github.com/Kwangkee/FL
   
-목차  
+Lsits  
 [부산대](#부산대)  
 [서울대](#서울대)  
 [기타](#기타)
