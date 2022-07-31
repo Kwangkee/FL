@@ -1,11 +1,13 @@
+***
 Back to https://github.com/Kwangkee/FL
   
-Lsits  
+**BCFL@Korea**  
 [부산대](#부산대)  
+[부경대](#부경대)  
 [서울대](#서울대)  
 [기타](#기타)
-
 ***   
+
 ## 부산대 
 
 기조연설 주제: 웹 3.0, 블록체인과 미래사회 전망(부산대 김호원 교수)  
@@ -19,7 +21,7 @@ FL Market
 - CrowdFL: A Marketplace for Crowdsourced Federated Learning, https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=eXgoTXMAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=eXgoTXMAAAAJ:edV_OwlUe4UC
 
 *** 
-
+## 부경대
 [Sandi Rahmadika@부경대]
 - https://scholar.google.co.kr/citations?hl=en&user=3dHNHg0AAAAJ&view_op=list_works&sortby=pubdate 
 - https://www.linkedin.com/in/sandirahmadika/?originalSubdomain=kr 
@@ -32,7 +34,7 @@ Unlinkable Collaborative Learning Transactions: Privacy-Awareness in Decentraliz
 Blockchain technology for providing an architecture model of decentralized personal health information, https://journals.sagepub.com/doi/full/10.1177/1847979018790589 
 PDPM: A Patient-Defined Data Privacy Management with Nudge Theory in Decentralized E-Health Environments, https://www.jstage.jst.go.jp/article/transinf/E104.D/11/E104.D_2021NGP0015/_pdf
 
-*** 
+
 ## 서울대 
 
 문수묵 교수, https://altair.snu.ac.kr/ 
@@ -65,9 +67,6 @@ PDPM: A Patient-Defined Data Privacy Management with Nudge Theory in Decentraliz
 드는 새 모델의 정확도를 서로 다른 파레토 분포를 따르는 테스트 데이터셋에 대해 측정한 결과이다. 마이너가 가지고 있는 데이터의 분포와 같은 분포의 데이터셋에 대한 정확도가 다른 분포의 데이터셋에 비해 높음을 확인할 수 있다.
 
 
-
-
-***
 ## 기타
 
 [연세대] Blockchained On-Device Federated Learning - arXiv, https://arxiv.org/abs/1808.03949
