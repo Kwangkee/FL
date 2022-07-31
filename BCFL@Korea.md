@@ -62,11 +62,6 @@ PDPM: A Patient-Defined Data Privacy Management with Nudge Theory in Decentraliz
 첫째, 각 노드가 가지고 있는 데이터들이 불균일하고 심지어 거짓된 데이터가 섞여 있어도 글로벌 모델의 수렴성을 유지한다. 
 둘째, 비슷한 분포의 데이터를 가지고 있는 노드들이 자신들의 데이터에 적합한 독자적인 글로벌 모델을 가진다.
 
-![image](https://user-images.githubusercontent.com/109835677/182017203-9be225f8-d346-4e59-abcc-02dfaf11b715.png)
-그림 4는 7개의 마이너 중 비교적 많은 투표를 받은 ‘Miner : Pareto_4’가 매 에폭마다 만
-드는 새 모델의 정확도를 서로 다른 파레토 분포를 따르는 테스트 데이터셋에 대해 측정한 결과이다. 마이너가 가지고 있는 데이터의 분포와 같은 분포의 데이터셋에 대한 정확도가 다른 분포의 데이터셋에 비해 높음을 확인할 수 있다.
-
-
 ## 기타
 
 [연세대] Blockchained On-Device Federated Learning - arXiv, https://arxiv.org/abs/1808.03949
