@@ -47,6 +47,20 @@ PDPM: A Patient-Defined Data Privacy Management with Nudge Theory in Decentraliz
 
 - 레이어로 바라본 블록체인 확장성 솔루션 개요, https://medium.com/curg/%EB%A0%88%EC%9D%B4%EC%96%B4%EB%A1%9C-%EB%B0%94%EB%9D%BC%EB%B3%B8-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%ED%99%95%EC%9E%A5%EC%84%B1-%EC%86%94%EB%A3%A8%EC%85%98-%EA%B0%9C%EC%9A%94-a8c2aa3ec5c1 
 
+
+열악한 환경에서도 효과적인 블록체인 기반의 탈중앙화 연합학습 플랫폼, https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE09874860 
+
+본 연구에서는 불균일한 데이터 분포 환경을 다룰 수 있도록 블록체인 기반의 탈중앙화 연합학습 플랫폼을 제안함으로써 다음 두 목표를 이루고자 한다. 
+첫째, 각 노드가 가지고 있는 데이터들이 불균일하고 심지어 거짓된 데이터가 섞여 있어도 글로벌 모델의 수렴성을 유지한다. 
+둘째, 비슷한 분포의 데이터를 가지고 있는 노드들이 자신들의 데이터에 적합한 독자적인 글로벌 모델을 가진다.
+
+![image](https://user-images.githubusercontent.com/109835677/182017203-9be225f8-d346-4e59-abcc-02dfaf11b715.png)
+그림 4는 7개의 마이너 중 비교적 많은 투표를 받은 ‘Miner : Pareto_4’가 매 에폭마다 만
+드는 새 모델의 정확도를 서로 다른 파레토 분포를 따르는 테스트 데이터셋에 대해 측정한 결과이다. 마이너가 가지고 있는 데이터의 분포와 같은 분포의 데이터셋에 대한 정확도가 다른 분포의 데이터셋에 비해 높음을 확인할 수 있다.
+
+
+
+
 ***
 
 
