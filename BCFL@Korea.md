@@ -13,7 +13,7 @@ xyz
 
 유사한 최근 연구
 - FL-Market: Trading Private Models in Federated Learning, https://arxiv.org/abs/2106.04384. The source code, data, and/or other artifacts have been made available at https://github.com/teijyogen/FL-Market 
-- CrowdFL: A Marketplace for Crowdsourced Federated Learning
+- CrowdFL: A Marketplace for Crowdsourced Federated Learning, https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=eXgoTXMAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=eXgoTXMAAAAJ:edV_OwlUe4UC
 
 
 *** 
