@@ -1,6 +1,6 @@
 ***
 Personalized FL  
-FL@CM, https://github.com/Kwangkee/FL/blob/main/FL@CM.md  
+FL@Carnegie Mellon, https://github.com/Kwangkee/FL/blob/main/FL@Carnegie Mellon.md  
 FL@Meta, https://github.com/Kwangkee/FL/blob/main/FL@Meta.md  
 Benchmark for PFL, https://github.com/Kwangkee/FL/blob/main/Benchmark4PFL.md  
 
