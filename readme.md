@@ -49,6 +49,6 @@ Explainable Federated Learning for Taxi Travel Time Prediction, www.scitepress.o
 Federated Meta-Learning with Fast Convergence and Efficient Communication, https://arxiv.org/abs/1802.07876   
 Improving Federated Learning Personalization via Model Agnostic Meta Learning, https://arxiv.org/abs/1909.12488   
 Personalized Federated Learning: A Meta-Learning Approach, https://arxiv.org/abs/2002.07948  
+Towards personalized federated learning, https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=eXgoTXMAAAAJ&sortby=pubdate&citation_for_view=eXgoTXMAAAAJ:0d9pApVQ-n0C  
 
-
-
+***
