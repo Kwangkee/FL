@@ -12,6 +12,7 @@ BCFL@Korea, https://github.com/Kwangkee/FL/blob/main/BCFL@Korea.md
 
 ***
 FL4Medical, https://github.com/Kwangkee/FL/blob/main/FL4Medical.md  
+BCFL@Equideum, https://github.com/Kwangkee/FL/blob/main/BCFL@Equideum.md  
 FL@Apple, https://github.com/Kwangkee/FL/blob/main/FL@Apple.md  
 
 ***
