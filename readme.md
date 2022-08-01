@@ -11,10 +11,13 @@ FL@CSIRO, https://github.com/Kwangkee/FL/blob/main/FL@CSIRO.md
 BCFL@Korea, https://github.com/Kwangkee/FL/blob/main/BCFL@Korea.md  
 
 ***
-FL4Medical, https://github.com/Kwangkee/FL/blob/main/FL4Medical.md  
 BCFL@Equideum, https://github.com/Kwangkee/FL/blob/main/BCFL@Equideum.md  
 FL@MS, https://github.com/Kwangkee/FL/blob/main/FL@MS.md  
 FL@Apple, https://github.com/Kwangkee/FL/blob/main/FL@Apple.md  
+
+***
+FL4Medical, https://github.com/Kwangkee/FL/blob/main/FL4Medical.md  
+
 ***
 
 ■ 블록체인 융합 연합학습 (Blockchain-enabled Federated Learning) : BCFL Survey   
