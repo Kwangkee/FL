@@ -6,7 +6,7 @@ Back to https://github.com/Kwangkee/FL
 [부경대](#부경대)  
 [서울대](#서울대)  
 [KETI](#keti)  
-[기타](#기타)
+[ETC](#ETC)
 
 ***   
 
@@ -78,7 +78,7 @@ Federated learning is a machine learning technique that enables distributed trai
 
 \__Back to the [Top](#list)\__  
 \__Back to https://github.com/Kwangkee/FL\__
-## 기타
+## ETC
 
 [연세대] Blockchained On-Device Federated Learning - arXiv, https://arxiv.org/abs/1808.03949
 
