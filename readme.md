@@ -19,6 +19,9 @@ FL@Apple, https://github.com/Kwangkee/FL/blob/main/FL@Apple.md
 FL4Medical, https://github.com/Kwangkee/FL/blob/main/FL4Medical.md  
 
 ***
+FL@kklee, https://github.com/Kwangkee/FL/blob/main/FL@kklee.md  
+
+***
 
 ■ **BCFL Survey**, 블록체인 융합 연합학습 (Blockchain-enabled Federated Learning)     
 Federated Learning Meets Blockchain in Edge Computing: Opportunities and Challenges, https://ieeexplore.ieee.org/abstract/document/9403374   
