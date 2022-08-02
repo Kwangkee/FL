@@ -4,9 +4,6 @@ Back to https://github.com/Kwangkee/FL
 ## List
 [동향](#동향)  
 [과제](#과제)  
-[서울대](#서울대)  
-
-
 ***   
 
 ## 동향
