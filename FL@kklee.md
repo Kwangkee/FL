@@ -19,6 +19,10 @@ Back to https://github.com/Kwangkee/FL
 - 동적인 디바이스 환경에서 적응적 연합학습기술 개발 (iitp 차세대인공지능핵심원천기술개발 사업), https://ezone.iitp.kr/common/co_0701/view?PMS_TSK_DGR_ID=2021-0-00900-002  
 - [과제소개] 동적인 디바이스 환경에서 적응적 연합학습 기술, https://itfind.or.kr/publication/regular/weeklytrend/pastList/read.do?selectedId=1237    
 
+■ 스마트 사이니지
+- AI 기반 비대면 문진 및 환자 상태 자동 분류를 위한 스마트 사이니지 기술개발 (iitp) https://ezone.iitp.kr/common/co_0701/view?PMS_TSK_DGR_ID=2020-0-01907-002
+- https://www.inews24.com/view/1479668  
+
 ## 실적  
 - [공개 SW] Implementation of Deep Learning based Rppg Model using pytorch: 헬스케어 시나리오(rPPG 기반 Vital Sign Monitoring)에 적응적 연합학습 기술을 적용하기 위한 Backbone Deep Learning 알고리즘을 시험/평가하기 위한 프레임워크, https://github.com/TVS-AI/Pytorch_rppgs  
 - [App] Vital Sign Monitoring App
