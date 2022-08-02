@@ -15,6 +15,7 @@ Back to https://github.com/Kwangkee/FL
 
 ■ 적응적 연합학습  
 - 동적인 디바이스 환경에서 적응적 연합학습기술 개발 (iitp 차세대인공지능핵심원천기술개발 사업), https://ezone.iitp.kr/common/co_0701/view?PMS_TSK_DGR_ID=2021-0-00900-002    
+- 동적인 디바이스 환경에서 적응적 연합학습 기술, https://itfind.or.kr/publication/regular/weeklytrend/pastList/read.do?selectedId=1237  
 
 ■ 스마트 사이니지
 - AI 기반 비대면 문진 및 환자 상태 자동 분류를 위한 스마트 사이니지 기술개발 (iitp) https://ezone.iitp.kr/common/co_0701/view?PMS_TSK_DGR_ID=2020-0-01907-002
@@ -33,7 +34,6 @@ Back to https://github.com/Kwangkee/FL
 - [논문] Methods for Improving Deep Learning-Based Cardiac Auscultation Accuracy: Data Augmentation and Data Generalization, https://www.mdpi.com/2076-3417/11/10/4544 
 
 ## 기고
-- 동적인 디바이스 환경에서 적응적 연합학습 기술, https://itfind.or.kr/publication/regular/weeklytrend/pastList/read.do?selectedId=1237  
 - IITP, 인공지능 기술청사진 2030 2차년도 보고서, https://www.iitp.kr/kr/1/knowledge/openReference/view.it?ArticleIdx=5248&count=true  
 - “중앙집중식 ML 방식에서 로컬라이징” [특별기획 AI 2030] ⑲ 연합학습, https://www.aitimes.com/news/articleView.html?idxno=136724  
 - KEIT PD 이슈리포트 2018-9월호 : 이슈5(디지털 트윈 기술 발전방향), http://pdf.keit.re.kr/sd7/view?permission=p&elementId=J8qjt9Qs306FsGYcyD1Aww%3D%3D&cryptoPassYn=N  
