@@ -10,6 +10,9 @@ Back to https://github.com/Kwangkee/FL
 ***   
 
 ## 과제
+■ 디지털 헬스케어를 위한 블록체인 융합 원격임상시험 서비스 개발  
+- https://drive.google.com/drive/u/0/folders/1qV5jN-KspZWYuUZEzx0mzLEYPsomzhko
+
 ■ 적응적 연합학습  
 - 동적인 디바이스 환경에서 적응적 연합학습기술 개발 (iitp 차세대인공지능핵심원천기술개발 사업), https://ezone.iitp.kr/common/co_0701/view?PMS_TSK_DGR_ID=2021-0-00900-002    
 
