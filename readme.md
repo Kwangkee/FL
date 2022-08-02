@@ -20,13 +20,13 @@ FL4Medical, https://github.com/Kwangkee/FL/blob/main/FL4Medical.md
 
 ***
 
-■ 블록체인 융합 연합학습 (Blockchain-enabled Federated Learning) : BCFL Survey   
+■ **BCFL Survey**, 블록체인 융합 연합학습 (Blockchain-enabled Federated Learning)     
 Federated Learning Meets Blockchain in Edge Computing: Opportunities and Challenges, https://ieeexplore.ieee.org/abstract/document/9403374   
 Blockchain-based Federated Learning: A Comprehensive Survey, https://arxiv.org/abs/2110.02182  
 Integration of blockchain and federated learning for Internet of Things: Recent advances and future challenges, https://www.sciencedirect.com/science/article/pii/S0167404821001796  
 Blockchain for federated learning toward secure distributed machine learning systems: a systemic survey, https://link.springer.com/article/10.1007/s00500-021-06496-5  
 
-**■ BCFL Implementation**  
+■ **BCFL Implementation**  
 - 2CP: Decentralized Protocols to Transparently Evaluate Contributivity in Blockchain Federated Learning Environments, https://arxiv.org/abs/2011.07516, Code: https://github.com/cai-harry/2CP 
 - BCFL@JPMorgan, Federated Learning using Smart Contracts on Blockchains, based on Reward Driven Approach, https://arxiv.org/abs/2107.10243  
 
