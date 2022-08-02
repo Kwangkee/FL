@@ -7,7 +7,7 @@ Equideum Health (formerly ConsenSys Health), https://equideum.health/
 
 The Future of Clinical Trials is Decentralized. And Better, Faster, Cheaper, https://medhealthoutlook.com/the-future-of-clinical-trials-is-decentralized-and-better-faster-cheaper/
 
-
+What Constitutes Health 3.0 – aka Ownership Health, https://equideum.health/blogs-page/what-constitutes-health-3-0-aka-ownership-health%ef%bf%bc/
 
 
 '환자 주도의 의료 데이터 판매' 기여하는 블록체인 - ITWorld Korea, https://www.itworld.co.kr/news/231509   
