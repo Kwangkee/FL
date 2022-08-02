@@ -19,7 +19,7 @@ FL@Apple, https://github.com/Kwangkee/FL/blob/main/FL@Apple.md
 FL4Medical, https://github.com/Kwangkee/FL/blob/main/FL4Medical.md  
 
 ***
-FL@kklee, https://github.com/Kwangkee/FL/blob/main/FL@kklee.md  
+kklee, https://github.com/Kwangkee/FL/blob/main/kklee.md  
 
 ***
 
