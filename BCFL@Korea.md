@@ -22,8 +22,8 @@ FL Market
 - FL-Market: Trading Private Models in Federated Learning, https://arxiv.org/abs/2106.04384. The source code, data, and/or other artifacts have been made available at https://github.com/teijyogen/FL-Market 
 - CrowdFL: A Marketplace for Crowdsourced Federated Learning, https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=eXgoTXMAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=eXgoTXMAAAAJ:edV_OwlUe4UC
 
-\__Back to the [Top](#list)\__  
-\__Back to https://github.com/Kwangkee/FL\__
+Back to the [Top](#list)  
+Back to https://github.com/Kwangkee/FL
 ## 부경대
 
 [Sandi Rahmadika@부경대]
@@ -38,8 +38,8 @@ Unlinkable Collaborative Learning Transactions: Privacy-Awareness in Decentraliz
 Blockchain technology for providing an architecture model of decentralized personal health information, https://journals.sagepub.com/doi/full/10.1177/1847979018790589 
 PDPM: A Patient-Defined Data Privacy Management with Nudge Theory in Decentralized E-Health Environments, https://www.jstage.jst.go.jp/article/transinf/E104.D/11/E104.D_2021NGP0015/_pdf
 
-\__Back to the [Top](#list)\__  
-\__Back to https://github.com/Kwangkee/FL\__
+Back to the [Top](#list)  
+Back to https://github.com/Kwangkee/FL
 ## 서울대 
 
 문수묵 교수, https://altair.snu.ac.kr/ 
@@ -67,8 +67,8 @@ PDPM: A Patient-Defined Data Privacy Management with Nudge Theory in Decentraliz
 첫째, 각 노드가 가지고 있는 데이터들이 불균일하고 심지어 거짓된 데이터가 섞여 있어도 글로벌 모델의 수렴성을 유지한다. 
 둘째, 비슷한 분포의 데이터를 가지고 있는 노드들이 자신들의 데이터에 적합한 독자적인 글로벌 모델을 가진다.
 
-\__Back to the [Top](#list)\__  
-\__Back to https://github.com/Kwangkee/FL\__
+Back to the [Top](#list)  
+Back to https://github.com/Kwangkee/FL
 ## KETI 
 
 KETI (한국전자기술연구원, 구 전자부품연구원)  
@@ -76,8 +76,8 @@ Design and Development of Server-Client Cooperation Framework for Federated Lear
 
 Federated learning is a machine learning technique that enables distributed training without explicitly data sharing between multiple heterogeneous devices. In this paper, we propose and develop a practical federated learning framework to effectively support model deployment, aggregation, and client device monitoring. The proposed approach is designed as a microarchitecture service using container-related technologies such as **\_Docker, Kubernetes\_**, and Prometheus.
 
-\__Back to the [Top](#list)\__  
-\__Back to https://github.com/Kwangkee/FL\__
+Back to the [Top](#list)  
+Back to https://github.com/Kwangkee/FL
 ## ETC
 
 [연세대] Blockchained On-Device Federated Learning - arXiv, https://arxiv.org/abs/1808.03949
@@ -86,5 +86,5 @@ Federated learning is a machine learning technique that enables distributed trai
 
 [공주대] Efficient privacy-preserving machine learning for blockchain network, https://ieeexplore.ieee.org/abstract/document/8827509 
 
-\__Back to the [Top](#list)\__  
-\__Back to https://github.com/Kwangkee/FL\__
+Back to the [Top](#list)  
+Back to https://github.com/Kwangkee/FL
