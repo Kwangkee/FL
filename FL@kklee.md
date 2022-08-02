@@ -13,6 +13,10 @@ Back to https://github.com/Kwangkee/FL
 ■ FL 동향 및 기술개발 로드맵  
 - IITP, 인공지능 기술청사진 2030 2차년도 보고서, https://www.iitp.kr/kr/1/knowledge/openReference/view.it?ArticleIdx=5248&count=true  
 - “중앙집중식 ML 방식에서 로컬라이징” [특별기획 AI 2030] ⑲ 연합학습, https://www.aitimes.com/news/articleView.html?idxno=136724  
+- KEIT PD 이슈리포트 2018-9월호 : 이슈5(디지털 트윈 기술 발전방향), http://pdf.keit.re.kr/sd7/view?permission=p&elementId=J8qjt9Qs306FsGYcyD1Aww%3D%3D&cryptoPassYn=N  
+- KEIT PD 이슈리포트 2017-2호-이슈3 (에너지 자립형 IoT 디바이스 플랫폼 기술 동향), http://pdf.keit.re.kr/sd7/view?permission=p&elementId=gJdginUZZz0VyTj7M4b1gg%3D%3D&cryptoPassYn=N  
+- KEIT PD 이슈리포트 2016-9호-이슈4 (IoT 디바이스 플랫폼 기술 동향), http://pdf.keit.re.kr/sd7/view?permission=p&elementId=92AHY7SgnyYz9dJ3qZS%2B2w%3D%3D&cryptoPassYn=N  
+
 
 ## 과제
 ■ 적응적 연합학습  
