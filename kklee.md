@@ -41,5 +41,5 @@ Back to https://github.com/Kwangkee/FL
 - KEIT PD 이슈리포트 2016-9호-이슈4 (IoT 디바이스 플랫폼 기술 동향), http://pdf.keit.re.kr/sd7/view?permission=p&elementId=92AHY7SgnyYz9dJ3qZS%2B2w%3D%3D&cryptoPassYn=N  
 
 ***
-\__Back to the [Top](#list)\__  
-\__Back to https://github.com/Kwangkee/FL\__
+Back to the [Top](#list)
+Back to https://github.com/Kwangkee/FL
