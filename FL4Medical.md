@@ -6,13 +6,21 @@ Towards the Practical Utility of Federated Learning in the Medical Domain, https
 GitHub: https://github.com/wns823/medical_federated  
 
 
+x  
+x  
+x  
 x
+x  
 x
+x  
 x
+x  
 x
+x  
 x
+x  
 x
-x
+x  
 x
 
 
