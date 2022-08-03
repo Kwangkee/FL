@@ -5,6 +5,18 @@ Back to https://github.com/Kwangkee/FL
 Towards the Practical Utility of Federated Learning in the Medical Domain, https://arxiv.org/abs/2207.03075
 GitHub: https://github.com/wns823/medical_federated  
 
+
+x
+x
+x
+x
+x
+x
+x
+x
+
+
+
 ## MIT
 A Review of Medical Federated Learning: Applications in Oncology and Cancer Research, https://link.springer.com/chapter/10.1007/978-3-031-08999-2_1  
 Download conference paper PDF, https://link.springer.com/content/pdf/10.1007/978-3-031-08999-2_1.pdf
