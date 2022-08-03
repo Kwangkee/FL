@@ -5,6 +5,12 @@ Back to https://github.com/Kwangkee/FL
 Towards the Practical Utility of Federated Learning in the Medical Domain, https://arxiv.org/abs/2207.03075
 GitHub: https://github.com/wns823/medical_federated  
 
+>In this work, for the first time, we test well-known FL algorithms proposed by the machine learning community on three medical datasets in order to evaluate their utility in terms of both performance and monetary cost. Specifically, we select basic FL algorithms as well as those designed for heterogeneous data distributions among different clients (i.e., hospitals). 
+
+>We test all algorithms on the three representative real-world medical datasets with different modalities involving structured (i.e., tabular), visual, and signal data as follows:  
+>• Longitudinal electronic health records (eICU) [35] collected from multiple hospitals in the US for six clinical prediction tasks such as mortality prediction and length-of-stay prediction;  
+>• Medical images, specifically skin images collected by five institutions from multiple countries for diagnosing multiple skin cancer types;  
+>• Electrocardiogram signals collected from five institutions from multiple countries, for diagnosing diverse heart conditions.  
 
 ## MIT
 A Review of Medical Federated Learning: Applications in Oncology and Cancer Research, https://link.springer.com/chapter/10.1007/978-3-031-08999-2_1  
