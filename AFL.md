@@ -38,5 +38,5 @@ Back to https://github.com/Kwangkee/FL
 - “중앙집중식 ML 방식에서 로컬라이징” [특별기획 AI 2030] ⑲ 연합학습, https://www.aitimes.com/news/articleView.html?idxno=136724  
 
 ***
-Back to the [Top](#R&R)  
+Back to the [Top](#Paper)  
 Back to https://github.com/Kwangkee/FL
