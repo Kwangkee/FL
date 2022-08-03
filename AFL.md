@@ -22,7 +22,7 @@ Back to https://github.com/Kwangkee/FL
 
 ## [성과홍보]
 -	동적인 디바이스 환경에서 적응적 연합학습 기술, https://itfind.or.kr/publication/regular/weeklytrend/pastList/read.do?selectedId=1237 
--	http://www.aitimes.kr/news/articleView.html?idxno=25693&fbclid=IwAR06Md9znJ2OSEmALnJmH6M6L2vEepA6nbMpk7k_V9zG_Ia_GRFd05GkZNI
+- KAIST-칭화대 공동연구팀, 모바일 기기에서 인공지능 '연합학습 속도 4.5배' 높이는 획기적 기법 개발, http://www.aitimes.kr/news/articleView.html?idxno=25693&fbclid=IwAR06Md9znJ2OSEmALnJmH6M6L2vEepA6nbMpk7k_V9zG_Ia_GRFd05GkZNI  
 
 ## [Reference]
 - IITP, 인공지능 기술청사진 2030 2차년도 보고서, https://www.iitp.kr/kr/1/knowledge/openReference/view.it?ArticleIdx=5248&count=true  
