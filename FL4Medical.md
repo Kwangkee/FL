@@ -1,8 +1,6 @@
 Back to https://github.com/Kwangkee/FL
 ***
 
-***
-
 ## KAIST
 Towards the Practical Utility of Federated Learning in the Medical Domain, https://arxiv.org/abs/2207.03075
 GitHub: https://github.com/wns823/medical_federated  
