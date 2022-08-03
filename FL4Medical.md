@@ -1,4 +1,7 @@
+Back to https://github.com/Kwangkee/FL
+***
 
+***
 
 ## KAIST
 Towards the Practical Utility of Federated Learning in the Medical Domain, https://arxiv.org/abs/2207.03075
@@ -13,3 +16,7 @@ Federated Learning emerged as a distributed learning paradigm that takes into ac
 - data imbalance across nodes, 
 - limited communication in the distributed network (e.g., loss of synchronization, variability of communication capabilities), 
 - and the possibility of a large number of nodes relative to the amounts of data.
+
+***
+Back to the [Top](#list)  
+Back to https://github.com/Kwangkee/FL
