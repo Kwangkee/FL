@@ -38,6 +38,8 @@ Unlinkable Collaborative Learning Transactions: Privacy-Awareness in Decentraliz
 Blockchain technology for providing an architecture model of decentralized personal health information, https://journals.sagepub.com/doi/full/10.1177/1847979018790589 
 PDPM: A Patient-Defined Data Privacy Management with Nudge Theory in Decentralized E-Health Environments, https://www.jstage.jst.go.jp/article/transinf/E104.D/11/E104.D_2021NGP0015/_pdf
 
+A Study on Blockchain-Based Asynchronous Federated Learning Framework, https://papersearch.net/thesis/article.asp?key=3957828
+
 Back to the [Top](#list)  
 Back to https://github.com/Kwangkee/FL
 ## 서울대 
