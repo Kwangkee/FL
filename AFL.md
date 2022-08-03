@@ -4,6 +4,7 @@ Back to https://github.com/Kwangkee/FL
 
 
 # 동적인 디바이스 환경에서 적응적 연합학습기술 개발 
+- Adaptive Federated Learning in Dynamic Heterogeneous Environment  
 - iitp 차세대인공지능핵심원천기술개발 사업, https://ezone.iitp.kr/common/co_0701/view?PMS_TSK_DGR_ID=2021-0-00900-002 
 - ITFind 기고, https://itfind.or.kr/publication/regular/weeklytrend/pastList/read.do?selectedId=1237 
 - PPT, https://drive.google.com/drive/u/0/folders/1AQqRxsYB34W7xzvkt2xQo2PnAwGyy3Kt
