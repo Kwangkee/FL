@@ -23,12 +23,12 @@ Back to https://github.com/Kwangkee/FL
 -	MyDJ: Sensing Food Intakes with an Attachable on Your Eyeglass Frame (ACM CHI 2022, best paper award honorable mention), https://dl.acm.org/doi/abs/10.1145/3491102.3502041 : 딥러닝 기반의 안경 부착형 웨어러블 기술 개발
 
 #### [T2, 성균관] 
+-	An Efficient Combinatorial Optimization Model Using Learning-to-Rank Distillation (AAAI 2022), https://ojs.aaai.org/index.php/AAAI/article/view/20845  
 -	Structure Learning-Based Task Decomposition for Reinforcement Learning In Non-Stationary Environments (AAAI 2022), https://aaai-2022.virtualchair.net/poster_aaai4189 : 동적 환경에서의 다중 태스크에 대한 강화학습 기반 최적 제어 정책을 생성하기 위한 태스크 임베딩 기법 연구
--	An Efficient Combinatorial Optimization Model Using Learning-to-Rank Distillation (AAAI 2022), https://ojs.aaai.org/index.php/AAAI/article/view/20845
--	Repot: Transferable Reinforcement Learning for Quality-Centric Networked Monitoring in Various Environments (IEEE Access 2021), https://ieeexplore.ieee.org/document/9599665 : [T2] 이종/동적 환경에서의 강화학습 기반 네트워크 리소스 관리 에이전트 연구
--	 Differentiable Ranking Metric Using Relaxed Sorting for Top-K Recommendation (IEEE ACCESS 2021), https://ieeexplore.ieee.org/abstract/document/9514867
+-	Differentiable Ranking Metric Using Relaxed Sorting for Top-K Recommendation (IEEE ACCESS 2021), https://ieeexplore.ieee.org/abstract/document/9514867
 - Gemma: Reinforcement Learning-Based Graph Embedding and Mapping for Virtual Network Applications (IEEE ACCESS 2021), https://ieeexplore.ieee.org/document/9496654
--  Federated Offline Reinforcement Learning for Autonomous Systems, 2022
+-	Repot: Transferable Reinforcement Learning for Quality-Centric Networked Monitoring in Various Environments (IEEE Access 2021), https://ieeexplore.ieee.org/document/9599665 : [T2] 이종/동적 환경에서의 강화학습 기반 네트워크 리소스 관리 에이전트 연구  
+- Federated Offline Reinforcement Learning for Autonomous Systems, 2022
 - Integrating A Deep Learning-based Plane Detector in Mobile AR Systems for Improvement of Plane Detection, ICCAI, 2022
 - Iterative Pruning-based Model Compression for Pose Estimation on Resource-constrained Devices, ICMVA, 2022
 - Mean-variance Based Risk-sensitive Reinforcement Learning with Interpretable Attention, ICMWA, 2022
