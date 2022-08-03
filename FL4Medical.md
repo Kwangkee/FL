@@ -4,6 +4,8 @@ Back to https://github.com/Kwangkee/FL
 ## KAIST
 Towards the Practical Utility of Federated Learning in the Medical Domain, https://arxiv.org/abs/2207.03075  
 GitHub: https://github.com/wns823/medical_federated  
+- eICU 포함 3가지 dataset 에 대해, Cross-silo 관점에서 실험
+- Kaist 양은호 교수, 건양의대 김종엽 교수  
 
 >In this work, for the first time, we test well-known FL algorithms proposed by the machine learning community on three medical datasets in order to evaluate their utility in terms of both performance and monetary cost. Specifically, we select basic FL algorithms as well as those designed for heterogeneous data distributions among different clients (i.e., hospitals). 
 
