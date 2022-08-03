@@ -23,8 +23,8 @@ Back to https://github.com/Kwangkee/FL
 -	[T2, 성균관] Structure Learning-Based Task Decomposition for Reinforcement Learning In Non-Stationary Environments (AAAI 2022), https://aaai-2022.virtualchair.net/poster_aaai4189 : 동적 환경에서의 다중 태스크에 대한 강화학습 기반 최적 제어 정책을 생성하기 위한 태스크 임베딩 기법 연구
 -	[T2, 성균관] An Efficient Combinatorial Optimization Model Using Learning-to-Rank Distillation (AAAI 2022), https://ojs.aaai.org/index.php/AAAI/article/view/20845
 -	[T2, 성균관] Repot: Transferable Reinforcement Learning for Quality-Centric Networked Monitoring in Various Environments (IEEE Access 2021), https://ieeexplore.ieee.org/document/9599665 : [T2] 이종/동적 환경에서의 강화학습 기반 네트워크 리소스 관리 에이전트 연구
--	[T2, 성균관] Differentiable Ranking Metric Using Relaxed Sorting for Top-K Recommendation, IEEE ACCESS, 2021
-- [T2, 성균관] Gemma: Reinforcement Learning-Based Graph Embedding and Mapping for Virtual Network Applications, IEEE ACCESS, 2021
+-	[T2, 성균관] Differentiable Ranking Metric Using Relaxed Sorting for Top-K Recommendation (IEEE ACCESS 2021), https://ieeexplore.ieee.org/abstract/document/9514867
+- [T2, 성균관] Gemma: Reinforcement Learning-Based Graph Embedding and Mapping for Virtual Network Applications (IEEE ACCESS 2021), https://ieeexplore.ieee.org/document/9496654
 -	[T3, TVS] Assessment of ROI Selection for Facial Video-Based rPPG (MDPI Sensors 2021), https://www.mdpi.com/1424-8220/21/23/7923 : [T3-1] 헬스케어 서비스 분야에서, 원격-PPG 기반 생체징후인식 실세계 적용 시나리오에 적응적 연합학습 기술을 적용하기 위한 기반기술
 -	[T3, TVS] MovieDIRec: Drafted-Input-Based Recommendation System for Movies (MDPI Appl. Sci. 2021): [T3-2] 콘텐츠 서비스 분야에서 개인맞춤형 추천 실세계 적용 시나리오에 적응적 연합학습 기술을 적용하기 위한 기반기술, https://www.mdpi.com/2076-3417/11/21/10412
 
