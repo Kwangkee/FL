@@ -38,7 +38,7 @@ Unlinkable Collaborative Learning Transactions: Privacy-Awareness in Decentraliz
 Blockchain technology for providing an architecture model of decentralized personal health information, https://journals.sagepub.com/doi/full/10.1177/1847979018790589 
 PDPM: A Patient-Defined Data Privacy Management with Nudge Theory in Decentralized E-Health Environments, https://www.jstage.jst.go.jp/article/transinf/E104.D/11/E104.D_2021NGP0015/_pdf
 
-A Study on Blockchain-Based Asynchronous Federated Learning Framework, https://papersearch.net/thesis/article.asp?key=3957828
+A Study on Blockchain-Based Asynchronous Federated Learning Framework, https://papersearch.net/google_link/fulltext.asp?file_name=52825060.pdf
 
 Back to the [Top](#list)  
 Back to https://github.com/Kwangkee/FL
@@ -83,6 +83,8 @@ Back to https://github.com/Kwangkee/FL
 ## ETC
 
 [연세대] Blockchained On-Device Federated Learning - arXiv, https://arxiv.org/abs/1808.03949
+
+A Study on Blockchain-Based Asynchronous Federated Learning Framework, 
 
 [박준범⋅박종서† 한국항공대학교 컴퓨터 공학과] 블록체인 기반의 연합학습 구현,  https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?추=JAKO202032362242331&윳=NART
 
