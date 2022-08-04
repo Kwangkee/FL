@@ -84,7 +84,7 @@ Back to https://github.com/Kwangkee/FL
 
 [연세대] Blockchained On-Device Federated Learning - arXiv, https://arxiv.org/abs/1808.03949
 
-A Study on Blockchain-Based Asynchronous Federated Learning Framework, 
+[아주대] AMBLE: Adjusting mini-batch and local epoch for federated learning with heterogeneous devices, https://www.sciencedirect.com/science/article/abs/pii/S0743731522001757
 
 [박준범⋅박종서† 한국항공대학교 컴퓨터 공학과] 블록체인 기반의 연합학습 구현,  https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?추=JAKO202032362242331&윳=NART
 
