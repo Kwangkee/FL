@@ -12,8 +12,8 @@ Back to https://github.com/Kwangkee/FL
 >- [T1] KAIST, https://nmsl.kaist.ac.kr/
 >- [T2] 성균관대 CSI그룹, http://comnet.skku.edu/
 >- [T3] TVSTorm, http://tvstorm.com
->- [N1] 가천대학교, https://sites.google.com/view/keylee
->- [N2] 광운대학교, http://bcml.kw.ac.kr/ 
+>- [N1] 가천대, https://sites.google.com/view/keylee
+>- [N2] 광운대, http://bcml.kw.ac.kr/ 
 
 ![image](https://user-images.githubusercontent.com/109835677/182520164-95e3b716-983b-4237-9d51-08193f8a2167.png)
 
@@ -22,7 +22,7 @@ Back to https://github.com/Kwangkee/FL
 -	FedBalancer: Data and Pace Control for Efficient Federated Learning on Heterogeneous Clients (ACM MobiSys 2022), https://dl.acm.org/doi/abs/10.1145/3498361.3538917 : 이기종 사용자 기기가 포함된 환경에서의 최적화된 사용자 학습 데이터 선택 및 연합학습 라운드의 데드라인 제어를 통한 효율적인 연합학습 알고리즘 연구
 -	MyDJ: Sensing Food Intakes with an Attachable on Your Eyeglass Frame (ACM CHI 2022, best paper award honorable mention), https://dl.acm.org/doi/abs/10.1145/3491102.3502041 : 딥러닝 기반의 안경 부착형 웨어러블 기술 개발
 
-#### [T2, 성균관] 
+#### [T2, 성균관대] 
 -	An Efficient Combinatorial Optimization Model Using Learning-to-Rank Distillation (AAAI 2022), https://ojs.aaai.org/index.php/AAAI/article/view/20845  
 -	Structure Learning-Based Task Decomposition for Reinforcement Learning In Non-Stationary Environments (AAAI 2022), https://aaai-2022.virtualchair.net/poster_aaai4189 : 동적 환경에서의 다중 태스크에 대한 강화학습 기반 최적 제어 정책을 생성하기 위한 태스크 임베딩 기법 연구
 -	Differentiable Ranking Metric Using Relaxed Sorting for Top-K Recommendation (IEEE ACCESS 2021), https://ieeexplore.ieee.org/abstract/document/9514867
