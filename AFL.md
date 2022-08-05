@@ -21,6 +21,7 @@ Back to https://github.com/Kwangkee/FL
 #### [T1, KAIST] 
 -	FedBalancer: Data and Pace Control for Efficient Federated Learning on Heterogeneous Clients (ACM MobiSys 2022), https://dl.acm.org/doi/abs/10.1145/3498361.3538917 : 이기종 사용자 기기가 포함된 환경에서의 최적화된 사용자 학습 데이터 선택 및 연합학습 라운드의 데드라인 제어를 통한 효율적인 연합학습 알고리즘 연구
 >- The source code of our FedBalancer implementation are available at https://github.com/jaemin-shin/FedBalancer
+>> For the testbed experiment on Android devices in our paper (Section 4.6), please refer to the following repository: flower-FedBalancer-testbed.
 >-	보도자료: http://www.aitimes.kr/news/articleView.html?idxno=25693
 -	MyDJ: Sensing Food Intakes with an Attachable on Your Eyeglass Frame (ACM CHI 2022, best paper award honorable mention), https://dl.acm.org/doi/abs/10.1145/3491102.3502041 : 딥러닝 기반의 안경 부착형 웨어러블 기술 개발
 
