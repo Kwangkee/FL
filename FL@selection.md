@@ -5,6 +5,7 @@ Back to https://github.com/Kwangkee/FL
 
 - Oort: Informed Participant Selection for Scalable Federated Learning, https://arxiv.org/abs/2010.06081v1
 >https://www.usenix.org/conference/osdi21/presentation/lai   
+>Presentation Video: https://www.youtube.com/watch?v=5npOel4T4Mw
 
 - FedScale: Benchmarking Model and System Performance of Federated Learning at Scale, https://arxiv.org/abs/2105.11367
 > Harsha Madhyastha, https://scholar.google.com/citations?hl=ko&user=kxDm9EsAAAAJ&view_op=list_works&sortby=pubdate 
