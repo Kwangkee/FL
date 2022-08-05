@@ -4,6 +4,8 @@ Back to https://github.com/Kwangkee/FL
 
 
 - Oort: Informed Participant Selection for Scalable Federated Learning, https://arxiv.org/abs/2010.06081v1
+>Oort is available at https://github.com/SymbioticLab/Oort
+
 >https://www.usenix.org/conference/osdi21/presentation/lai     
 >>Presentation Video: https://www.youtube.com/watch?v=5npOel4T4Mw  
 >>slides: https://www.usenix.org/system/files/osdi21_slides_lai.pdf  
