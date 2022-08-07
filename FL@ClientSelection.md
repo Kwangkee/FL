@@ -30,7 +30,7 @@ https://github.com/innovation-cat/Awesome-Federated-Machine-Learning#15-client-s
 ***
 
 - Oort: Informed Participant Selection for Scalable Federated Learning, https://arxiv.org/abs/2010.06081v1
->Oort is available at https://github.com/SymbioticLab/Oort
+  >Oort is available at https://github.com/SymbioticLab/Oort
 
 >https://www.usenix.org/conference/osdi21/presentation/lai     
 >>Presentation Video: https://www.youtube.com/watch?v=5npOel4T4Mw  
