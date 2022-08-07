@@ -8,6 +8,8 @@ https://github.com/innovation-cat/Awesome-Federated-Machine-Learning#15-client-s
 
 - Client selection in federated learning: Convergence analysis and power-of-choice selection strategies, https://github.com/Kwangkee/FL/blob/main/FL@CarnegieMellon.md#yae-jee-cho
 
+Client Selection for Federated Learning With Non-IID Data in Mobile Edge Computing, https://www.researchgate.net/publication/349012712_Client_Selection_for_Federated_Learning_With_Non-IID_Data_in_Mobile_Edge_Computing
+
 - [원문 못 구함] VFedCS: Optimizing Client Selection for Volatile Federated Learning, https://ieeexplore.ieee.org/abstract/document/9846900
 
 - Stochastic Client Selection for Federated Learning with Volatile Clients, https://arxiv.org/abs/2011.08756  
