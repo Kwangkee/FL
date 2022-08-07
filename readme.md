@@ -21,6 +21,10 @@ FL4Medical, https://github.com/Kwangkee/FL/blob/main/FL4Medical.md
 
 ***
 
+https://github.com/innovation-cat/Awesome-Federated-Machine-Learning
+
+***
+
 ■ **BCFL Survey**, 블록체인 융합 연합학습 (Blockchain-enabled Federated Learning)     
 Federated Learning Meets Blockchain in Edge Computing: Opportunities and Challenges, https://ieeexplore.ieee.org/abstract/document/9403374   
 Blockchain-based Federated Learning: A Comprehensive Survey, https://arxiv.org/abs/2110.02182  
