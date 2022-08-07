@@ -2,6 +2,14 @@ Back to https://github.com/Kwangkee/FL
 ***
 
 ## Papers 
+
+- Oort: Informed Participant Selection for Scalable Federated Learning, https://arxiv.org/abs/2010.06081v1
+  >Oort is available at https://github.com/SymbioticLab/Oort
+
+  >https://www.usenix.org/conference/osdi21/presentation/lai     
+  >>Presentation Video: https://www.youtube.com/watch?v=5npOel4T4Mw  
+  >>slides: https://www.usenix.org/system/files/osdi21_slides_lai.pdf  
+
 - Client selection for federated learning with heterogeneous resources in mobile edge, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Client+Selection+for+Federated+Learning+with+Heterogeneous+Resources+in+Mobile+Edge&btnG=
 
 - Client selection in federated learning: Convergence analysis and power-of-choice selection strategies, https://github.com/Kwangkee/FL/blob/main/FL@CarnegieMellon.md#yae-jee-cho
@@ -26,21 +34,18 @@ https://github.com/innovation-cat/Awesome-Federated-Machine-Learning#15-client-s
 - [원문 못 구함] VFedCS: Optimizing Client Selection for Volatile Federated Learning, https://ieeexplore.ieee.org/abstract/document/9846900
 - A Contribution-based Device Selection Scheme in Federated Learning, https://arxiv.org/abs/2203.05369
 
-
-***
-
-- Oort: Informed Participant Selection for Scalable Federated Learning, https://arxiv.org/abs/2010.06081v1
-  >Oort is available at https://github.com/SymbioticLab/Oort
-
-  >https://www.usenix.org/conference/osdi21/presentation/lai     
-  >>Presentation Video: https://www.youtube.com/watch?v=5npOel4T4Mw  
-  >>slides: https://www.usenix.org/system/files/osdi21_slides_lai.pdf  
+## Large-Scale
 
 - FedScale: Benchmarking Model and System Performance of Federated Learning at Scale, https://arxiv.org/abs/2105.11367
   > Harsha Madhyastha, https://scholar.google.com/citations?hl=ko&user=kxDm9EsAAAAJ&view_op=list_works&sortby=pubdate 
 
 - Characterizing Impacts of Heterogeneity in Federated Learning upon Large-Scale Smartphone Data, https://arxiv.org/abs/2006.06983v3  
   >https://github.com/PKU-Chengxu/FLASH  
+
+***
+
+
+
 
 
 ***
