@@ -4,6 +4,8 @@ Back to https://github.com/Kwangkee/FL
 15. Client Selection@Awesome Federated Machine Learning
 https://github.com/innovation-cat/Awesome-Federated-Machine-Learning#15-client-selection
 
+
+## Papers 
 - Client selection for federated learning with heterogeneous resources in mobile edge, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Client+Selection+for+Federated+Learning+with+Heterogeneous+Resources+in+Mobile+Edge&btnG=
 
 - Client selection in federated learning: Convergence analysis and power-of-choice selection strategies, https://github.com/Kwangkee/FL/blob/main/FL@CarnegieMellon.md#yae-jee-cho
@@ -34,4 +36,5 @@ Characterizing Impacts of Heterogeneity in Federated Learning upon Large-Scale S
 
 
 ***
+Back to [Papers](#papers)  
 Back to https://github.com/Kwangkee/FL
