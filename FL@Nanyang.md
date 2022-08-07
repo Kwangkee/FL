@@ -1,5 +1,5 @@
-***
 Back to https://github.com/Kwangkee/FL
+***
 
 ## Han Yu,  
 https://personal.ntu.edu.sg/han.yu/, [Complete Website](https://sites.google.com/site/hanyushomepage/home), [Google Scholar](https://scholar.google.com.sg/citations?user=eXgoTXMAAAAJ&hl=en),  
@@ -47,5 +47,4 @@ Strategy I: Global Model Personalization. Based on our proposed taxonomy, they a
 
 ***
 Back to [Papers](#papers)  
-
-
+Back to https://github.com/Kwangkee/FL
