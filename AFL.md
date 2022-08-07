@@ -20,11 +20,10 @@ Back to https://github.com/Kwangkee/FL
 ## [Paper]
 #### [T1, KAIST] 
 -	FedBalancer: Data and Pace Control for Efficient Federated Learning on Heterogeneous Clients (ACM MobiSys 2022), https://dl.acm.org/doi/abs/10.1145/3498361.3538917 : 이기종 사용자 기기가 포함된 환경에서의 최적화된 사용자 학습 데이터 선택 및 연합학습 라운드의 데드라인 제어를 통한 효율적인 연합학습 알고리즘 연구
->- The source code of our FedBalancer implementation are available at https://github.com/jaemin-shin/FedBalancer
->> For the testbed experiment on Android devices in our paper (Section 4.6), please refer to the following repository: [flower-FedBalancer-testbed](https://github.com/jaemin-shin/flower-FedBalancer-testbed).  
-
->- https://nmsl.kaist.ac.kr/projects/fedbalancer/  
->- 보도자료: http://www.aitimes.kr/news/articleView.html?idxno=25693  
+    >- The source code of our FedBalancer implementation are available at https://github.com/jaemin-shin/FedBalancer
+    >- For the testbed experiment on Android devices in our paper (Section 4.6), please refer to the following repository: [flower-FedBalancer-testbed](https://github.com/jaemin-shin/flower-FedBalancer-testbed).  
+    >- https://nmsl.kaist.ac.kr/projects/fedbalancer/  
+    >- 보도자료: http://www.aitimes.kr/news/articleView.html?idxno=25693  
 
 -	MyDJ: Sensing Food Intakes with an Attachable on Your Eyeglass Frame (ACM CHI 2022, best paper award honorable mention), https://dl.acm.org/doi/abs/10.1145/3491102.3502041 : 딥러닝 기반의 안경 부착형 웨어러블 기술 개발
 
@@ -43,7 +42,7 @@ Back to https://github.com/Kwangkee/FL
 
 #### [T3, TVS] 
 -	Assessment of ROI Selection for Facial Video-Based rPPG (MDPI Sensors 2021), https://www.mdpi.com/1424-8220/21/23/7923 : [T3-1] 헬스케어 서비스 분야에서, 원격-PPG 기반 생체징후인식 실세계 적용 시나리오에 적응적 연합학습 기술을 적용하기 위한 기반기술
->- The software is available on GitHub (https://github.com/TVS-AI/Pytorch_rppgs (accessed date 26 November 2021)) for experimentation.
+    >- The software is available on GitHub (https://github.com/TVS-AI/Pytorch_rppgs (accessed date 26 November 2021)) for experimentation.
 
 -	MovieDIRec: Drafted-Input-Based Recommendation System for Movies (MDPI Appl. Sci. 2021): [T3-2] 콘텐츠 서비스 분야에서 개인맞춤형 추천 실세계 적용 시나리오에 적응적 연합학습 기술을 적용하기 위한 기반기술, https://www.mdpi.com/2076-3417/11/21/10412
 
