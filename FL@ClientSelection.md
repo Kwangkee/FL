@@ -8,6 +8,8 @@ Back to https://github.com/Kwangkee/FL
 
 - Client Selection for Federated Learning With Non-IID Data in Mobile Edge Computing, https://www.researchgate.net/publication/349012712_Client_Selection_for_Federated_Learning_With_Non-IID_Data_in_Mobile_Edge_Computing
 
+- Contribution-based Federated Learning client selection, https://onlinelibrary.wiley.com/doi/10.1002/int.22879?af=R
+>Github: https://github.com/xuyinhai22/Client-selection-of-Federated-Learning,
 
 - Stochastic Client Selection for Federated Learning with Volatile Clients, https://arxiv.org/abs/2011.08756  
 
