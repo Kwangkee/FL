@@ -3,12 +3,7 @@ Back to https://github.com/Kwangkee/FL
 
 ## Papers 
 
-- Oort: Informed Participant Selection for Scalable Federated Learning, https://arxiv.org/abs/2010.06081v1
-  >Oort is available at https://github.com/SymbioticLab/Oort
-
-  >https://www.usenix.org/conference/osdi21/presentation/lai     
-  >>Presentation Video: https://www.youtube.com/watch?v=5npOel4T4Mw  
-  >>slides: https://www.usenix.org/system/files/osdi21_slides_lai.pdf  
+- [Oort: Informed Participant Selection for Scalable Federated Learning](https://github.com/Kwangkee/FL/edit/main/FL@ClientSelection.md#oort-informed-participant-selection-for-scalable-federated-learning), https://arxiv.org/abs/2010.06081v1
 
 - Client selection for federated learning with heterogeneous resources in mobile edge, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Client+Selection+for+Federated+Learning+with+Heterogeneous+Resources+in+Mobile+Edge&btnG=
 
@@ -44,7 +39,13 @@ https://github.com/innovation-cat/Awesome-Federated-Machine-Learning#15-client-s
 
 ***
 
+## Oort: Informed Participant Selection for Scalable Federated Learning
+https://arxiv.org/abs/2010.06081v1
 
+- Oort is available at https://github.com/SymbioticLab/Oort
+- https://www.usenix.org/conference/osdi21/presentation/lai     
+  >Presentation Video: https://www.youtube.com/watch?v=5npOel4T4Mw  
+  >slides: https://www.usenix.org/system/files/osdi21_slides_lai.pdf  
 
 
 
