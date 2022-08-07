@@ -1,11 +1,6 @@
 Back to https://github.com/Kwangkee/FL
 ***
 
-## Info
-- Client Selection@Awesome Federated Machine Learning
-https://github.com/innovation-cat/Awesome-Federated-Machine-Learning#15-client-selection
-- https://github.com/xuyinhai22/Client-selection-of-Federated-Learning,  
-
 ## Papers 
 - Client selection for federated learning with heterogeneous resources in mobile edge, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Client+Selection+for+Federated+Learning+with+Heterogeneous+Resources+in+Mobile+Edge&btnG=
 
@@ -13,11 +8,16 @@ https://github.com/innovation-cat/Awesome-Federated-Machine-Learning#15-client-s
 
 - Client Selection for Federated Learning With Non-IID Data in Mobile Edge Computing, https://www.researchgate.net/publication/349012712_Client_Selection_for_Federated_Learning_With_Non-IID_Data_in_Mobile_Edge_Computing
 
-- [원문 못 구함] VFedCS: Optimizing Client Selection for Volatile Federated Learning, https://ieeexplore.ieee.org/abstract/document/9846900
 
 - Stochastic Client Selection for Federated Learning with Volatile Clients, https://arxiv.org/abs/2011.08756  
 
 - Learning Advanced Client Selection Strategy for Federated Learning, https://aaai-2022.virtualchair.net/poster_aaai12714
+
+## ETC
+- Client Selection@Awesome Federated Machine Learning
+https://github.com/innovation-cat/Awesome-Federated-Machine-Learning#15-client-selection
+- https://github.com/xuyinhai22/Client-selection-of-Federated-Learning,  
+- [원문 못 구함] VFedCS: Optimizing Client Selection for Volatile Federated Learning, https://ieeexplore.ieee.org/abstract/document/9846900
 
 
 ***
