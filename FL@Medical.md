@@ -1,6 +1,10 @@
 Back to https://github.com/Kwangkee/FL
 ***
 
+- Federated learning for smart healthcare: A survey, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Federated+Learning+for+Smart+Healthcare%3A+A+Survey&btnG=
+
+
+***
 ## KAIST
 Towards the Practical Utility of Federated Learning in the Medical Domain, https://arxiv.org/abs/2207.03075  
 GitHub: https://github.com/wns823/medical_federated  
