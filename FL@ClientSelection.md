@@ -8,7 +8,7 @@ Back to https://github.com/Kwangkee/FL
 
 - Client Selection for Federated Learning With Non-IID Data in Mobile Edge Computing, https://www.researchgate.net/publication/349012712_Client_Selection_for_Federated_Learning_With_Non-IID_Data_in_Mobile_Edge_Computing
 
-- [원문 구함] Contribution-based Federated Learning client selection, https://onlinelibrary.wiley.com/doi/10.1002/int.22879?af=R
+- [원문 못 구함] Contribution-based Federated Learning client selection, https://onlinelibrary.wiley.com/doi/10.1002/int.22879?af=R
   >Github: https://github.com/xuyinhai22/Client-selection-of-Federated-Learning
   
   >In this paper, we propose the contribution-based selection algorithm (Contribution-Based Exponential-weight algorithm for Exploration and Exploitation, CBE3), which dynamically updates the selection weights according to the impact of clients' data. As a novel component of CBE3, a scaling factor, which helps maintain a good balance between global model accuracy and convergence speed, is proposed to improve the algorithm's adaptability. Theoretically, we proved the regret bound of the proposed CBE3 algorithm, which demonstrates performance gaps between the CBE3 and the optimal choice. Empirically, extensive experiments conducted on Non-Independent Identically Distributed data demonstrate the superior performance of CBE3—with up to 10% accuracy improvement compared with K-Center and Greedy and up to 100% faster convergence compared with the Random algorithm.
@@ -21,7 +21,7 @@ Back to https://github.com/Kwangkee/FL
 - Client Selection@Awesome Federated Machine Learning
 https://github.com/innovation-cat/Awesome-Federated-Machine-Learning#15-client-selection
 - https://github.com/xuyinhai22/Client-selection-of-Federated-Learning,  
-- [원문 구함] VFedCS: Optimizing Client Selection for Volatile Federated Learning, https://ieeexplore.ieee.org/abstract/document/9846900
+- [원문 못 구함] VFedCS: Optimizing Client Selection for Volatile Federated Learning, https://ieeexplore.ieee.org/abstract/document/9846900
 
 
 ***
