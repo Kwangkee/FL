@@ -17,7 +17,7 @@ FL@MS, https://github.com/Kwangkee/FL/blob/main/FL@MS.md
 FL@Apple, https://github.com/Kwangkee/FL/blob/main/FL@Apple.md  
 
 ***
-FL@Medical, https://github.com/Kwangkee/FL/blob/main/FL4Medical.md  
+FL@Medical, https://github.com/Kwangkee/FL/blob/main/FL@Medical.md  
 
 ***
 
