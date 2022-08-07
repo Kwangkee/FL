@@ -10,6 +10,7 @@ Back to https://github.com/Kwangkee/FL
 
 - [원문 구함] Contribution-based Federated Learning client selection, https://onlinelibrary.wiley.com/doi/10.1002/int.22879?af=R
   >Github: https://github.com/xuyinhai22/Client-selection-of-Federated-Learning
+  
   >In this paper, we propose the contribution-based selection algorithm (Contribution-Based Exponential-weight algorithm for Exploration and Exploitation, CBE3), which dynamically updates the selection weights according to the impact of clients' data. As a novel component of CBE3, a scaling factor, which helps maintain a good balance between global model accuracy and convergence speed, is proposed to improve the algorithm's adaptability. Theoretically, we proved the regret bound of the proposed CBE3 algorithm, which demonstrates performance gaps between the CBE3 and the optimal choice. Empirically, extensive experiments conducted on Non-Independent Identically Distributed data demonstrate the superior performance of CBE3—with up to 10% accuracy improvement compared with K-Center and Greedy and up to 100% faster convergence compared with the Random algorithm.
 
 - Stochastic Client Selection for Federated Learning with Volatile Clients, https://arxiv.org/abs/2011.08756  
