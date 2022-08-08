@@ -8,7 +8,7 @@ Back to https://github.com/Kwangkee/FL
 
 - Client selection in federated learning: Convergence analysis and power-of-choice selection strategies, https://github.com/Kwangkee/FL/blob/main/FL@CarnegieMellon.md#yae-jee-cho
 
-- [VFedCS](https://github.com/Kwangkee/FL/blob/main/FL@ClientSelection.md#vfedcs)
+- [CBE3](https://github.com/Kwangkee/FL/blob/main/FL@ClientSelection.md#cbe3)
 
 - Client Selection for Federated Learning With Non-IID Data in Mobile Edge Computing, https://www.researchgate.net/publication/349012712_Client_Selection_for_Federated_Learning_With_Non-IID_Data_in_Mobile_Edge_Computing
 
@@ -83,12 +83,9 @@ Repo Root
 |---- docs              # FedScale tutorials and APIs
 ```
 
-## VFedCS
+## CBE3
 Weiwei Lin(林伟伟), https://scholar.google.com/citations?hl=ko&user=IWsha94AAAAJ&view_op=list_works&sortby=pubdate  
 Tiansheng Huang, https://scholar.google.com/citations?hl=ko&user=zz6Oq8wAAAAJ&view_op=list_works&sortby=pubdate  
-
-- [원문 못 구함] VFedCS: Optimizing Client Selection for Volatile Federated Learning, https://ieeexplore.ieee.org/abstract/document/9846900
-- Stochastic Client Selection for Federated Learning with Volatile Clients, https://arxiv.org/abs/2011.08756  
 
 - Contribution-based Federated Learning client selection, https://onlinelibrary.wiley.com/doi/10.1002/int.22879?af=R  
   >- https://onlinelibrary.wiley.com/doi/full/10.1002/int.22879?casa_token=wSdU803SnX0AAAAA%3AHBvDCzTClNGB1PavHfnxm_nUy2L9E500PRB3nmQ56ohnQkJvqs6y-CA-s512jrNb6HYT-sNr6HfGRGqT  
@@ -100,9 +97,12 @@ Tiansheng Huang, https://scholar.google.com/citations?hl=ko&user=zz6Oq8wAAAAJ&vi
   >>Empirically, extensive experiments conducted on Non-Independent Identically Distributed data demonstrate the superior performance of CBE3—with up to 10% accuracy improvement compared with K-Center and Greedy and up to 100% faster convergence compared with the Random algorithm.
 
   >>- **The random selection algorithm and FedCS selection** algorithm ignore the local data quality of the clients and are unable to reduce the number of selections for clients with poor quality of data, which leads to low accuracy of global model and slow convergence.  
-  >>- Recently, some researchers have attempted to address the problem of unfair client selection and large bias in data distribution by assigning fairness factors to clients to ensure that all clients have a certain probability of being selected.10, 11 Experimental results show that the **fairness-based client selection algorithm** can reduce the risk of overfitting while ensuring training efficiency when appropriate fairness values are chosen. However, the current fairness studies involved suffer from several flaws: (1) They blindly impose fairness constraints for each client while ignoring the actual contributions of those clients. (2) Fairness quotas need to be assigned before training and that particular metric may have a profound impact on the performance of the algorithm. When the fairness quota is set too low, the algorithm approaches greedy selection, which does not guarantee that all of the clients' local data will be learned efficiently; when the quota is set too high, the algorithm approaches random selection, which can lead to severe overfitting of some of the clients' data. In short, an inappropriate fairness quota can severely reduce the training effectiveness of the algorithm. Inspired by the current literature, this paper aims to propose a new and improved algorithm that can overcome the above-mentioned drawbacks.
+  >>- Recently, some researchers have attempted to address the problem of unfair client selection and large bias in data distribution by assigning fairness factors to clients to ensure that all clients have a certain probability of being selected.10, 11 Experimental results show that the **fairness-based client selection algorithm** can reduce the risk of overfitting while ensuring training efficiency when appropriate fairness values are chosen. However, the current fairness studies involved suffer from several flaws: (1) They blindly impose fairness constraints for each client while ignoring the actual contributions of those clients. (2) Fairness quotas need to be assigned before training and that particular metric may have a profound impact on the performance of the algorithm. When the fairness quota is set too low, the algorithm approaches greedy selection, which does not guarantee that all of the clients' local data will be learned efficiently; when the quota is set too high, the algorithm approaches random selection, which can lead to severe overfitting of some of the clients' data. In short, an inappropriate fairness quota can severely reduce the training effectiveness of the algorithm. Inspired by the current literature, this paper aims to propose a new and improved algorithm that can overcome the above-mentioned drawbacks.  
   >>The goal of federal learning client selection is to select superior clients who accelerate the convergence of the global model and improve global model accuracy while remaining within bandwidth limits. This paper is goal-oriented and directly uses the amount of contribution to global model accuracy as a criterion for judging the value of clients. **A client selection algorithm based on the contribution is proposed, inspired by the theory of Adversarial Bandit in Multiarmed Bandit (MAB)**.12 The client selection algorithm in this paper updates the client selection weights by estimating the contribution of the client, solving the problem of blindly imposing fairness constraints on the client while ignoring the actual contribution of the client in fairness client selection, and the approach in this paper (from the perspective of the contribution is more comprehensive than the approach in the literature11 (only considers the case of client failure). It also does not affect the privacy-preserving mechanism of FL. The experimental results demonstrate that the algorithm in this paper performs excellently even in the case of Non-IID.
 
+- [원문 못 구함] VFedCS: Optimizing Client Selection for Volatile Federated Learning, https://ieeexplore.ieee.org/abstract/document/9846900
+- Stochastic Client Selection for Federated Learning with Volatile Clients, https://arxiv.org/abs/2011.08756  
+- 
 ## FedBalancer 
 FedBalancer: Data and Pace Control for Efficient Federated Learning on Heterogeneous Clients (ACM MobiSys 2022), https://dl.acm.org/doi/abs/10.1145/3498361.3538917 
 - https://nmsl.kaist.ac.kr/projects/fedbalancer/  
