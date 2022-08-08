@@ -3,7 +3,7 @@ Back to https://github.com/Kwangkee/FL
 
 ## Papers 
 
-- [Oort: Informed Participant Selection for Scalable Federated Learning](https://github.com/Kwangkee/FL/blob/main/FL%40ClientSelection.md#oort-informed-participant-selection-for-scalable-federated-learning), https://arxiv.org/abs/2010.06081
+- [Oort: Informed Participant Selection for Scalable Federated Learning](https://github.com/Kwangkee/FL/blob/main/FL%40ClientSelection.md#oort), https://arxiv.org/abs/2010.06081
 
 - Client selection in federated learning: Convergence analysis and power-of-choice selection strategies, https://github.com/Kwangkee/FL/blob/main/FL@CarnegieMellon.md#yae-jee-cho
 
@@ -38,8 +38,8 @@ https://github.com/innovation-cat/Awesome-Federated-Machine-Learning#15-client-s
 
 ***
 
-## Oort: Informed Participant Selection for Scalable Federated Learning
-https://arxiv.org/abs/2010.06081
+## Oort
+Oort: Informed Participant Selection for Scalable Federated Learning, https://arxiv.org/abs/2010.06081
 
 - https://www.usenix.org/conference/osdi21/presentation/lai     
   >Presentation Video: https://www.youtube.com/watch?v=5npOel4T4Mw  
