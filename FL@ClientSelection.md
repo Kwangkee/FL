@@ -84,8 +84,6 @@ Repo Root
 ```
 
 ## CBE3
-Weiwei Lin(林伟伟), https://scholar.google.com/citations?hl=ko&user=IWsha94AAAAJ&view_op=list_works&sortby=pubdate  
-Tiansheng Huang, https://scholar.google.com/citations?hl=ko&user=zz6Oq8wAAAAJ&view_op=list_works&sortby=pubdate  
 
 ### Contribution-based Federated Learning client selection, https://onlinelibrary.wiley.com/doi/10.1002/int.22879?af=R  
 - https://onlinelibrary.wiley.com/doi/full/10.1002/int.22879?casa_token=wSdU803SnX0AAAAA%3AHBvDCzTClNGB1PavHfnxm_nUy2L9E500PRB3nmQ56ohnQkJvqs6y-CA-s512jrNb6HYT-sNr6HfGRGqT  
@@ -108,9 +106,10 @@ To mitigate the impact of differences in clients' values on training of FL, we p
 2. We transformed client selection into the Adversarial MABs12 problem, and propose a contribution-based FL client selection algorithm (Contribution-Based Exponential-weight algorithm for Exploration and Exploitation, CBE3). The CBE3 algorithm is goal-oriented, defines the change in accuracy as the client contribution. It allocates selection probabilities based on the contribution of clients, effectively distinguishing the selection differences between clients of different values.  
 3. To improve the applicability of the client selection algorithm, we propose contribution amplification factors that can be adjusted depending on the scenario requirements.  
 
-
-### [원문 못 구함] VFedCS: Optimizing Client Selection for Volatile Federated Learning, https://ieeexplore.ieee.org/abstract/document/9846900
-### Stochastic Client Selection for Federated Learning with Volatile Clients, https://arxiv.org/abs/2011.08756  
+Weiwei Lin(林伟伟), https://scholar.google.com/citations?hl=ko&user=IWsha94AAAAJ&view_op=list_works&sortby=pubdate   
+Tiansheng Huang, https://scholar.google.com/citations?hl=ko&user=zz6Oq8wAAAAJ&view_op=list_works&sortby=pubdate  
+- [원문 못 구함] VFedCS: Optimizing Client Selection for Volatile Federated Learning, https://ieeexplore.ieee.org/abstract/document/9846900
+- Stochastic Client Selection for Federated Learning with Volatile Clients, https://arxiv.org/abs/2011.08756  
  
 ## FedBalancer 
 FedBalancer: Data and Pace Control for Efficient Federated Learning on Heterogeneous Clients (ACM MobiSys 2022), https://dl.acm.org/doi/abs/10.1145/3498361.3538917 
