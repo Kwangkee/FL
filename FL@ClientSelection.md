@@ -34,7 +34,7 @@ https://github.com/innovation-cat/Awesome-Federated-Machine-Learning#15-client-s
 
 ## Large-Scale
 
-- Characterizing Impacts of Heterogeneity in Federated Learning upon Large-Scale Smartphone Data, https://arxiv.org/abs/2006.06983v3  
+- Characterizing Impacts of Heterogeneity in Federated Learning upon Large-Scale Smartphone Data, https://arxiv.org/abs/2006.06983
   >https://github.com/PKU-Chengxu/FLASH  
 
 ***
