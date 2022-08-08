@@ -12,18 +12,18 @@ Back to https://github.com/Kwangkee/FL
 
 - Client Selection for Federated Learning With Non-IID Data in Mobile Edge Computing, https://www.researchgate.net/publication/349012712_Client_Selection_for_Federated_Learning_With_Non-IID_Data_in_Mobile_Edge_Computing
 
+- [FedCS] Client selection for federated learning with heterogeneous resources in mobile edge, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Client+Selection+for+Federated+Learning+with+Heterogeneous+Resources+in+Mobile+Edge&btnG=
+  >Specifically, FedCS solves a client selection problem with resource constraints, which allows the server to aggregate as many client updates as possible and to accelerate performance improvement in ML models. We conducted an experimental evaluation using publicly-available large-scale image datasets to train deep neural networks on MEC environment simulations. The experimental results show that FedCS is able to complete its training process in a significantly shorter time compared to the original FL protocol.
+
+- Multi-armed bandit-based client scheduling for federated learning, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Multi-Armed-Bandit-Based-Client-Scheduling-for-Federated-Learning&btnG=
+
+- A Contribution-based Device Selection Scheme in Federated Learning, https://arxiv.org/abs/2203.05369
+
 - Learning Advanced Client Selection Strategy for Federated Learning, https://aaai-2022.virtualchair.net/poster_aaai12714
 
 ## ETC
 - Client Selection@Awesome Federated Machine Learning
 https://github.com/innovation-cat/Awesome-Federated-Machine-Learning#15-client-selection
-
-- Multi-armed bandit-based client scheduling for federated learning, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Multi-Armed-Bandit-Based-Client-Scheduling-for-Federated-Learning&btnG=
-
-- Client selection for federated learning with heterogeneous resources in mobile edge, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Client+Selection+for+Federated+Learning+with+Heterogeneous+Resources+in+Mobile+Edge&btnG=
-
-- A Contribution-based Device Selection Scheme in Federated Learning, https://arxiv.org/abs/2203.05369
-
 
 ***
 
@@ -98,6 +98,10 @@ Tiansheng Huang, https://scholar.google.com/citations?hl=ko&user=zz6Oq8wAAAAJ&vi
   >Our algorithm CBE3 is based on the federal learning framework [Flsim](https://github.com/Kwangkee/FL/blob/main/FL%40Meta.md#federated-learning-simulator-flsim).
   >>In this paper, we propose the **contribution-based selection algorithm (Contribution-Based Exponential-weight algorithm for Exploration and Exploitation, CBE3)**, which dynamically updates the selection weights according to the impact of clients' data. As a novel component of CBE3, a scaling factor, which helps maintain a good balance between global model accuracy and convergence speed, is proposed to improve the algorithm's adaptability.  
   >>Empirically, extensive experiments conducted on Non-Independent Identically Distributed data demonstrate the superior performance of CBE3—with up to 10% accuracy improvement compared with K-Center and Greedy and up to 100% faster convergence compared with the Random algorithm.
+
+  >>- **The random selection algorithm and FedCS selection** algorithm ignore the local data quality of the clients and are unable to reduce the number of selections for clients with poor quality of data, which leads to low accuracy of global model and slow convergence.  
+  >>- Recently, some researchers have attempted to address the problem of unfair client selection and large bias in data distribution by assigning fairness factors to clients to ensure that all clients have a certain probability of being selected.10, 11 Experimental results show that the **fairness-based client selection algorithm** can reduce the risk of overfitting while ensuring training efficiency when appropriate fairness values are chosen. However, the current fairness studies involved suffer from several flaws: (1) They blindly impose fairness constraints for each client while ignoring the actual contributions of those clients. (2) Fairness quotas need to be assigned before training and that particular metric may have a profound impact on the performance of the algorithm. When the fairness quota is set too low, the algorithm approaches greedy selection, which does not guarantee that all of the clients' local data will be learned efficiently; when the quota is set too high, the algorithm approaches random selection, which can lead to severe overfitting of some of the clients' data. In short, an inappropriate fairness quota can severely reduce the training effectiveness of the algorithm. Inspired by the current literature, this paper aims to propose a new and improved algorithm that can overcome the above-mentioned drawbacks.
+  >>The goal of federal learning client selection is to select superior clients who accelerate the convergence of the global model and improve global model accuracy while remaining within bandwidth limits. This paper is goal-oriented and directly uses the amount of contribution to global model accuracy as a criterion for judging the value of clients. **A client selection algorithm based on the contribution is proposed, inspired by the theory of Adversarial Bandit in Multiarmed Bandit (MAB)**.12 The client selection algorithm in this paper updates the client selection weights by estimating the contribution of the client, solving the problem of blindly imposing fairness constraints on the client while ignoring the actual contribution of the client in fairness client selection, and the approach in this paper (from the perspective of the contribution is more comprehensive than the approach in the literature11 (only considers the case of client failure). It also does not affect the privacy-preserving mechanism of FL. The experimental results demonstrate that the algorithm in this paper performs excellently even in the case of Non-IID.
 
 ## FedBalancer 
 FedBalancer: Data and Pace Control for Efficient Federated Learning on Heterogeneous Clients (ACM MobiSys 2022), https://dl.acm.org/doi/abs/10.1145/3498361.3538917 
