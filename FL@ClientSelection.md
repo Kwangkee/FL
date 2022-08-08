@@ -95,6 +95,14 @@ Repo Root
 |---- docs              # FedScale tutorials and APIs
 ```
 
+## FedBalancer 
+FedBalancer: Data and Pace Control for Efficient Federated Learning on Heterogeneous Clients (ACM MobiSys 2022), https://dl.acm.org/doi/abs/10.1145/3498361.3538917 
+  >- The source code of our FedBalancer implementation are available at https://github.com/jaemin-shin/FedBalancer
+  >- For the testbed experiment on Android devices in our paper (Section 4.6), please refer to the following repository: [flower-FedBalancer-testbed](https://github.com/jaemin-shin/flower-FedBalancer-testbed).  
+  >- https://nmsl.kaist.ac.kr/projects/fedbalancer/  
+
+
+
 ***
 Back to [Papers](#papers)  
 Back to https://github.com/Kwangkee/FL
