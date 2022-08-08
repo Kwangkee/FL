@@ -102,6 +102,13 @@ Our algorithm CBE3 is based on the federal learning framework [Flsim](https://gi
 - The goal of federal learning client selection is to select superior clients who accelerate the convergence of the global model and improve global model accuracy while remaining within bandwidth limits. This paper is goal-oriented and directly uses the amount of contribution to global model accuracy as a criterion for judging the value of clients. **[A client selection algorithm based on the contribution is proposed, inspired by the theory of Adversarial Bandit in Multiarmed Bandit (MAB)]**.12   
 >The client selection algorithm in this paper updates the client selection weights by estimating the contribution of the client, solving the problem of blindly imposing fairness constraints on the client while ignoring the actual contribution of the client in fairness client selection, and the approach in this paper (from the perspective of the contribution is more comprehensive than the approach in the literature11 (only considers the case of client failure). It also does not affect the privacy-preserving mechanism of FL. The experimental results demonstrate that the algorithm in this paper performs excellently even in the case of Non-IID.
 
+Main contributions of the paper  
+To mitigate the impact of differences in clients' values on training of FL, we propose a contribution-based client selection algorithm for the client selection problem in FL. This paper makes the following major contributions:  
+1. We propose a new client evaluation criterion based on contribution and an objective function. The amount of impact of each client on global model accuracy in each round is taken as the client's contribution to the global model, and the objective function is the expected improvement of global model accuracy in each round.  
+2. We transformed client selection into the Adversarial MABs12 problem, and propose a contribution-based FL client selection algorithm (Contribution-Based Exponential-weight algorithm for Exploration and Exploitation, CBE3). The CBE3 algorithm is goal-oriented, defines the change in accuracy as the client contribution. It allocates selection probabilities based on the contribution of clients, effectively distinguishing the selection differences between clients of different values.  
+3. To improve the applicability of the client selection algorithm, we propose contribution amplification factors that can be adjusted depending on the scenario requirements.  
+
+
 ### [원문 못 구함] VFedCS: Optimizing Client Selection for Volatile Federated Learning, https://ieeexplore.ieee.org/abstract/document/9846900
 ### Stochastic Client Selection for Federated Learning with Volatile Clients, https://arxiv.org/abs/2011.08756  
  
