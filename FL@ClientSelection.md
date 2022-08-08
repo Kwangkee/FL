@@ -32,10 +32,6 @@ https://github.com/innovation-cat/Awesome-Federated-Machine-Learning#15-client-s
 - [원문 못 구함] VFedCS: Optimizing Client Selection for Volatile Federated Learning, https://ieeexplore.ieee.org/abstract/document/9846900
 - A Contribution-based Device Selection Scheme in Federated Learning, https://arxiv.org/abs/2203.05369
 
-## Large-Scale
-
-- Characterizing Impacts of Heterogeneity in Federated Learning upon Large-Scale Smartphone Data, https://arxiv.org/abs/2006.06983
-  >https://github.com/PKU-Chengxu/FLASH  
 
 ***
 
@@ -101,7 +97,9 @@ FedBalancer: Data and Pace Control for Efficient Federated Learning on Heterogen
   >- For the testbed experiment on Android devices in our paper (Section 4.6), please refer to the following repository: [flower-FedBalancer-testbed](https://github.com/jaemin-shin/flower-FedBalancer-testbed).  
   >- https://nmsl.kaist.ac.kr/projects/fedbalancer/  
 
-
+- [38] Oort: Informed Participant Selection for Scalable Federated Learning, https://arxiv.org/abs/2010.06081
+- [75] Characterizing Impacts of Heterogeneity in Federated Learning upon Large-Scale Smartphone Data, https://arxiv.org/abs/2006.06983
+  >https://github.com/PKU-Chengxu/FLASH  
 
 ***
 Back to [Papers](#papers)  
