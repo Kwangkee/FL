@@ -102,9 +102,9 @@ Tiansheng Huang, https://scholar.google.com/citations?hl=ko&user=zz6Oq8wAAAAJ&vi
 - [원문 못 구함] VFedCS: Optimizing Client Selection for Volatile Federated Learning, https://ieeexplore.ieee.org/abstract/document/9846900
 - Stochastic Client Selection for Federated Learning with Volatile Clients, https://arxiv.org/abs/2011.08756  
 - Contribution-based Federated Learning client selection, https://onlinelibrary.wiley.com/doi/10.1002/int.22879?af=R  
-  >https://onlinelibrary.wiley.com/doi/full/10.1002/int.22879?casa_token=wSdU803SnX0AAAAA%3AHBvDCzTClNGB1PavHfnxm_nUy2L9E500PRB3nmQ56ohnQkJvqs6y-CA-s512jrNb6HYT-sNr6HfGRGqT  
-  >https://onlinelibrary.wiley.com/doi/epdf/10.1002/int.22879  
-  >Github: https://github.com/xuyinhai22/Client-selection-of-Federated-Learning  
+  >- https://onlinelibrary.wiley.com/doi/full/10.1002/int.22879?casa_token=wSdU803SnX0AAAAA%3AHBvDCzTClNGB1PavHfnxm_nUy2L9E500PRB3nmQ56ohnQkJvqs6y-CA-s512jrNb6HYT-sNr6HfGRGqT  
+  >- https://onlinelibrary.wiley.com/doi/epdf/10.1002/int.22879  
+  >- Github: https://github.com/xuyinhai22/Client-selection-of-Federated-Learning  
   
   >Our algorithm CBE3 is based on the federal learning framework [Flsim](https://github.com/Kwangkee/FL/blob/main/FL%40Meta.md#federated-learning-simulator-flsim).
   >>In this paper, we propose the contribution-based selection algorithm (Contribution-Based Exponential-weight algorithm for Exploration and Exploitation, CBE3), which dynamically updates the selection weights according to the impact of clients' data. As a novel component of CBE3, a scaling factor, which helps maintain a good balance between global model accuracy and convergence speed, is proposed to improve the algorithm's adaptability.  
