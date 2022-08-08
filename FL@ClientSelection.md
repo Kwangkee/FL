@@ -5,7 +5,7 @@ Back to https://github.com/Kwangkee/FL
 
 - [Oort: Informed Participant Selection for Scalable Federated Learning](https://github.com/Kwangkee/FL/edit/main/FL@ClientSelection.md#oort-informed-participant-selection-for-scalable-federated-learning), https://arxiv.org/abs/2010.06081v1
 
-- Client selection for federated learning with heterogeneous resources in mobile edge, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Client+Selection+for+Federated+Learning+with+Heterogeneous+Resources+in+Mobile+Edge&btnG=
+- Multi-armed bandit-based client scheduling for federated learning, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Multi-Armed-Bandit-Based-Client-Scheduling-for-Federated-Learning&btnG=
 
 - Client selection in federated learning: Convergence analysis and power-of-choice selection strategies, https://github.com/Kwangkee/FL/blob/main/FL@CarnegieMellon.md#yae-jee-cho
 
@@ -26,6 +26,8 @@ Back to https://github.com/Kwangkee/FL
 - Client Selection@Awesome Federated Machine Learning
 https://github.com/innovation-cat/Awesome-Federated-Machine-Learning#15-client-selection
 
+- Client selection for federated learning with heterogeneous resources in mobile edge, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Client+Selection+for+Federated+Learning+with+Heterogeneous+Resources+in+Mobile+Edge&btnG=
+- 
 - [원문 못 구함] VFedCS: Optimizing Client Selection for Volatile Federated Learning, https://ieeexplore.ieee.org/abstract/document/9846900
 - A Contribution-based Device Selection Scheme in Federated Learning, https://arxiv.org/abs/2203.05369
 
