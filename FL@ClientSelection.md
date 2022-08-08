@@ -67,6 +67,12 @@ utility design, whereby we achieve the close to upper-bound statistical performa
   >>Next, we adaptively balance the exploration and exploitation of different arms to maximize the long-term reward.
   
 
+## FedScale 
+A scalable and extensible federated learning engine and benchmark, http://fedscale.ai/
+
+FedScale: Benchmarking Model and System Performance of Federated Learning at Scale, https://arxiv.org/abs/2105.11367  
+Swan: A Neural Engine for Efficient DNN Training on Smartphone SoCs, https://arxiv.org/abs/2206.04687   
+
 ***
 Back to [Papers](#papers)  
 Back to https://github.com/Kwangkee/FL
