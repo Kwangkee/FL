@@ -57,7 +57,7 @@ utility design, whereby we achieve the close to upper-bound statistical performa
 
 - Issue: multi-armedbandit problem, exploration-exploitation
   >Online exploration-exploitation of high-utility clients. 
-  >>Selecting participants out of numerous clients can be modeled as a **multi-armedbandit problem**,where eachclient is an “arm” of the bandit, and the utility obtained is the “reward” [14]. In contrast to sophisticated designs (e.g., reinforcement learning), the bandit model is scalable and flexible even when the solution space (e.g., number of clients) varies dramatically over time. 
+  >>Selecting participants out of numerous clients can be modeled as a **multi-armedbandit problem**, where each client is an “arm” of the bandit, and the utility obtained is the “reward” [14]. In contrast to sophisticated designs (e.g., reinforcement learning), the bandit model is scalable and flexible even when the solution space (e.g., number of clients) varies dramatically over time. 
   
   >>Next, we adaptively balance the exploration and exploitation of different arms to maximize the long-term reward.
   
