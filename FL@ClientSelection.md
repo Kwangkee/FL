@@ -97,9 +97,9 @@ FedBalancer: Data and Pace Control for Efficient Federated Learning on Heterogen
 - The source code of our FedBalancer implementation are available at https://github.com/jaemin-shin/FedBalancer
 - For the testbed experiment on Android devices in our paper (Section 4.6), please refer to the following repository: [flower-FedBalancer-testbed](https://github.com/jaemin-shin/flower-FedBalancer-testbed).  
 
->- [38] Oort: Informed Participant Selection for Scalable Federated Learning, https://arxiv.org/abs/2010.06081
->- [75] Characterizing Impacts of Heterogeneity in Federated Learning upon Large-Scale Smartphone Data, https://arxiv.org/abs/2006.06983  
->>https://github.com/PKU-Chengxu/FLASH  
+- [38] Oort: Informed Participant Selection for Scalable Federated Learning, https://arxiv.org/abs/2010.06081
+- [75] Characterizing Impacts of Heterogeneity in Federated Learning upon Large-Scale Smartphone Data, https://arxiv.org/abs/2006.06983  
+  >>https://github.com/PKU-Chengxu/FLASH  
 
 ***
 Back to [Papers](#papers)  
