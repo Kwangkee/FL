@@ -41,20 +41,19 @@ https://github.com/innovation-cat/Awesome-Federated-Machine-Learning#15-client-s
 ## Oort: Informed Participant Selection for Scalable Federated Learning
 https://arxiv.org/abs/2010.06081
 
-- Oort is available at https://github.com/SymbioticLab/Oort
-  >- This repo is outdated and no longer actively maintained. Instead, Oort has been merged as part of [FedScale](https://github.com/SymbioticLab/FedScale), a diverse set of challenging and realistic FL benchmark. Please try it!
-  >- FedScale: Benchmarking Model and System Performance of Federated Learning at Scale, https://arxiv.org/abs/2105.11367
-  >- Harsha Madhyastha, https://scholar.google.com/citations?hl=ko&user=kxDm9EsAAAAJ&view_op=list_works&sortby=pubdate 
-
 - https://www.usenix.org/conference/osdi21/presentation/lai     
   >Presentation Video: https://www.youtube.com/watch?v=5npOel4T4Mw  
   >slides: https://www.usenix.org/system/files/osdi21_slides_lai.pdf  
   >
-  >As a result, data characteristics and device capabilities vary widely across clients. Yet, existing efforts randomly select FL participants, which leads to poor model and system efficiency. 
-  >vs.
+  >As a result, data characteristics and device capabilities vary widely across clients. Yet, existing efforts randomly select FL participants, which leads to poor model and system efficiency.  
+  >vs.  
   >In this paper, we propose Oort to improve the performance of federated training and testing with guided participant selection. With an aim to improve time-to-accuracy performance in model training, Oort prioritizes the use of those clients who have both data that offers the greatest utility in improving model accuracy and the capability to run training quickly. 
 
-
+- Oort is available at https://github.com/SymbioticLab/Oort
+  >- This repo is outdated and no longer actively maintained. Instead, Oort has been merged as part of [FedScale](https://github.com/SymbioticLab/FedScale), a diverse set of challenging and realistic FL benchmark. Please try it!
+  >- FedScale: Benchmarking Model and System Performance of Federated Learning at Scale, https://arxiv.org/abs/2105.11367
+  >- Harsha Madhyastha, https://scholar.google.com/citations?hl=ko&user=kxDm9EsAAAAJ&view_op=list_works&sortby=pubdate 
+  
 ***
 Back to [Papers](#papers)  
 Back to https://github.com/Kwangkee/FL
