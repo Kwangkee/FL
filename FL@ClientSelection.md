@@ -33,9 +33,6 @@ https://github.com/innovation-cat/Awesome-Federated-Machine-Learning#15-client-s
 
 ## Large-Scale
 
-- FedScale: Benchmarking Model and System Performance of Federated Learning at Scale, https://arxiv.org/abs/2105.11367
-  > Harsha Madhyastha, https://scholar.google.com/citations?hl=ko&user=kxDm9EsAAAAJ&view_op=list_works&sortby=pubdate 
-
 - Characterizing Impacts of Heterogeneity in Federated Learning upon Large-Scale Smartphone Data, https://arxiv.org/abs/2006.06983v3  
   >https://github.com/PKU-Chengxu/FLASH  
 
@@ -45,10 +42,13 @@ https://github.com/innovation-cat/Awesome-Federated-Machine-Learning#15-client-s
 https://arxiv.org/abs/2010.06081
 
 - Oort is available at https://github.com/SymbioticLab/Oort
+  >- This repo is outdated and no longer actively maintained. Instead, Oort has been merged as part of [FedScale](https://github.com/SymbioticLab/FedScale), a diverse set of challenging and realistic FL benchmark. Please try it!
+  >- FedScale: Benchmarking Model and System Performance of Federated Learning at Scale, https://arxiv.org/abs/2105.11367
+  > Harsha Madhyastha, https://scholar.google.com/citations?hl=ko&user=kxDm9EsAAAAJ&view_op=list_works&sortby=pubdate 
+
 - https://www.usenix.org/conference/osdi21/presentation/lai     
   >Presentation Video: https://www.youtube.com/watch?v=5npOel4T4Mw  
   >slides: https://www.usenix.org/system/files/osdi21_slides_lai.pdf  
-
 
 
 ***
