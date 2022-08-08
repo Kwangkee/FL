@@ -49,12 +49,16 @@ https://arxiv.org/abs/2010.06081
   
   >Consequently, a fundamental problem in practical FL is the *selection of a “good” subset of clients as participants*, where each participant locally processes its own data, and only their results are collected and aggregated at a (logically) centralized coordinator.
 
-- 질문
+- Issue
   >As such, we consider clients that currently accumulate a bigger loss to be more important for future rounds.  
   >>Our statistical utility can capture the heterogeneous data utility across and within categories and samples for various tasks. We present the theoretical proof for its effectiveness over random sampling in our technical report [45], and empirically show its close-to-optimal performance (§7.2.2).
   >>>By taking account of the oracle and the effectiveness of loss-based approximation, we propose our loss-based statistical
 utility design, whereby we achieve the close to upper-bound statistical performance (§7.2.2).
 
+- Issue
+  >Online exploration-exploitation of high-utility clients. 
+  >>Selecting participants out of numerous clients can be modeled as a **multi-armedbandit problem**,where eachclient is an “arm” of the bandit, and the utility obtained is the “reward” [14]. In contrast to sophisticated designs (e.g., reinforcement learning), the bandit model is scalable and flexible even when the solution space (e.g., number of clients) varies dramatically over time. Next, we adaptively balance the exploration and exploitation of different arms to maximize the long-term reward.
+  >>Similar to the bandit design, Oort efficiently explores potential participants under spatial variation, while intelligently exploiting observed high-utility participants under temporal variation. At the beginning of each selection round, Oort receives the feedback of the last training round, and updates the statistical utility and system performance of clients (Line 6). For the explored clients, Oort calculates their client utility and narrows down the selection by exploiting the high-utility participants (Line 9-15). Meanwhile, Oort samples ε(∈ [0, 1]) fraction of participants to explore potential participants that had not been selected before (Line 16), which turns to full exploration as ε → 1. Although we cannot learn the statistical
 
 - Oort is available at https://github.com/SymbioticLab/Oort
   >- This repo is outdated and no longer actively maintained. Instead, Oort has been merged as part of [FedScale](https://github.com/SymbioticLab/FedScale), a diverse set of challenging and realistic FL benchmark. Please try it!
