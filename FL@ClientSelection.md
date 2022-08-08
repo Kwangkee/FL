@@ -75,7 +75,7 @@ FedScale, https://github.com/symbioticlab/fedscale
 >- FedScale Runtime: A Deployment and Evaluation Platform for Federated Learning, https://github.com/SymbioticLab/FedScale/tree/master/fedscale/core
 >- Setup Android Edge Device From Scratch, https://github.com/SymbioticLab/FedScale/tree/master/fedscale/deploy/mobile
 
-## FedScale Repo Structure
+### FedScale Repo Structure
 
 ```
 Repo Root
