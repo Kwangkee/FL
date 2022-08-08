@@ -49,6 +49,10 @@ https://arxiv.org/abs/2010.06081
 - https://www.usenix.org/conference/osdi21/presentation/lai     
   >Presentation Video: https://www.youtube.com/watch?v=5npOel4T4Mw  
   >slides: https://www.usenix.org/system/files/osdi21_slides_lai.pdf  
+  >
+  >As a result, data characteristics and device capabilities vary widely across clients. Yet, existing efforts randomly select FL participants, which leads to poor model and system efficiency. 
+  >vs.
+  >In this paper, we propose Oort to improve the performance of federated training and testing with guided participant selection. With an aim to improve time-to-accuracy performance in model training, Oort prioritizes the use of those clients who have both data that offers the greatest utility in improving model accuracy and the capability to run training quickly. 
 
 
 ***
