@@ -49,16 +49,16 @@ https://arxiv.org/abs/2010.06081
   
   >Consequently, a fundamental problem in practical FL is the *selection of a “good” subset of clients as participants*, where each participant locally processes its own data, and only their results are collected and aggregated at a (logically) centralized coordinator.
 
-- Issue: loss-based statistical utility design
+#### Issue: loss-based statistical utility design
   >As such, we consider clients that currently accumulate a bigger loss to be more important for future rounds.  
   >>Our statistical utility can capture the heterogeneous data utility across and within categories and samples for various tasks. We present the theoretical proof for its effectiveness over random sampling in our technical report [45], and empirically show its close-to-optimal performance (§7.2.2).
   >>>By taking account of the oracle and the effectiveness of loss-based approximation, we propose our loss-based statistical
 utility design, whereby we achieve the close to upper-bound statistical performance (§7.2.2).
 
-- Issue: multi-armedbandit problem, exploration-exploitation
+#### Issue: MAB (Multi-Armed Bandit) problem, exploration-exploitation
   >Online exploration-exploitation of high-utility clients. 
-  >>Selecting participants out of numerous clients can be modeled as a **multi-armedbandit problem**, where each client is an “arm” of the bandit, and the utility obtained is the “reward” [14]. In contrast to sophisticated designs (e.g., reinforcement learning), the bandit model is scalable and flexible even when the solution space (e.g., number of clients) varies dramatically over time. 
-  
+  >>Selecting participants out of numerous clients can be modeled as a **multi-armed bandit problem**, where each client is an “arm” of the bandit, and the utility obtained is the “reward” [14]. In contrast to sophisticated designs (e.g., reinforcement learning), the bandit model is scalable and flexible even when the solution space (e.g., number of clients) varies dramatically over time. 
+  >
   >>Next, we adaptively balance the exploration and exploitation of different arms to maximize the long-term reward.
   
 - Oort is available at https://github.com/SymbioticLab/Oort
