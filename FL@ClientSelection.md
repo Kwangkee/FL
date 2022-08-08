@@ -84,17 +84,6 @@ Repo Root
 |---- docs              # FedScale tutorials and APIs
 ```
 
-## FedBalancer 
-FedBalancer: Data and Pace Control for Efficient Federated Learning on Heterogeneous Clients (ACM MobiSys 2022), https://dl.acm.org/doi/abs/10.1145/3498361.3538917 
-- https://nmsl.kaist.ac.kr/projects/fedbalancer/  
-- The source code of our FedBalancer implementation are available at https://github.com/jaemin-shin/FedBalancer
-- For the testbed experiment on Android devices in our paper (Section 4.6), please refer to the following repository: [flower-FedBalancer-testbed](https://github.com/jaemin-shin/flower-FedBalancer-testbed).  
-
-[References]
-- [38] Oort: Informed Participant Selection for Scalable Federated Learning, https://arxiv.org/abs/2010.06081
-- [75] Characterizing Impacts of Heterogeneity in Federated Learning upon Large-Scale Smartphone Data, https://arxiv.org/abs/2006.06983  
-  >https://github.com/PKU-Chengxu/FLASH  
-
 ## VFedCS
 Weiwei Lin(林伟伟), https://scholar.google.com/citations?hl=ko&user=IWsha94AAAAJ&view_op=list_works&sortby=pubdate  
 Tiansheng Huang, https://scholar.google.com/citations?hl=ko&user=zz6Oq8wAAAAJ&view_op=list_works&sortby=pubdate  
@@ -110,7 +99,17 @@ Tiansheng Huang, https://scholar.google.com/citations?hl=ko&user=zz6Oq8wAAAAJ&vi
   >>In this paper, we propose the contribution-based selection algorithm (Contribution-Based Exponential-weight algorithm for Exploration and Exploitation, CBE3), which dynamically updates the selection weights according to the impact of clients' data. As a novel component of CBE3, a scaling factor, which helps maintain a good balance between global model accuracy and convergence speed, is proposed to improve the algorithm's adaptability.  
   >>Empirically, extensive experiments conducted on Non-Independent Identically Distributed data demonstrate the superior performance of CBE3—with up to 10% accuracy improvement compared with K-Center and Greedy and up to 100% faster convergence compared with the Random algorithm.
 
+## FedBalancer 
+FedBalancer: Data and Pace Control for Efficient Federated Learning on Heterogeneous Clients (ACM MobiSys 2022), https://dl.acm.org/doi/abs/10.1145/3498361.3538917 
+- https://nmsl.kaist.ac.kr/projects/fedbalancer/  
+- The source code of our FedBalancer implementation are available at https://github.com/jaemin-shin/FedBalancer
+- For the testbed experiment on Android devices in our paper (Section 4.6), please refer to the following repository: [flower-FedBalancer-testbed](https://github.com/jaemin-shin/flower-FedBalancer-testbed).  
 
+[References]
+- [38] Oort: Informed Participant Selection for Scalable Federated Learning, https://arxiv.org/abs/2010.06081
+- [75] Characterizing Impacts of Heterogeneity in Federated Learning upon Large-Scale Smartphone Data, https://arxiv.org/abs/2006.06983  
+  >https://github.com/PKU-Chengxu/FLASH 
+  
 ***
 Back to [Papers](#papers)  
 Back to https://github.com/Kwangkee/FL
