@@ -21,7 +21,6 @@ https://github.com/innovation-cat/Awesome-Federated-Machine-Learning#15-client-s
 - Multi-armed bandit-based client scheduling for federated learning, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Multi-Armed-Bandit-Based-Client-Scheduling-for-Federated-Learning&btnG=
 
 - Client selection for federated learning with heterogeneous resources in mobile edge, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Client+Selection+for+Federated+Learning+with+Heterogeneous+Resources+in+Mobile+Edge&btnG=
-- 
 
 - A Contribution-based Device Selection Scheme in Federated Learning, https://arxiv.org/abs/2203.05369
 
