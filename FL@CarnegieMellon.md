@@ -14,7 +14,6 @@ https://yaejeec.github.io/
 
 - [[Towards Understanding Biased Client Selection in Federated Learning](https://github.com/Kwangkee/FL/blob/main/FL@CarnegieMellon.md#biased-client-selection)], https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Towards+Understanding+Biased+Client+Selection+in+Federated+Learning&btnG=  
 - [[To Federate or Not To Federate: Incentivizing Client Participation in Federated Learning](https://github.com/Kwangkee/FL/blob/main/FL@CarnegieMellon.md#incfl)], https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=MR333jsAAAAJ&sortby=pubdate&citation_for_view=MR333jsAAAAJ:UebtZRa9Y70C  
-- [[Client Selection in Federated Learning: Convergence Analysis and Power-of-Choice Selection Strategies](https://github.com/Kwangkee/FL/blob/main/FL@CarnegieMellon.md#power-of-choice-selection)], https://arxiv.org/abs/2010.01243
 
 ***
 
@@ -32,11 +31,6 @@ In this paper, we propose an algorithm called IncFL that explicitly maximizes th
 
 ![image](https://user-images.githubusercontent.com/109835677/183677084-d0f54ace-f702-48d3-9f5f-0fe099bc1911.png) 
 Figure 2: Aggregating weight qk(w) for any clientk versus  the emprical incentive gap Fk(w) − Fk(wb k). The weight qk(w) is small for clients that already have a very large incentive (global much better than local) or no incentive at all (local much better than global), and is highest for clients that are moderately incentivized (global similar to local).
-
-## Power-of-Choice Selection
-Client Selection in Federated Learning: Convergence Analysis and Power-of-Choice Selection Strategies, https://arxiv.org/abs/2010.01243
-
-In this paper, we present the first convergence analysis of federated optimization for biased client selection strategies, and quantify how the selection bias affects convergence speed. We reveal that biasing client selection towards clients with higher local loss achieves faster error convergence. Using this insight, we propose Power-of-Choice, a communication- and computation-efficient client selection framework that can flexibly span the trade-off between convergence speed and solution bias. Our experiments demonstrate that Power-of-Choice strategies converge up to 3 × faster and give 10% higher test accuracy than the baseline random selection.
 
 ***
 Back to the [Top](#list)  
