@@ -139,7 +139,7 @@ Researchers have studied on how to select a group of clients for a training roun
 
 [References]
 - [14] Yae Jee Cho, Bandit-based Communication-Efficient Client Selection Strategies for Federated Learning, https://doi.org/10.1109/IEEECONF51394.2020.9443523
-- [15] Yae Jee Cho, Towards Understanding Biased Client Selection in Federated Learning, https: //proceedings.mlr.press/v151/jee-cho22a.html
+- [15] Yae Jee Cho, Towards Understanding Biased Client Selection in Federated Learning, https://proceedings.mlr.press/v151/jee-cho22a.html
 - [38] Oort: Informed Participant Selection for Scalable Federated Learning, https://arxiv.org/abs/2010.06081
 - [75] Characterizing Impacts of Heterogeneity in Federated Learning upon Large-Scale Smartphone Data, https://arxiv.org/abs/2006.06983  
   >https://github.com/PKU-Chengxu/FLASH 
