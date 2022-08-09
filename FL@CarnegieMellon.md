@@ -31,6 +31,9 @@ In this paper, we propose an algorithm called IncFL that explicitly maximizes th
 ![image](https://user-images.githubusercontent.com/109835677/183677084-d0f54ace-f702-48d3-9f5f-0fe099bc1911.png) 
 Figure 2: Aggregating weight qk(w) for any clientk versus  the emprical incentive gap Fk(w) − Fk(wb k). The weight qk(w) is small for clients that already have a very large incentive (global much better than local) or no incentive at all (local much better than global), and is highest for clients that are moderately incentivized (global similar to local).
 
+## Power-of-Choice Selection
+- Client Selection in Federated Learning: Convergence Analysis and Power-of-Choice Selection Strategies, https://arxiv.org/abs/2010.01243
+
 ***
 Back to the [Top](#list)  
 Back to https://github.com/Kwangkee/FL
