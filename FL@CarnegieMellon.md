@@ -21,6 +21,8 @@ https://yaejeec.github.io/
 ## Biased Client Selection
 Towards Understanding Biased Client Selection in Federated Learning, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Towards+Understanding+Biased+Client+Selection+in+Federated+Learning&btnG=  
 
+>Client Selection in Federated Learning: Convergence Analysis and Power-of-Choice Selection Strategies, https://arxiv.org/abs/2010.01243
+
 In our work, we present the convergence analysis of federated learning with biased client selection and quantify how the bias affects convergence speed. **We show that biasing client selection towards clients with higher local loss yields faster error convergence.** From this insight, we propose Power-of-Choice, a communication- and computation-efficient client selection framework that flexibly spans the trade-off between convergence speed and solution bias. Extensive experiments demonstrate that Power-of-Choice can converge up to 3× faster and give 10% higher test accuracy than the baseline random selection.  
 
 ## IncFL
