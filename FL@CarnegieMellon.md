@@ -32,7 +32,9 @@ In this paper, we propose an algorithm called IncFL that explicitly maximizes th
 Figure 2: Aggregating weight qk(w) for any clientk versus  the emprical incentive gap Fk(w) − Fk(wb k). The weight qk(w) is small for clients that already have a very large incentive (global much better than local) or no incentive at all (local much better than global), and is highest for clients that are moderately incentivized (global similar to local).
 
 ## Power-of-Choice Selection
-- Client Selection in Federated Learning: Convergence Analysis and Power-of-Choice Selection Strategies, https://arxiv.org/abs/2010.01243
+Client Selection in Federated Learning: Convergence Analysis and Power-of-Choice Selection Strategies, https://arxiv.org/abs/2010.01243
+
+In this paper, we present the first convergence analysis of federated optimization for biased client selection strategies, and quantify how the selection bias affects convergence speed. We reveal that biasing client selection towards clients with higher local loss achieves faster error convergence. Using this insight, we propose Power-of-Choice, a communication- and computation-efficient client selection framework that can flexibly span the trade-off between convergence speed and solution bias. Our experiments demonstrate that Power-of-Choice strategies converge up to 3 × faster and give 10% higher test accuracy than the baseline random selection.
 
 ***
 Back to the [Top](#list)  
