@@ -26,7 +26,7 @@ In our work, we present the convergence analysis of federated learning with bias
 ## IncFL
 To Federate or Not To Federate: Incentivizing Client Participation in Federated Learning, https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=MR333jsAAAAJ&sortby=pubdate&citation_for_view=MR333jsAAAAJ:UebtZRa9Y70C  
 
-Due to data heterogeneity, however, the global model may not work well for some clients, and they may instead choose to use their own local model. Such disincentivization of clients can be problematic from the server’s perspective because having more participating clients yields a better global model, and offers better privacy guarantees to the participating clients. In this paper, we propose an algorithm called IncFL that explicitly maximizes the fraction of clients who are incentivized to use the global model by dynamically adjusting the aggregation weights assigned to their updates. Our experiments show that IncFL increases the number of incentivized clients by 30-55% compared to standard federated training algorithms, and can also improve the generalization performance of the global model on unseen clients.
+In this paper, we propose an algorithm called IncFL that explicitly maximizes the fraction of clients who are incentivized to use the global model by dynamically adjusting the aggregation weights assigned to their updates. Our experiments show that IncFL increases the number of incentivized clients by 30-55% compared to standard federated training algorithms, and can also improve the generalization performance of the global model on unseen clients.
 
 
 
