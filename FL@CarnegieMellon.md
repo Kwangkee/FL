@@ -14,7 +14,7 @@ https://yaejeec.github.io/
 
 - [[Towards Understanding Biased Client Selection in Federated Learning](https://github.com/Kwangkee/FL/blob/main/FL@CarnegieMellon.md#biased-client-selection)], https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Towards+Understanding+Biased+Client+Selection+in+Federated+Learning&btnG=  
 - [[To Federate or Not To Federate: Incentivizing Client Participation in Federated Learning](https://github.com/Kwangkee/FL/blob/main/FL@CarnegieMellon.md#incfl)], https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=MR333jsAAAAJ&sortby=pubdate&citation_for_view=MR333jsAAAAJ:UebtZRa9Y70C  
-- Client Selection in Federated Learning: Convergence Analysis and Power-of-Choice Selection Strategies, https://arxiv.org/abs/2010.01243
+- [[Client Selection in Federated Learning: Convergence Analysis and Power-of-Choice Selection Strategies](https://github.com/Kwangkee/FL/blob/main/FL@CarnegieMellon.md#power-of-choice-selection)], https://arxiv.org/abs/2010.01243
 
 ***
 
