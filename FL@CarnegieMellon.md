@@ -13,7 +13,7 @@ https://scholar.google.com/citations?hl=ko&user=MR333jsAAAAJ&view_op=list_works&
 https://yaejeec.github.io/   
 
 - [[Towards Understanding Biased Client Selection in Federated Learning](https://github.com/Kwangkee/FL/blob/main/FL@CarnegieMellon.md#biased-client-selection)], https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Towards+Understanding+Biased+Client+Selection+in+Federated+Learning&btnG=  
-- [[To Federate or Not To Federate: Incentivizing Client Participation in Federated Learning](https://github.com/Kwangkee/FL/blob/main/FL@CarnegieMellon.md#incentivizing-client-participation)], https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=MR333jsAAAAJ&sortby=pubdate&citation_for_view=MR333jsAAAAJ:UebtZRa9Y70C  
+- [[To Federate or Not To Federate: Incentivizing Client Participation in Federated Learning](https://github.com/Kwangkee/FL/blob/main/FL@CarnegieMellon.md#incfl)], https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=MR333jsAAAAJ&sortby=pubdate&citation_for_view=MR333jsAAAAJ:UebtZRa9Y70C  
 - Client Selection in Federated Learning: Convergence Analysis and Power-of-Choice Selection Strategies, https://arxiv.org/abs/2010.01243
 
 ***
@@ -23,11 +23,10 @@ Towards Understanding Biased Client Selection in Federated Learning, https://sch
 
 In our work, we present the convergence analysis of federated learning with biased client selection and quantify how the bias affects convergence speed. **We show that biasing client selection towards clients with higher local loss yields faster error convergence.** From this insight, we propose Power-of-Choice, a communication- and computation-efficient client selection framework that flexibly spans the trade-off between convergence speed and solution bias. Extensive experiments demonstrate that Power-of-Choice can converge up to 3× faster and give 10% higher test accuracy than the baseline random selection.  
 
-## Incentivizing Client Participation
+## IncFL
 To Federate or Not To Federate: Incentivizing Client Participation in Federated Learning, https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=MR333jsAAAAJ&sortby=pubdate&citation_for_view=MR333jsAAAAJ:UebtZRa9Y70C  
 
-
-
+Due to data heterogeneity, however, the global model may not work well for some clients, and they may instead choose to use their own local model. Such disincentivization of clients can be problematic from the server’s perspective because having more participating clients yields a better global model, and offers better privacy guarantees to the participating clients. In this paper, we propose an algorithm called IncFL that explicitly maximizes the fraction of clients who are incentivized to use the global model by dynamically adjusting the aggregation weights assigned to their updates. Our experiments show that IncFL increases the number of incentivized clients by 30-55% compared to standard federated training algorithms, and can also improve the generalization performance of the global model on unseen clients.
 
 
 
