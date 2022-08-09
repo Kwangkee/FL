@@ -123,12 +123,23 @@ FedBalancer: Data and Pace Control for Efficient Federated Learning on Heterogen
 - The source code of our FedBalancer implementation are available at https://github.com/jaemin-shin/FedBalancer
 - For the testbed experiment on Android devices in our paper (Section 4.6), please refer to the following repository: [flower-FedBalancer-testbed](https://github.com/jaemin-shin/flower-FedBalancer-testbed).  
 
+
+#### 3.2 Client Sample Selection 
+In Section 2.2, we observed that existing FL methods consume large portion of time to train samples that contribute only small gradient to the model. As these samples are quickly learned after few rounds, we design FedBalancer to start training with all samples and **gradually remove already-learned samples**. This enables FedBalancer to efficiently **focus on more important samples at each round** while optimizing the training process of FL. However, implementing such design in FL is non-trivial as the following question needs to be addressed: *How should FedBalancer distinguish between important and non-important samples at each stage of FL?*  
+
+Note that FedBalancer uses the **loss of a sample to measure the statistical utility (and thus the importance) of a sample to the current model**, similar to Importance Sampling [52, 61]. While other studies have also leveraged gradient norm or gradient norm upper bound [5, 34, 42] to achieve the same goal, we use loss as it is more widely applicable to FL tasks with non gradient-based optimizations [59].
+
+#### 3.2.3 Client selection with sample selection. 
+Researchers have studied on how to select a group of clients for a training round to optimize convergence speed and model performance in heterogeneous FL[14, 15, 38]. While these approaches prioritize clients with higher statistical utility from the data, applying them along with FedBalancer is non-trivial as the samples are dynamically selected with the loss threshold. To address this issue, we propose a new formulation to calculate the statistical utility of a client 𝑖 along with the sample selection strategy of FedBalancer as follow
+
 #### Future work 
 >**Robustness of Sample Selection.**  
 >One of the possible limitation of FedBalancer is that it might perform worse on FL tasks with noisy data, as noisy samples are highly likely to be selected by the sample selection module that prioritizes high loss. As we observed the performance improvement with FedBalancer on five real-world user datasets which may already have certain noise level, we expect FedBalancer would be helpful on most FL tasks. To improve further, we could systematically involve robust training approaches at centralized learning [60, 64, 65] to actively deal with noisy data. This is part of our future work.
 
 
 [References]
+- [14] Yae Jee Cho, Bandit-based Communication-Efficient Client Selection Strategies for Federated Learning, https://doi.org/10.1109/IEEECONF51394.2020.9443523
+- [15] Yae Jee Cho, Towards Understanding Biased Client Selection in Federated Learning, https: //proceedings.mlr.press/v151/jee-cho22a.html
 - [38] Oort: Informed Participant Selection for Scalable Federated Learning, https://arxiv.org/abs/2010.06081
 - [75] Characterizing Impacts of Heterogeneity in Federated Learning upon Large-Scale Smartphone Data, https://arxiv.org/abs/2006.06983  
   >https://github.com/PKU-Chengxu/FLASH 
