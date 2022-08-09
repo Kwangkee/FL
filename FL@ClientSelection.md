@@ -132,6 +132,9 @@ Note that FedBalancer uses the **loss of a sample to measure the statistical uti
 #### 3.2.3 Client selection with sample selection. 
 Researchers have studied on how to select a group of clients for a training round to optimize convergence speed and model performance in heterogeneous FL[14, 15, 38]. While these approaches prioritize clients with higher statistical utility from the data, applying them along with FedBalancer is non-trivial as the samples are dynamically selected with the loss threshold. To address this issue, we propose a new formulation to calculate the statistical utility of a client 𝑖 along with the sample selection strategy of FedBalancer as follow
 
+#### IncFL 
+https://github.com/Kwangkee/FL/blob/main/FL@CarnegieMellon.md#incfl
+
 #### Future work 
 >**Robustness of Sample Selection.**  
 >One of the possible limitation of FedBalancer is that it might perform worse on FL tasks with noisy data, as noisy samples are highly likely to be selected by the sample selection module that prioritizes high loss. As we observed the performance improvement with FedBalancer on five real-world user datasets which may already have certain noise level, we expect FedBalancer would be helpful on most FL tasks. To improve further, we could systematically involve robust training approaches at centralized learning [60, 64, 65] to actively deal with noisy data. This is part of our future work.
