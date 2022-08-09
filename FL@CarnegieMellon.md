@@ -28,7 +28,7 @@ To Federate or Not To Federate: Incentivizing Client Participation in Federated 
 
 In this paper, we propose an algorithm called IncFL that explicitly maximizes the fraction of clients who are incentivized to use the global model by dynamically adjusting the aggregation weights assigned to their updates. Our experiments show that IncFL increases the number of incentivized clients by 30-55% compared to standard federated training algorithms, and can also improve the generalization performance of the global model on unseen clients.
 
-![image](https://user-images.githubusercontent.com/109835677/183677084-d0f54ace-f702-48d3-9f5f-0fe099bc1911.png)  
+![image](https://user-images.githubusercontent.com/109835677/183677084-d0f54ace-f702-48d3-9f5f-0fe099bc1911.png) 
 Figure 2: Aggregating weight qk(w) for any clientk versus  the emprical incentive gap Fk(w) − Fk(wb k). The weight qk(w) is small for clients that already have a very large incentive (global much better than local) or no incentive at all (local much better than global), and is highest for clients that are moderately incentivized (global similar to local).
 
 ***
