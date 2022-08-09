@@ -16,7 +16,7 @@ Back to https://github.com/Kwangkee/FL
 - [FedCS] Client selection for federated learning with heterogeneous resources in mobile edge, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Client+Selection+for+Federated+Learning+with+Heterogeneous+Resources+in+Mobile+Edge&btnG=
   >Specifically, FedCS solves a client selection problem with resource constraints, which allows the server to aggregate as many client updates as possible and to accelerate performance improvement in ML models. We conducted an experimental evaluation using publicly-available large-scale image datasets to train deep neural networks on MEC environment simulations. The experimental results show that FedCS is able to complete its training process in a significantly shorter time compared to the original FL protocol.
 
-- Federated learning with workload-aware client scheduling in heterogeneous systems, https://www-sciencedirect-com.libproxy.kw.ac.kr/science/article/pii/S0893608022002957?via%3Dihub
+- Federated learning with workload-aware client scheduling in heterogeneous systems, https://www.sciencedirect.com/science/article/abs/pii/S0893608022002957
 
 - Client Selection for Federated Learning With Non-IID Data in Mobile Edge Computing, https://www.researchgate.net/publication/349012712_Client_Selection_for_Federated_Learning_With_Non-IID_Data_in_Mobile_Edge_Computing
 
