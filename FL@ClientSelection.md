@@ -123,6 +123,11 @@ FedBalancer: Data and Pace Control for Efficient Federated Learning on Heterogen
 - The source code of our FedBalancer implementation are available at https://github.com/jaemin-shin/FedBalancer
 - For the testbed experiment on Android devices in our paper (Section 4.6), please refer to the following repository: [flower-FedBalancer-testbed](https://github.com/jaemin-shin/flower-FedBalancer-testbed).  
 
+#### Future work 
+>**Robustness of Sample Selection.**  
+>One of the possible limitation of FedBalancer is that it might perform worse on FL tasks with noisy data, as noisy samples are highly likely to be selected by the sample selection module that prioritizes high loss. As we observed the performance improvement with FedBalancer on five real-world user datasets which may already have certain noise level, we expect FedBalancer would be helpful on most FL tasks. To improve further, we could systematically involve robust training approaches at centralized learning [60, 64, 65] to actively deal with noisy data. This is part of our future work.
+
+
 [References]
 - [38] Oort: Informed Participant Selection for Scalable Federated Learning, https://arxiv.org/abs/2010.06081
 - [75] Characterizing Impacts of Heterogeneity in Federated Learning upon Large-Scale Smartphone Data, https://arxiv.org/abs/2006.06983  
