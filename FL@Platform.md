@@ -3,6 +3,7 @@ Back to https://github.com/Kwangkee/FL
 
 ## List
 [Flower](#flower)  
+[FedScale](#fedscale)  
 
 
 ***   
@@ -11,7 +12,7 @@ Back to https://github.com/Kwangkee/FL
 
 Flower: A Friendly Federated Learning Framework, https://flower.dev/
 
-## FedScale@umich
+## FedScale
 A scalable and extensible federated learning engine and benchmark, http://fedscale.ai/  
 FedScale: Benchmarking Model and System Performance of Federated Learning at Scale, https://arxiv.org/abs/2105.11367  
 Swan: A Neural Engine for Efficient DNN Training on Smartphone SoCs, https://arxiv.org/abs/2206.04687   
