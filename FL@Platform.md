@@ -22,6 +22,22 @@ Swan: A Neural Engine for Efficient DNN Training on Smartphone SoCs, https://arx
 >- FedScale Runtime: A Deployment and Evaluation Platform for Federated Learning, https://github.com/SymbioticLab/FedScale/tree/master/fedscale/core
 >- Setup Android Edge Device From Scratch, https://github.com/SymbioticLab/FedScale/tree/master/fedscale/deploy/mobile
 
+#### FedScale Repo Structure
+
+```
+Repo Root
+|---- fedscale          # FedScale source code
+  |---- core            # Core of FedScale service
+  |---- utils           # Auxiliaries (e.g, model zoo and FL optimizer)
+  |---- deploy          # Deployment backends (e.g., mobile)
+  |---- dataloaders     # Data loaders of benchmarking dataset
+
+|---- benchmark         # FedScale datasets and configs
+  |---- dataset         # Benchmarking datasets
+
+|---- examples          # Examples of implementing new FL designs
+|---- docs              # FedScale tutorials and APIs
+```
 
 ***
 Back to the [Top](#list)  
