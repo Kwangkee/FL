@@ -42,7 +42,7 @@ Repo Root
 
 ## FLSim
 
-https://github.com/facebookresearch/FLSim
+https://github.com/facebookresearch/FLSim  
 Federated Learning Simulator (FLSim) is a flexible, standalone library written in PyTorch that simulates FL settings with a minimal, easy-to-use API. FLSim is domain-agnostic and accommodates many use cases such as computer vision and natural text. Currently FLSim supports cross-device FL, where millions of clients' devices (e.g. phones) train a model collaboratively together.
 
 FLSim is scalable and fast. It supports differential privacy (DP), secure aggregation (secAgg), and a variety of compression techniques.  
