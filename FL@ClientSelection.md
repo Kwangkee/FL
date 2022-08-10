@@ -4,7 +4,7 @@ Back to https://github.com/Kwangkee/FL
 ## Papers 
 
 - [[Oort: Informed Participant Selection for Scalable Federated Learning](https://github.com/Kwangkee/FL/edit/main/FL@ClientSelection.md#oort)], https://arxiv.org/abs/2010.06081
-  >- Now merged as part of [FedScale](https://github.com/Kwangkee/FL/blob/main/FL%40ClientSelection.md#fedscale)
+  >- Now merged as part of [FedScale](https://github.com/Kwangkee/FL/blob/main/FL@ClientSelection.md#fedscale)
 
 - [Contribution-based selection algorithm (Contribution-Based Exponential-weight algorithm for Exploration and Exploitation, CBE3)](https://github.com/Kwangkee/FL/blob/main/FL@ClientSelection.md#cbe3)
 
