@@ -10,6 +10,8 @@ Back to https://github.com/Kwangkee/FL
 
 - Client selection in federated learning: Convergence analysis and power-of-choice selection strategies, https://github.com/Kwangkee/FL/blob/main/FL@CarnegieMellon.md#yae-jee-cho
 
+- [[FedBalancer: Data and Pace Control for Efficient Federated Learning on Heterogeneous Clients (ACM MobiSys 2022)](https://github.com/Kwangkee/FL/blob/main/FL@ClientSelection.md#fedbalancer)], https://dl.acm.org/doi/abs/10.1145/3498361.3538917 
+ 
 
 ## ETC
 
