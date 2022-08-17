@@ -67,6 +67,7 @@ utility design, whereby we achieve the close to upper-bound statistical performa
 A scalable and extensible federated learning engine and benchmark, http://fedscale.ai/  
 FedScale: Benchmarking Model and System Performance of Federated Learning at Scale, https://arxiv.org/abs/2105.11367  
 Swan: A Neural Engine for Efficient DNN Training on Smartphone SoCs, https://arxiv.org/abs/2206.04687   
+>• Swan is built within Termux, a Linux Terminal emulator for Android, and can efficiently train unmodified PyTorch models.
 
 #### FedScale, https://github.com/symbioticlab/fedscale
 >- FedScale Benchmarking Datasets, https://github.com/SymbioticLab/FedScale/tree/master/benchmark/dataset
