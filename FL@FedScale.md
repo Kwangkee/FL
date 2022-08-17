@@ -12,13 +12,6 @@ FedScale: Benchmarking Model and System Performance of Federated Learning at Sca
 >
 >FedScale 에 비하면 Flower 는 장난감. Massive number of clients 지원, 다양한 practical FL setting 지원
 
-
-## Swan
-Swan: A Neural Engine for Efficient DNN Training on Smartphone SoCs, https://arxiv.org/abs/2206.04687   
->Swan is built within Termux, a Linux Terminal emulator for Android, and can efficiently train unmodified PyTorch models.
->
->Mobile On-device Training의 대안으로 Swan 제시. TFLite, PyTorch Mobile 쓰지 않고, unmodified PyTorch models 그대로 사용.
-
 #### FedScale, https://github.com/symbioticlab/fedscale
 - FedScale Benchmarking Datasets, https://github.com/SymbioticLab/FedScale/tree/master/benchmark/dataset
 - FedScale Runtime: A Deployment and Evaluation Platform for Federated Learning, https://github.com/SymbioticLab/FedScale/tree/master/fedscale/core
@@ -40,6 +33,14 @@ Repo Root
 |---- examples          # Examples of implementing new FL designs
 |---- docs              # FedScale tutorials and APIs
 ```
+
+## Swan
+Swan: A Neural Engine for Efficient DNN Training on Smartphone SoCs, https://arxiv.org/abs/2206.04687   
+>Swan is built within Termux, a Linux Terminal emulator for Android, and can efficiently train unmodified PyTorch models.
+>
+>Mobile On-device Training의 대안으로 Swan 제시. TFLite, PyTorch Mobile 쓰지 않고, unmodified PyTorch models 그대로 사용.
+
+
 
 ***
 Back to [Papers](#papers)  
