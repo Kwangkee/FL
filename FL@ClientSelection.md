@@ -72,9 +72,9 @@ Swan: A Neural Engine for Efficient DNN Training on Smartphone SoCs, https://arx
 >• Swan is built within Termux, a Linux Terminal emulator for Android, and can efficiently train unmodified PyTorch models.
 
 #### FedScale, https://github.com/symbioticlab/fedscale
->- FedScale Benchmarking Datasets, https://github.com/SymbioticLab/FedScale/tree/master/benchmark/dataset
->- FedScale Runtime: A Deployment and Evaluation Platform for Federated Learning, https://github.com/SymbioticLab/FedScale/tree/master/fedscale/core
->- Setup Android Edge Device From Scratch, https://github.com/SymbioticLab/FedScale/tree/master/fedscale/deploy/mobile
+- FedScale Benchmarking Datasets, https://github.com/SymbioticLab/FedScale/tree/master/benchmark/dataset
+- FedScale Runtime: A Deployment and Evaluation Platform for Federated Learning, https://github.com/SymbioticLab/FedScale/tree/master/fedscale/core
+- Setup Android Edge Device From Scratch, https://github.com/SymbioticLab/FedScale/tree/master/fedscale/deploy/mobile
 
 #### FedScale Repo Structure
 
