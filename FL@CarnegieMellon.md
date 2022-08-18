@@ -3,7 +3,9 @@ Back to https://github.com/Kwangkee/FL
 
 
 ## Virginia Smith
-https://scholar.google.com/citations?hl=ko&user=bldHpWIAAAAJ&view_op=list_works&sortby=pubdate
+https://scholar.google.com/citations?hl=ko&user=bldHpWIAAAAJ&view_op=list_works&sortby=pubdate  
+
+[Ditto: Fair and Robust Federated Learning Through Personalization](https://github.com/Kwangkee/FL/blob/main/FL@Fair.md#ditto), https://proceedings.mlr.press/v139/li21h.html
 
 ## Gauri Joshi
 https://scholar.google.com/citations?hl=ko&user=yqIoH34AAAAJ&view_op=list_works&sortby=pubdate
