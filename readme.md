@@ -1,4 +1,8 @@
 ***
+Advances and Open Problems in Federated Learning, https://arxiv.org/abs/1912.04977  
+A Field Guide to Federated Optimization, https://arxiv.org/abs/2107.06917  
+
+***
 Personalized FL  
 동적인 디바이스 환경에서 적응적 연합학습기술 개발, https://github.com/Kwangkee/FL/blob/main/AFL.md  
 FL@CarnegieMellon, https://github.com/Kwangkee/FL/blob/main/FL@CarnegieMellon.md  
