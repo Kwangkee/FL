@@ -12,6 +12,9 @@ KDD 2021 Tutorial on Towards Fair Federated Learning, www.cas.mcmaster.ca/~chul9
 
 ## Ditto 
 Ditto: Fair and Robust Federated Learning Through Personalization, https://proceedings.mlr.press/v139/li21h.html
+Github: https://github.com/litian96/ditto  
+
+
 
 
 ***
