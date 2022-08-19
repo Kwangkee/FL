@@ -34,7 +34,7 @@ Flower Summit 2021
 
 Flower Summit 2022  
 - https://flower.dev/conf/flower-summit-2022
-- https://www.youtube.com/watch?v=XEH9UCUlVO8&list=PLNG4feLHqCWkfu4GGq4xPrS5jve7WSqF7
+- https://www.youtube.com/playlist?list=PLNG4feLHqCWni5zfOBaZNtaPlCce0OnJ6
 
 ## FLSim
 
