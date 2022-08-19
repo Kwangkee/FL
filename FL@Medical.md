@@ -17,6 +17,25 @@ http://www.hitnews.co.kr/news/articleView.html?idxno=19310
 https://zdnet.co.kr/view/?no=20191101095900  
 
 
+## Google
+Privacy-first Health Research with Federated Learning, https://research.google/pubs/pub50116/
+
+We show on a diverse set of health studies that federated models can achieve the same level of accuracy, precision, and generalizability, and result in the same interpretation as standard centralized statistical models whilst achieving significantly stronger privacy protections.
+
+The federated learning approach enables two types of benefits. 
+- First, a higher quality model can be learned by leveraging a broader set of data points, beyond what could be done with the data held by any one participant or data silo. This is particularly important for modern machine learning models that often involve large numbers of parameters and by extension require large amounts of data for training. 
+- The second benefit is privacy -- everyone involved keeps their raw and -- in general -- sensitive data local and private. Differential privacy is directly incorporated into the approach to protect individuals’ privacy
+
+At this point, however, only specific large homogenous units of federation, such as at the level of a healthcare system, have been studied in detail in prior work, and the focus has been on traditional classification tasks.
+
+2.2. Electronic medical records (MIMIC-III)
+MIMIC-III is a freely available critical care electronic health records (EHR) database involving comprehensive data from approximately 40,000 distinct patients age 16 and older, spanning over 53,000 hospital admissions to Beth Israel Deaconess Medical Center between 2001 and 2012 (Johnson et al., 2016)
+
+To demonstrate the efficacy of federated learning on this dataset, we compare the ROC curve of three different experiments: 
+(1) TF centralized model: A traditional server-side trained model assumes all data is available on a centralized server. 
+(2) TF federated cross-device model: A model trained on clients on a per-patient basis. Each training round has 16 participating patients, and we trained the model for 500 rounds. 
+(3) TF federated cross-silo model: A model training on clients on a per-silo basis. We use a Dirichlet distribution with parameter alpha of 10 to randomly group all patents to 20 groups of various sizes according to the distribution, and select 5 groups to participate in each federated training round.
+
 ## KAIST
 Towards the Practical Utility of Federated Learning in the Medical Domain, https://arxiv.org/abs/2207.03075  
 GitHub: https://github.com/wns823/medical_federated  
