@@ -28,10 +28,13 @@ Next, we define a Head Model which corresponds to the task-specific classifier t
 
 https://friendly-flower.slack.com/archives/C01F120R7B4/p1628093090000400
 
-Flower Summit 2021
-https://flower.dev/conf/flower-summit-2021
-https://www.youtube.com/watch?v=XEH9UCUlVO8&list=PLNG4feLHqCWkfu4GGq4xPrS5jve7WSqF7
+Flower Summit 2021  
+- https://flower.dev/conf/flower-summit-2021
+- https://www.youtube.com/watch?v=XEH9UCUlVO8&list=PLNG4feLHqCWkfu4GGq4xPrS5jve7WSqF7
 
+Flower Summit 2022  
+- https://flower.dev/conf/flower-summit-2022
+- https://www.youtube.com/watch?v=XEH9UCUlVO8&list=PLNG4feLHqCWkfu4GGq4xPrS5jve7WSqF7
 
 ## FLSim
 
