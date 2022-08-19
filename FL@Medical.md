@@ -5,6 +5,18 @@ Back to https://github.com/Kwangkee/FL
 
 
 ***
+
+# 신수용 교수
+https://sooyongshin.wordpress.com/2020/11/22/federated-learning/  
+Reliability and Performance Assessment of Federated Learning on Clinical Benchmark Data, https://arxiv.org/abs/2005.11756  
+Federated Learning on Clinical Benchmark Data: Performance Assessment, https://www.jmir.org/2020/10/e20891  
+To evaluate FL in a realistic setting, we implemented FL using a client-server architecture with Python. The implemented client-server version of the FL software was deployed to Amazon Web Services. Modified National Institute of Standards and Technology (MNIST), Medical Information Mart for Intensive Care-III (MIMIC-III), and electrocardiogram (ECG) datasets were used to evaluate the performance of FL. To test FL in a realistic setting, the MNIST dataset was split into 10 different clients, with one digit for each client. In addition, we conducted four different experiments according to basic, imbalanced, skewed, and a combination of imbalanced and skewed data distributions. We also compared the performance of FL to that of the state-of-the-art method with respect to in-hospital mortality using the MIMIC-III dataset. Likewise, we conducted experiments comparing basic and imbalanced data distributions using MIMIC-III and ECG data.
+
+https://saihst.skku.edu/m/45_3_view.php?bbs_data=aWR4PTIxNSZzdGFydFBhZ2U9MTU=%7C%7C  
+http://www.hitnews.co.kr/news/articleView.html?idxno=19310  
+https://zdnet.co.kr/view/?no=20191101095900  
+
+
 ## KAIST
 Towards the Practical Utility of Federated Learning in the Medical Domain, https://arxiv.org/abs/2207.03075  
 GitHub: https://github.com/wns823/medical_federated  
