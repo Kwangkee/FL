@@ -1,0 +1,22 @@
+
+
+***
+[Google Papers]  
+Communication-Efficient Learning of Deep Networks from Decentralized Data, https://arxiv.org/abs/1602.05629  
+Towards Federated Learning at Scale: System Design, https://arxiv.org/abs/1902.01046  
+
+[Survey]  
+Advances and Open Problems in Federated Learning, https://arxiv.org/abs/1912.04977  
+A Field Guide to Federated Optimization, https://arxiv.org/abs/2107.06917  
+Federated Learning: Challenges, Methods, and Future Directions, https://arxiv.org/abs/1908.07873   
+
+***
+
+## FL Introduction
+
+https://federated.withgoogle.com/  
+Federated Learning: Machine Learning on Decentralized Data (Google I/O'19), https://www.youtube.com/watch?v=89BGjQYA0uE&t=1968s  
+Federated Learning Tutorial by Peter Kairouz, Brendan McMahan, Virginia Smith, https://slideslive.com/38935813/federated-learning-tutorial?ref=account-folder-62016-folders  
+
+연합학습 기술 동향 및 산업적 시사점 [기술정책 트렌드 2020-06], https://www.itfind.or.kr/publication/regular/periodical/read.do?selectedId=02-001-201223-000002&fbclid=IwAR2kkwI-9n3pwzROqvkLSjCW9XKT6fs5K62jv9Ery-0-aTxtGLEGryiUxrQ   
+동적인 디바이스 환경에서 적응적 연합학습기술 개발 (Adaptive Federated Learning in Dynamic Heterogeneous Environment), https://github.com/Kwangkee/FL/blob/main/AFL.md   
