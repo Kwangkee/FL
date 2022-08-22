@@ -1,4 +1,8 @@
 Back to https://github.com/Kwangkee/FL
+***
+
+## Meta
+Making federated learning faster and more scalable: A new asynchronous method,https://ai.facebook.com/blog/asynchronous-federated-learning/
 
 ## Papers 
 [[Reconciling Security and Communication Efficiency in Federated Learning](https://github.com/Kwangkee/FL/blob/main/FL@Meta.md#reconciling-security-and-communication-efficiency-in-federated-learning)], https://arxiv.org/abs/2207.12779  
