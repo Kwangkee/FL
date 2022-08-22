@@ -6,6 +6,7 @@ Back to https://github.com/Kwangkee/FL
 [[Improving Federated Learning with Quality-Aware User Incentive and Auto-Weighted Model Aggregation]()], https://ieeexplore.ieee.org/abstract/document/9847055  
 [[Privacy-Enhanced and Verification-Traceable Aggregation for Federated Learning]()], https://ieeexplore.ieee.org/abstract/document/9846908  
 
+https://github.com/Kwangkee/FL/blob/main/FL@Incentive.md#privacy-enhanced-and-verification-traceable-aggregation-for-federated-learning
 
 A Survey of Incentive Mechanism Design for Federated Learning, https://ieeexplore.ieee.org/document/9369019  
 Decentral and Incentivized Federated Learning Frameworks,, https://arxiv.org/abs/2205.07855  
