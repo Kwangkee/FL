@@ -1,10 +1,10 @@
 Back to https://github.com/Kwangkee/FL
 ***
 
-## Meta
-Making federated learning faster and more scalable: A new asynchronous method,https://ai.facebook.com/blog/asynchronous-federated-learning/
+Making federated learning faster and more scalable: A new asynchronous method, https://ai.facebook.com/blog/asynchronous-federated-learning/
 
 ## Papers 
+[[Making federated learning faster and more scalable: A new asynchronous method]()], https://ai.facebook.com/blog/asynchronous-federated-learning/  
 [[Reconciling Security and Communication Efficiency in Federated Learning](https://github.com/Kwangkee/FL/blob/main/FL@Meta.md#reconciling-security-and-communication-efficiency-in-federated-learning)], https://arxiv.org/abs/2207.12779  
 [[Where to Begin? Exploring the Impact of Pre-Training and Initialization in Federated Learning](https://github.com/Kwangkee/FL/blob/main/FL@Meta.md#where-to-begin-exploring-the-impact-of-pre-training-and-initialization-in-federated-learning)], https://arxiv.org/abs/2206.15387
 
@@ -12,6 +12,12 @@ Making federated learning faster and more scalable: A new asynchronous method,ht
 [[Federated Learning Simulator (FLSim)](https://github.com/Kwangkee/FL/blob/main/FL@Meta.md#federated-learning-simulator-flsim)], https://github.com/facebookresearch/FLSim
 
 ***
+## Making federated learning faster and more scalable: A new asynchronous method
+Making federated learning faster and more scalable: A new asynchronous method, https://ai.facebook.com/blog/asynchronous-federated-learning/
+
+Federated Learning with Buffered Asynchronous Aggregation, https://arxiv.org/abs/2106.06639
+Papaya: Practical, Private, and Scalable Federated Learning, https://arxiv.org/abs/2111.04877
+
 ## Reconciling Security and Communication Efficiency in Federated Learning
 Reconciling Security and Communication Efficiency in Federated Learning, https://arxiv.org/abs/2207.12779  
 Code available at https://github.com/facebookresearch/SecureFLCompression.  
