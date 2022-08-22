@@ -28,6 +28,6 @@ Federated Learning: Challenges, Methods, and Future Directions, https://arxiv.or
 - 동적인 디바이스 환경에서 적응적 연합학습기술 개발 (Adaptive Federated Learning in Dynamic Heterogeneous Environment), https://github.com/Kwangkee/FL/blob/main/AFL.md   
 
 [한글 동영상 강의]  
-연합학습 기초, https://www.laidd.org/course/105  
-연합 학습 연구 동향, https://laidd.org/course/130
+- 연합학습 기초, https://www.laidd.org/course/105  
+- 연합 학습 연구 동향, https://laidd.org/course/130
 
