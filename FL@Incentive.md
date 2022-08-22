@@ -2,6 +2,11 @@ Back to https://github.com/Kwangkee/FL
 ***
 
 ## Papers 
+
+[[Improving Federated Learning with Quality-Aware User Incentive and Auto-Weighted Model Aggregation]()], https://ieeexplore.ieee.org/abstract/document/9847055
+
+
+
 A Survey of Incentive Mechanism Design for Federated Learning, https://ieeexplore.ieee.org/document/9369019  
 Decentral and Incentivized Federated Learning Frameworks,, https://arxiv.org/abs/2205.07855  
 Mechanism Design for An Incentive-aware Blockchain-enabled Federated Learning Platform, https://ieeexplore.ieee.org/document/9006344  
@@ -11,8 +16,10 @@ Incentive-Driven Federated Learning and Associated Security Challenges: A System
 
 
 ***
+## Improving Federated Learning with Quality-Aware User Incentive and Auto-Weighted Model Aggregation
+Improving Federated Learning with Quality-Aware User Incentive and Auto-Weighted Model Aggregation, https://ieeexplore.ieee.org/abstract/document/9847055
 
-
+Privacy-Enhanced and Verification-Traceable Aggregation for Federated Learning, https://ieeexplore.ieee.org/abstract/document/9846908
 
 ***
 Back to [Papers](#papers)  
