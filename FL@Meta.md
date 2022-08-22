@@ -13,7 +13,7 @@ Reconciling Security and Communication Efficiency in Federated Learning, https:/
 
 
 ## Where to Begin? Exploring the Impact of Pre-Training and Initialization in Federated Learning
-[Where to Begin? Exploring the Impact of Pre-Training and Initialization in Federated Learning](https://arxiv.org/abs/2206.15387)
+Where to Begin? Exploring the Impact of Pre-Training and Initialization in Federated Learning, (https://arxiv.org/abs/2206.15387)
 
 *All experiments were performed using the open-source federated learning simulation framework FLSim [[1]]*(https://github.com/facebookresearch/FLSim)
 
