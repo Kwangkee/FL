@@ -29,4 +29,5 @@ Federated Learning: Challenges, Methods, and Future Directions, https://arxiv.or
 
 [한글 동영상 강의]  
 연합학습 기초, https://www.laidd.org/course/105  
-연합 학습 연구 동향, https://laidd.org/my/lesson/course/130  
+연합 학습 연구 동향, https://laidd.org/course/130
+
