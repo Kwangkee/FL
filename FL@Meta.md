@@ -2,9 +2,7 @@ Back to https://github.com/Kwangkee/FL
 
 ## Papers 
 [[Reconciling Security and Communication Efficiency in Federated Learning](https://github.com/Kwangkee/FL/blob/main/FL@Meta.md#reconciling-security-and-communication-efficiency-in-federated-learning)], https://arxiv.org/abs/2207.12779  
-[[Where to Begin? Exploring the Impact of Pre-Training and Initialization in Federated Learning](
-)], https://arxiv.org/abs/2206.15387
-
+[[Where to Begin? Exploring the Impact of Pre-Training and Initialization in Federated Learning](https://github.com/Kwangkee/FL/blob/main/FL@Meta.md#where-to-begin-exploring-the-impact-of-pre-training-and-initialization-in-federated-learning)], https://arxiv.org/abs/2206.15387
 
 ## Simulator
 https://github.com/facebookresearch/FLSim
