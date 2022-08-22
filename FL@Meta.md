@@ -13,8 +13,8 @@ Back to https://github.com/Kwangkee/FL
 ## Making federated learning faster and more scalable: A new asynchronous method
 Making federated learning faster and more scalable: A new asynchronous method, https://ai.facebook.com/blog/asynchronous-federated-learning/
 
-Federated Learning with Buffered Asynchronous Aggregation, https://arxiv.org/abs/2106.06639
-Papaya: Practical, Private, and Scalable Federated Learning, https://arxiv.org/abs/2111.04877
+- Federated Learning with Buffered Asynchronous Aggregation, https://arxiv.org/abs/2106.06639  
+- Papaya: Practical, Private, and Scalable Federated Learning, https://arxiv.org/abs/2111.04877  
 
 ## Reconciling Security and Communication Efficiency in Federated Learning
 Reconciling Security and Communication Efficiency in Federated Learning, https://arxiv.org/abs/2207.12779  
