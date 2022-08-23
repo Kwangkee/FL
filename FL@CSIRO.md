@@ -29,17 +29,16 @@ contract DataModelRegistry{
   struct Model{ 
     bool uploaded; 
     string data version;
-    string model 
+    string model_parameter; 
   } 
   struct Client{ 
-    uint num parameter; 
-    model; 
+    uint num_model; 
   } 
   mapping ( address => mapping ( uint => Model) ) 
     public provenance; 
   mapping ( address => Client ) public client; 
   function getNumModel(address _client) public view returns ( uint ) { 
-    return client [_client].num_model;
+    return client[_client].num_model;
   }
     function storeData (string _data_version , string _model parameter) public{ 
       required ( provenance [msg. sender ][ client [msg. sender ]. num model+1]. uploaded == false ); 
