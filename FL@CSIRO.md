@@ -15,7 +15,7 @@ FLRA: A Reference Architecture for Federated Learning Systems, https://arxiv.org
 
 
 ## Architectural patterns for the design of federated learning systems
-https://arxiv.org/abs/2101.02373
+Architectural patterns for the design of federated learning systems, https://arxiv.org/abs/2101.02373
 
 ![image](https://user-images.githubusercontent.com/109835677/182032069-50c87806-b7a2-4483-8939-3958a372f877.png)
 
