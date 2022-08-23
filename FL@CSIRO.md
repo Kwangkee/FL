@@ -1,7 +1,7 @@
 Back to https://github.com/Kwangkee/FL
 ***
 
-## SIN KIT LO,  
+## SIN KIT LO  
 https://people.csiro.au/L/K/kit-lo,  
 https://scholar.google.com/citations?hl=ko&user=TuL21poAAAAJ&view_op=list_works&sortby=pubdate
 
@@ -24,5 +24,5 @@ However, federated learning systems struggle to achieve and embody responsible A
 ![image](https://user-images.githubusercontent.com/109835677/182032146-cb8b1285-4b0d-4e69-acad-ef337d5cd3e1.png)
 
 ***
-Back to the [Top](#list)  
+Back to the [Top](#papers)  
 Back to https://github.com/Kwangkee/FL
