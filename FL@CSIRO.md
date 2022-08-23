@@ -17,7 +17,8 @@ https://arxiv.org/abs/2101.02373
 
 ## Towards Trustworthy AI
 Towards Trustworthy AI: Blockchain-based Architecture Design for Accountability and Fairness of Federated Learning Systems, https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=TuL21poAAAAJ&sortby=pubdate&citation_for_view=TuL21poAAAAJ:koF6b02d8EEC
-- https://github.com/GalaxyLearning/GFL, https://galaxylearning.github.io/ 
+- We designed the architecture based on a reference architecture for federated learning system named FLRA [6]. https://arxiv.org/abs/2106.11570
+- GFL federated learning framework3 is used to perform the experiments. https://github.com/GalaxyLearning/GFL, https://galaxylearning.github.io/ 
 
 However, federated learning systems struggle to achieve and embody responsible AI principles. In particular, federated learning systems face accountability and fairness challenges due to multi-stakeholder involvement and heterogeneity in client data distribution. To enhance the accountability and fairness of federated learning systems, we present a blockchain-based trustworthy federated learning architecture. 
 
