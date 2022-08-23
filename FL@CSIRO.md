@@ -32,11 +32,14 @@ Towards Trustworthy AI: Blockchain-based Architecture Design for Accountability 
 
 However, federated learning systems struggle to achieve and embody responsible AI principles. In particular, federated learning systems face accountability and fairness challenges due to multi-stakeholder involvement and heterogeneity in client data distribution. To enhance the accountability and fairness of federated learning systems, we present a blockchain-based trustworthy federated learning architecture. 
 
+#### Fig. 1: Blockchain-based Trustworthy Federated Learning Architecture
+#### Fig. 2: Sequence Diagram of Blockchain-based Trustworthy Federated Learning Process
 ![image](https://user-images.githubusercontent.com/109835677/182032146-cb8b1285-4b0d-4e69-acad-ef337d5cd3e1.png)
 
 
 We adopted Parity consortium blockchain 1.9.3-stable, in which the consensus algorithm is Proof-of-Authority (PoA). The block gas limit is set to 80M and the block interval is configured to 5s. The smart contracts are written in Solidity with compiler v.0.4.26. We performed four tests to measure the latency of the aforementioned blockchain operations respectively, each test ran 100 times.
 
+#### Listing 1: Data-model registry smart contract
 ```
 contract DataModelRegistry{ 
   struct Model{ 
