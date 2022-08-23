@@ -2,6 +2,7 @@ Back to https://github.com/Kwangkee/FL
 ***
 
 - Federated learning for smart healthcare: A survey, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Federated+Learning+for+Smart+Healthcare%3A+A+Survey&btnG=
+[[신수용 교수](https://github.com/Kwangkee/FL/blob/main/FL@Medical.md#%EC%8B%A0%EC%88%98%EC%9A%A9)]
 
 
 ***
@@ -17,8 +18,8 @@ http://www.hitnews.co.kr/news/articleView.html?idxno=19310
 https://zdnet.co.kr/view/?no=20191101095900  
 
 
-## Google
-Privacy-first Health Research with Federated Learning, https://research.google/pubs/pub50116/
+## [Google] Privacy-first Health Research with Federated Learning
+[Google] Privacy-first Health Research with Federated Learning, https://research.google/pubs/pub50116/
 
 We show on a diverse set of health studies that federated models can achieve the same level of accuracy, precision, and generalizability, and result in the same interpretation as standard centralized statistical models whilst achieving significantly stronger privacy protections.
 
