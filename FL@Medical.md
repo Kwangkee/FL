@@ -6,7 +6,7 @@ Back to https://github.com/Kwangkee/FL
 
 - [[삼성병원: 신수용 교수](https://github.com/Kwangkee/FL/blob/main/FL@Medical.md#%EC%82%BC%EC%84%B1%EB%B3%91%EC%9B%90-%EC%8B%A0%EC%88%98%EC%9A%A9-%EA%B5%90%EC%88%98)] 
 - [[Google: Privacy-first Health Research with Federated Learning](https://github.com/Kwangkee/FL/blob/main/FL@Medical.md#google-privacy-first-health-research-with-federated-learning)]
-- [[KAIST: 양은호 교수] Towards the Practical Utility of Federated Learning in the Medical Domain](https://github.com/Kwangkee/FL/blob/main/FL@Medical.md#kaist-towards-the-practical-utility-of-federated-learning-in-the-medical-domain)]
+- [[KAIST: 양은호 교수: Towards the Practical Utility of Federated Learning in the Medical Domain](https://github.com/Kwangkee/FL/blob/main/FL@Medical.md#kaist-towards-the-practical-utility-of-federated-learning-in-the-medical-domain)]
 - [[Havard: A Review of Medical Federated Learning](https://github.com/Kwangkee/FL/blob/main/FL@Medical.md#harvard))]
 
 
@@ -42,7 +42,7 @@ To demonstrate the efficacy of federated learning on this dataset, we compare th
 (2) TF federated cross-device model: A model trained on clients on a per-patient basis. Each training round has 16 participating patients, and we trained the model for 500 rounds. 
 (3) TF federated cross-silo model: A model training on clients on a per-silo basis. We use a Dirichlet distribution with parameter alpha of 10 to randomly group all patents to 20 groups of various sizes according to the distribution, and select 5 groups to participate in each federated training round.
 
-## [KAIST] Towards the Practical Utility of Federated Learning in the Medical Domain
+## KAIST: 양은호 교수: Towards the Practical Utility of Federated Learning in the Medical Domain
 Towards the Practical Utility of Federated Learning in the Medical Domain, https://arxiv.org/abs/2207.03075  
 GitHub: https://github.com/wns823/medical_federated  
 - eICU 포함 3가지 dataset 에 대해, Cross-silo 관점에서 실험 -> **D-3. 실증에 참고**
