@@ -24,6 +24,9 @@ However, federated learning systems struggle to achieve and embody responsible A
 
 ![image](https://user-images.githubusercontent.com/109835677/182032146-cb8b1285-4b0d-4e69-acad-ef337d5cd3e1.png)
 
+
+We adopted Parity consortium blockchain 1.9.3-stable, in which the consensus algorithm is Proof-of-Authority (PoA). The block gas limit is set to 80M and the block interval is configured to 5s. The smart contracts are written in Solidity with compiler v.0.4.26. We performed four tests to measure the latency of the aforementioned blockchain operations respectively, each test ran 100 times.
+
 ```
 contract DataModelRegistry{ 
   struct Model{ 
