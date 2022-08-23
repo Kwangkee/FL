@@ -5,9 +5,14 @@ Back to https://github.com/Kwangkee/FL
 https://scholar.google.com/citations?hl=ko&user=TuL21poAAAAJ&view_op=list_works&sortby=pubdate
 
 ## Papers 
+- [[FLRA: A Reference Architecture for Federated Learning Systems]()], https://arxiv.org/abs/2106.11570  
 - [[Architectural patterns for the design of federated learning systems](https://github.com/Kwangkee/FL/blob/main/FL@CSIRO.md#architectural-patterns-for-the-design-of-federated-learning-systems)], https://arxiv.org/abs/2101.02373
 - [[Towards Trustworthy AI: Blockchain-based Architecture Design for Accountability and Fairness of Federated Learning Systems](https://github.com/Kwangkee/FL/blob/main/FL%40CSIRO.md#towards-trustworthy-ai)], https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=TuL21poAAAAJ&sortby=pubdate&citation_for_view=TuL21poAAAAJ:koF6b02d8EEC
 ***
+
+## FLRA: A Reference Architecture for Federated Learning Systems
+FLRA: A Reference Architecture for Federated Learning Systems, https://arxiv.org/abs/2106.11570
+
 
 ## Architectural patterns for the design of federated learning systems
 https://arxiv.org/abs/2101.02373
