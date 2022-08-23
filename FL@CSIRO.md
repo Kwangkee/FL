@@ -25,7 +25,36 @@ However, federated learning systems struggle to achieve and embody responsible A
 ![image](https://user-images.githubusercontent.com/109835677/182032146-cb8b1285-4b0d-4e69-acad-ef337d5cd3e1.png)
 
 ```
-contract DataModelRegistry{ s t r uct Model{ bool uploaded ; s t r i ng data version ; s t r i ng model } s t r uct Client{ uint num parameter ; model ; } mapping ( address => mapping ( uint => Model) ) public provenance ; mapping ( address => Client ) public client ; f unction getNumModel( address view returns ( uint ){ r eturn client [ c l i ent ]. num } f unction storeData ( string model parameter ) public{ r equired ( provenance [msg. sender ][ client [msg. sender ]. num model+1]. uploaded == false ) ; c l i ent [msg. sender ]. num model++; provenance [msg. sender ][ client [msg. sender ]. num model ]. data data version = version ; provenance [msg. sender ][ client [msg. sender ]. num model ]. model model parameter = parameter ; provenance [msg. sender ][ client [msg. sender ]. num model ]. uploaded = true ; } f unction retrieveDataVersion ( address uint model) public view returns ( string dataVersion ){ r eturn provenance [ data } version ; c l i ent ][ f unction retrieveUpdate ( address client , uint model) public view returns ( string modelPara ){ r eturn provenance [ } }
+contract DataModelRegistry{ 
+  struct Model{ 
+    bool uploaded; 
+    string data version;
+    string model 
+  } 
+  struct Client{ 
+    uint num parameter; 
+    model; 
+  } 
+  mapping ( address => mapping ( uint => Model) ) 
+    public provenance; 
+  mapping ( address => Client ) public client; 
+  function getNumModel(address _client) public view returns ( uint ) { 
+    return client [_client].num_model;
+  }
+    function storeData (string _data_version , string _model parameter) public{ 
+      required ( provenance [msg. sender ][ client [msg. sender ]. num model+1]. uploaded == false ); 
+      client[msg.sender].num model++; 
+      provenance[msg.sender][client[msg.sender].num model].data_version = _data_version ; 
+      provenance[msg.sender][client[msg.sender].num model].model_parameter = _model_parameter ; 
+      provenance[msg.sender][client[msg.sender].num model].uploaded = true; 
+    } 
+  function retrieveDataVersion (address _client, uint _model) public view returns (string dataVersion ){ 
+    return provenance[_client][_model].data_version;
+  } 
+  function retrieveUpdate (address _client, uint _model) public view returns ( string _modelPara ){ 
+    return provenance[_client][_model].model_parameter;
+  }
+}
 ```
 ***
 Back to the [Top](#papers)  
