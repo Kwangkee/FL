@@ -12,7 +12,7 @@ Back to https://github.com/Kwangkee/FL
 
 ***
 
-## 신수용
+## 삼성병원: 신수용 교수
 https://sooyongshin.wordpress.com/2020/11/22/federated-learning/  
 Reliability and Performance Assessment of Federated Learning on Clinical Benchmark Data, https://arxiv.org/abs/2005.11756  
 Federated Learning on Clinical Benchmark Data: Performance Assessment, https://www.jmir.org/2020/10/e20891  
