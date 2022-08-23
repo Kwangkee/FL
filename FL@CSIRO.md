@@ -15,6 +15,7 @@ FLRA: A Reference Architecture for Federated Learning Systems, https://arxiv.org
 
 ![image](https://user-images.githubusercontent.com/109835677/186174360-3c0d2d90-36c7-4650-b5c6-befabcf2b055.png)
 
+
 ![image](https://user-images.githubusercontent.com/109835677/186174421-8d1d3fe6-0475-4230-b78d-759a65fd9a0b.png)
 
 
