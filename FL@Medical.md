@@ -2,12 +2,11 @@ Back to https://github.com/Kwangkee/FL
 ***
 
 ## list
-- Federated learning for smart healthcare: A survey, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Federated+Learning+for+Smart+Healthcare%3A+A+Survey&btnG=
-
 - [[삼성병원: 신수용 교수](https://github.com/Kwangkee/FL/blob/main/FL@Medical.md#%EC%82%BC%EC%84%B1%EB%B3%91%EC%9B%90-%EC%8B%A0%EC%88%98%EC%9A%A9-%EA%B5%90%EC%88%98)] 
 - [[Google: Privacy-first Health Research with Federated Learning](https://github.com/Kwangkee/FL/blob/main/FL@Medical.md#google-privacy-first-health-research-with-federated-learning)]
 - [[KAIST: 양은호 교수: Towards the Practical Utility of Federated Learning in the Medical Domain](https://github.com/Kwangkee/FL/blob/main/FL@Medical.md#kaist-%EC%96%91%EC%9D%80%ED%98%B8-%EA%B5%90%EC%88%98-towards-the-practical-utility-of-federated-learning-in-the-medical-domain)]
 - [[Havard: A Review of Medical Federated Learning](https://github.com/Kwangkee/FL/blob/main/FL@Medical.md#harvard)]
+- Federated learning for smart healthcare: A survey, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Federated+Learning+for+Smart+Healthcare%3A+A+Survey&btnG=
 
 
 ***
