@@ -23,7 +23,7 @@ http://www.hitnews.co.kr/news/articleView.html?idxno=19310
 https://zdnet.co.kr/view/?no=20191101095900  
 
 
-## [Google] Privacy-first Health Research with Federated Learning
+## Google: Privacy-first Health Research with Federated Learning
 [Google] Privacy-first Health Research with Federated Learning, https://research.google/pubs/pub50116/
 
 We show on a diverse set of health studies that federated models can achieve the same level of accuracy, precision, and generalizability, and result in the same interpretation as standard centralized statistical models whilst achieving significantly stronger privacy protections.
