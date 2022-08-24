@@ -13,7 +13,7 @@ YouTube, Towards Trustworthy Federated Learning, https://www.youtube.com/watch?v
 - Collaborative Fairness in Federated Learning
 - Threats to Federated Learning
 
-- Contribution-Aware Federated Learning for Smart Healthcare, https://ojs.aaai.org/index.php/AAAI/article/view/21505
+- [[Contribution-Aware Federated Learning for Smart Healthcare](https://github.com/Kwangkee/FL/blob/main/FL@Nanyang.md#contribution-aware-federated-learning-for-smart-healthcare)], https://ojs.aaai.org/index.php/AAAI/article/view/21505
 - [[CrowdFL: A Marketplace for Crowdsourced Federated Learning](#crowdfl)], AAAI-22 Demonstration Track, https://ojs.aaai.org/index.php/AAAI/article/view/21715   
 - Federated Graph Neural Networks: Overview, Techniques and Challenges
 - Personalised Federated Learning: A Combinational Approach
