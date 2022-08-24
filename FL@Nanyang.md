@@ -13,7 +13,7 @@ Lab: [Trustworthy Federated Ubiquitous Learning (TrustFUL) Research Lab](https:
 - Threats to Federated Learning
 
 - Contribution-Aware Federated Learning for Smart Healthcare
-- [[CrowdFL: A Marketplace for Crowdsourced Federated Learning](#crowdfl)], http:// 
+- [[CrowdFL: A Marketplace for Crowdsourced Federated Learning](#crowdfl)], AAAI-22 Demonstration Track, https://ojs.aaai.org/index.php/AAAI/article/view/21715   
 - Federated Graph Neural Networks: Overview, Techniques and Challenges
 - Personalised Federated Learning: A Combinational Approach
 - FedCoin: A Peer-to-Peer Payment System for Federated Learning
@@ -22,7 +22,8 @@ Lab: [Trustworthy Federated Ubiquitous Learning (TrustFUL) Research Lab](https:
 ***
 
 ## CrowdFL
-CrowdFL: A Marketplace for Crowdsourced Federated Learning, 
+CrowdFL: A Marketplace for Crowdsourced Federated Learning, AAAI-22 Demonstration Track, https://ojs.aaai.org/index.php/AAAI/article/view/21715   
+YouTube: https://www.youtube.com/watch?v=_jZTPCgWkeI  
 
 
 
