@@ -23,7 +23,10 @@ YouTube, Towards Trustworthy Federated Learning, https://www.youtube.com/watch?v
 ***
 
 ## CAreFL
-- Contribution-Aware Federated Learning for Smart Healthcare, https://ojs.aaai.org/index.php/AAAI/article/view/21505
+Contribution-Aware Federated Learning for Smart Healthcare, https://ojs.aaai.org/index.php/AAAI/article/view/21505
+
+It provides fair and explainable FL participant contribution evaluation in an efficient and privacypreserving manner, and optimizes the FL model aggregation
+approach based on the evaluation results. Since its deployment in Yidu Cloud Technology Inc. in March 2021, CAreFL has served 8 well-established medical institutions in China to build healthcare decision support models. It can perform contribution evaluations 2.84 times faster than the best existing approach, and has improved the average accuracy of the resulting models by 2.62% compared to the previous system (which is significant in industrial settings). To our knowledge, it is the first contribution-aware federated learning successfully deployed in the healthcare industry.
 
 ## CrowdFL
 CrowdFL: A Marketplace for Crowdsourced Federated Learning, AAAI-22 Demonstration Track, https://ojs.aaai.org/index.php/AAAI/article/view/21715   
