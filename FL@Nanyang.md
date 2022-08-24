@@ -6,10 +6,6 @@ https://personal.ntu.edu.sg/han.yu/, [Complete Website](https://sites.google.com
 Lab: [Trustworthy Federated Ubiquitous Learning (TrustFUL) Research Lab](https://trustful.federated-learning.org/)
 YouTube, Towards Trustworthy Federated Learning, https://www.youtube.com/watch?v=8KQndP_jDQ0   
 
-YouTube
-- WeBank/QiangYang, Recent Advances in Trustworthy Federated Learning, https://www.youtube.com/watch?v=tCBr_XQwPGY
-- Federated Learning One World Seminar, https://sites.google.com/view/one-world-seminar-series-flow/home, https://www.youtube.com/channel/UCpAXM9I-v76xEPtevcCuA5g
-
 ## Papers 
 - [[Towards personalized federated learning](#towards-personalized-federated-learning)], https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=eXgoTXMAAAAJ&sortby=pubdate&citation_for_view=eXgoTXMAAAAJ:0d9pApVQ-n0C
 - Towards Verifiable Federated Learning, https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=eXgoTXMAAAAJ&sortby=pubdate&citation_for_view=eXgoTXMAAAAJ:3AIi9tQMIrsC
