@@ -23,5 +23,5 @@ Justin is using his experience in ML and crowdsourcing to implement a framework 
 https://scholar.google.com/citations?user=w9QAUcAAAAAJ&hl=ko&oi=ao  
 - https://www.microsoft.com/en-us/research/blog/leveraging-blockchain-to-make-machine-learning-models-more-accessible/
 - Leveraging Blockchain for Greater Accessibility of Machine Learning Models, https://stanford-jblp.pubpub.org/pub/blockchain-machine-learning/release/1
-- Blockchain-orchestrated machine learning for privacy preserving federated learning in electronic health data, https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=w9QAUcAAAAAJ&sortby=pubdate&citft=1&citft=2&citft=3&email_for_op=KwangkeeLee%40gmail.com&citation_for_view=w9QAUcAAAAAJ:W7OEmFMy1HYC
-- Decentralized & Collaborative AI on Blockchain, https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=w9QAUcAAAAAJ&sortby=pubdate&citft=1&citft=2&citft=3&email_for_op=KwangkeeLee%40gmail.com&citation_for_view=w9QAUcAAAAAJ:9yKSN-GCB0IC
+- Blockchain-orchestrated machine learning for privacy preserving federated learning in electronic health data, https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=w9QAUcAAAAAJ&sortby=pubdate&citation_for_view=w9QAUcAAAAAJ:W7OEmFMy1HYC
+- Decentralized & Collaborative AI on Blockchain, https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=w9QAUcAAAAAJ&sortby=pubdate&citation_for_view=w9QAUcAAAAAJ:9yKSN-GCB0IC
