@@ -18,7 +18,7 @@ Back to https://github.com/Kwangkee/FL
   * Learning Markets: An AI Collaboration Framework Based on Blockchain and Smart Contracts, https://ieeexplore.ieee.org/abstract/document/9234516 
   * APPFLChain: A Privacy Protection Distributed Artificial-Intelligence Architecture Based on Federated Learning and Consortium Blockchain, https://deepai.org/publication/appflchain-a-privacy-protection-distributed-artificial-intelligence-architecture-based-on-federated-learning-and-consortium-blockchain 
 
-FL Market
+#### FL Market
 - FL-Market: Trading Private Models in Federated Learning, https://arxiv.org/abs/2106.04384. The source code, data, and/or other artifacts have been made available at https://github.com/teijyogen/FL-Market 
 - CrowdFL: A Marketplace for Crowdsourced Federated Learning, https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=eXgoTXMAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=eXgoTXMAAAAJ:edV_OwlUe4UC
 
