@@ -22,10 +22,7 @@ YouTube: https://www.youtube.com/watch?v=_jZTPCgWkeI
 
 In this paper, we present CrowdFL, a platform to facilitate the crowdsourcing of FL model training. It coordinates client selection, model training, and reputation management, which are essential steps for the FL crowdsourcing operations. By implementing model training on actual mobile devices, we demonstrate that the platform improves model performance and training efficiency. To the best of our knowledge, it is the first platform to support crowdsourcing-based FL on edge devices.
 
-## 부산대 
+## xyz 
 
-기조연설 주제: 웹 3.0, 블록체인과 미래사회 전망(부산대 김호원 교수)  
-- 블록체인 플랫폼 연구센터, http://itrc.pusan.ac.kr/sub1-3/
-- BCFL을 Web 3.0 관점에서 설명, https://youtu.be/IwEjUQbFb2Y?t=3123  
-  * Learning Markets: An AI Collaboration Framework Based on Blockchain and Smart Contracts, https://ieeexplore.ieee.org/abstract/document/9234516 
-  * APPFLChain: A Privacy Protection Distributed Artificial-Intelligence Architecture Based on Federated Learning and Consortium Blockchain, https://deepai.org/publication/appflchain-a-privacy-protection-distributed-artificial-intelligence-architecture-based-on-federated-learning-and-consortium-blockchain 
+- Learning Markets: An AI Collaboration Framework Based on Blockchain and Smart Contracts, https://ieeexplore.ieee.org/abstract/document/9234516 
+- APPFLChain: A Privacy Protection Distributed Artificial-Intelligence Architecture Based on Federated Learning and Consortium Blockchain, https://deepai.org/publication/appflchain-a-privacy-protection-distributed-artificial-intelligence-architecture-based-on-federated-learning-and-consortium-blockchain 
