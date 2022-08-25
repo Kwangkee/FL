@@ -7,16 +7,13 @@ Back to https://github.com/Kwangkee/FL
 
 ***   
 
-## 부산대 
-
-기조연설 주제: 웹 3.0, 블록체인과 미래사회 전망(부산대 김호원 교수)  
-- 블록체인 플랫폼 연구센터, http://itrc.pusan.ac.kr/sub1-3/
-- BCFL을 Web 3.0 관점에서 설명, https://youtu.be/IwEjUQbFb2Y?t=3123  
-  * Learning Markets: An AI Collaboration Framework Based on Blockchain and Smart Contracts, https://ieeexplore.ieee.org/abstract/document/9234516 
-  * APPFLChain: A Privacy Protection Distributed Artificial-Intelligence Architecture Based on Federated Learning and Consortium Blockchain, https://deepai.org/publication/appflchain-a-privacy-protection-distributed-artificial-intelligence-architecture-based-on-federated-learning-and-consortium-blockchain 
-
 ## FL-Market
 - FL-Market: Trading Private Models in Federated Learning, https://arxiv.org/abs/2106.04384. The source code, data, and/or other artifacts have been made available at https://github.com/teijyogen/FL-Market 
+
+![image](https://user-images.githubusercontent.com/109835677/186577059-550d5e74-6dcc-48f9-b668-46db84a2d41a.png)
+
+![image](https://user-images.githubusercontent.com/109835677/186577117-19fbab86-744d-4838-a0cd-5685254cedc9.png)
+
 
 ## CrowdFL
 CrowdFL: A Marketplace for Crowdsourced Federated Learning, AAAI-22 Demonstration Track, https://ojs.aaai.org/index.php/AAAI/article/view/21715   
@@ -24,3 +21,11 @@ Poster: https://www.ntu.edu.sg/docs/librariesprovider118/technovationposter/apr2
 YouTube: https://www.youtube.com/watch?v=_jZTPCgWkeI  
 
 In this paper, we present CrowdFL, a platform to facilitate the crowdsourcing of FL model training. It coordinates client selection, model training, and reputation management, which are essential steps for the FL crowdsourcing operations. By implementing model training on actual mobile devices, we demonstrate that the platform improves model performance and training efficiency. To the best of our knowledge, it is the first platform to support crowdsourcing-based FL on edge devices.
+
+## 부산대 
+
+기조연설 주제: 웹 3.0, 블록체인과 미래사회 전망(부산대 김호원 교수)  
+- 블록체인 플랫폼 연구센터, http://itrc.pusan.ac.kr/sub1-3/
+- BCFL을 Web 3.0 관점에서 설명, https://youtu.be/IwEjUQbFb2Y?t=3123  
+  * Learning Markets: An AI Collaboration Framework Based on Blockchain and Smart Contracts, https://ieeexplore.ieee.org/abstract/document/9234516 
+  * APPFLChain: A Privacy Protection Distributed Artificial-Intelligence Architecture Based on Federated Learning and Consortium Blockchain, https://deepai.org/publication/appflchain-a-privacy-protection-distributed-artificial-intelligence-architecture-based-on-federated-learning-and-consortium-blockchain 
