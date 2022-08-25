@@ -13,7 +13,7 @@ YouTube, Towards Trustworthy Federated Learning, https://www.youtube.com/watch?v
 - Collaborative Fairness in Federated Learning
 - Threats to Federated Learning
 
-- [[Contribution-Aware Federated Learning for Smart Healthcare](https://github.com/Kwangkee/FL/blob/main/FL@Nanyang.md#carefl)], https://ojs.aaai.org/index.php/AAAI/article/view/21505
+- [[CAreFL: Contribution-Aware Federated Learning for Smart Healthcare](https://github.com/Kwangkee/FL/blob/main/FL@Nanyang.md#carefl)], https://ojs.aaai.org/index.php/AAAI/article/view/21505
 - [[CrowdFL: A Marketplace for Crowdsourced Federated Learning](#crowdfl)], AAAI-22 Demonstration Track, https://ojs.aaai.org/index.php/AAAI/article/view/21715   
 - Federated Graph Neural Networks: Overview, Techniques and Challenges
 - Personalised Federated Learning: A Combinational Approach
@@ -23,10 +23,9 @@ YouTube, Towards Trustworthy Federated Learning, https://www.youtube.com/watch?v
 ***
 
 ## CAreFL
-Contribution-Aware Federated Learning for Smart Healthcare, https://ojs.aaai.org/index.php/AAAI/article/view/21505
+CAreFL: Contribution-Aware Federated Learning for Smart Healthcare, https://ojs.aaai.org/index.php/AAAI/article/view/21505
 
-It provides fair and explainable FL participant contribution evaluation in an efficient and privacypreserving manner, and optimizes the FL model aggregation
-approach based on the evaluation results. Since its deployment in Yidu Cloud Technology Inc. in March 2021, CAreFL has served 8 well-established medical institutions in China to build healthcare decision support models. It can perform contribution evaluations 2.84 times faster than the best existing approach, and has improved the average accuracy of the resulting models by 2.62% compared to the previous system (which is significant in industrial settings). To our knowledge, it is the first contribution-aware federated learning successfully deployed in the healthcare industry.
+It provides fair and explainable FL participant contribution evaluation in an efficient and privacy-preserving manner, and optimizes the FL model aggregation approach based on the evaluation results. Since its deployment in Yidu Cloud Technology Inc. in March 2021, CAreFL has served 8 well-established medical institutions in China to build healthcare decision support models. It can perform contribution evaluations 2.84 times faster than the best existing approach, and has improved the average accuracy of the resulting models by 2.62% compared to the previous system (which is significant in industrial settings). To our knowledge, it is the first contribution-aware federated learning successfully deployed in the healthcare industry.
 
 FL participant **contribution evaluation** is an active subfield of FL (Ghorbani and Zou 2019; Jia et al. 2019; Song, Tong, and Wei 2019; Wang et al. 2020; Wei et al. 2020). The aim is to estimate the value of each FL participant by evaluating its impact on the performance of the resulting FL model, without exposing their sensitive local data. To bridge the aforementioned gaps in FL frameworks for smart healthcare, we propose the Contribution-Aware Federated Learning (CAreFL) framework. The advantages are:
 1. **Fast and Accurate Contribution Evaluation**: it is incorporated with our proposed GTG-Shapley (Liu et al. 2022) approach, which can evaluate fair and accurate FL participant contribution in a highly efficient manner.
@@ -41,6 +40,7 @@ FL participant **contribution evaluation** is an active subfield of FL (Ghorbani
 The CAreFL framework has been deployed in Yidu Cloud Technology Inc. since March 2021 in two lines of their business: 
 1) clinical research services, and : Clinical research focuses on training FL models involving data silos from multiple hospitals. 
 2) and real-world trial research services. : Real world trial research is often initiated by a pharmaceutical company which aims to leverage data from multiple hospitals to build models.  
+
 Both services require data which need to be collected by the hospitals over months or years under their respective Institutional Review Board (IRB) supervision. So far, CAreFL has been used to help eight well-known medical institutions in China to train AI models for risk prediction, disease diagnosis and influence factor analysis.
 
 #### Conclusions and Future Work
