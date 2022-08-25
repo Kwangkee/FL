@@ -39,10 +39,9 @@ FL participant **contribution evaluation** is an active subfield of FL (Ghorbani
 
 #### Application Use and Payoff
 The CAreFL framework has been deployed in Yidu Cloud Technology Inc. since March 2021 in two lines of their business: 
-1) clinical research services, and 
-2) real-world trial research services. 
-Clinical research focuses on training FL models involving data silos from multiple hospitals. Real world trial research is often initiated by a pharmaceutical
-company which aims to leverage data from multiple hospitals to build models. Both services require data which need to be collected by the hospitals over months or years under their respective Institutional Review Board (IRB) supervision. So far, CAreFL has been used to help eight well-known medical institutions in China to train AI models for risk prediction, disease diagnosis and influence factor analysis.
+1) clinical research services, and : Clinical research focuses on training FL models involving data silos from multiple hospitals. 
+2) and real-world trial research services. : Real world trial research is often initiated by a pharmaceutical company which aims to leverage data from multiple hospitals to build models.  
+Both services require data which need to be collected by the hospitals over months or years under their respective Institutional Review Board (IRB) supervision. So far, CAreFL has been used to help eight well-known medical institutions in China to train AI models for risk prediction, disease diagnosis and influence factor analysis.
 
 #### Conclusions and Future Work
 In future, we will continue the explore the applicability of CAreFL in other smart healthcare application scenarios. We will also extend the CAreFL framework with contribution-based data pricing mechanisms (Pei 2020) to support the emergence of an **FL-based healthcare data exchange marketplace**. Eventually, we aim to incorporate these functionalities into the opensource FATE framework and make them available to more developers, researchers and practitioners.
