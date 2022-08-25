@@ -16,7 +16,6 @@
 
 [Google]
 - FL with Google, https://federated.withgoogle.com/  
-- Federated Learning: Machine Learning on Decentralized Data (Google I/O'19), https://www.youtube.com/watch?v=89BGjQYA0uE&t=1968s  
 - Federated Learning Tutorial by Peter Kairouz, Brendan McMahan, Virginia Smith, https://slideslive.com/38935813/federated-learning-tutorial?ref=account-folder-62016-folders  
 
 [YouTube]
