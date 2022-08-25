@@ -14,7 +14,7 @@ YouTube, Towards Trustworthy Federated Learning, https://www.youtube.com/watch?v
 - Threats to Federated Learning
 
 - [[CAreFL: Contribution-Aware Federated Learning for Smart Healthcare](https://github.com/Kwangkee/FL/blob/main/FL@Nanyang.md#carefl)], https://ojs.aaai.org/index.php/AAAI/article/view/21505
-- [[CrowdFL: A Marketplace for Crowdsourced Federated Learning](#crowdfl)], AAAI-22 Demonstration Track, https://ojs.aaai.org/index.php/AAAI/article/view/21715   
+- [[CrowdFL: A Marketplace for Crowdsourced Federated Learning](https://github.com/Kwangkee/FL/blob/main/FL@Nanyang.md#crowdfl)], AAAI-22 Demonstration Track, https://ojs.aaai.org/index.php/AAAI/article/view/21715   
 - Federated Graph Neural Networks: Overview, Techniques and Challenges
 - Personalised Federated Learning: A Combinational Approach
 - FedCoin: A Peer-to-Peer Payment System for Federated Learning
