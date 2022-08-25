@@ -20,7 +20,7 @@ Project FTL, https://www.microsoft.com/en-us/research/project/project-flute/
 https://www.microsoft.com/en-us/research/people/juharri/
 Justin is using his experience in ML and crowdsourcing to implement a framework for ML in smart contracts to collect quality data and provide models that are free to use. Experiments are done on the Ethereum blockchain. Blog post: https://aka.ms/0xDeCA10B-blog1. Details: https://github.com/microsoft/0xDeCA10B. Justin is now interested in applying these incentives in a Federated Learning setting to ensure that while data is kept private, people can also be rewarded and fairly compensated for their contributions.
 
-https://scholar.google.com/citations?hl=ko&user=w9QAUcAAAAAJ&view_op=list_works&citft=1&citft=2&citft=3&email_for_op=KwangkeeLee%40gmail.com&sortby=pubdate 
+https://scholar.google.com/citations?user=w9QAUcAAAAAJ&hl=ko&oi=ao  
 - https://www.microsoft.com/en-us/research/blog/leveraging-blockchain-to-make-machine-learning-models-more-accessible/
 - Leveraging Blockchain for Greater Accessibility of Machine Learning Models, https://stanford-jblp.pubpub.org/pub/blockchain-machine-learning/release/1
 - Blockchain-orchestrated machine learning for privacy preserving federated learning in electronic health data, https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=w9QAUcAAAAAJ&sortby=pubdate&citft=1&citft=2&citft=3&email_for_op=KwangkeeLee%40gmail.com&citation_for_view=w9QAUcAAAAAJ:W7OEmFMy1HYC
