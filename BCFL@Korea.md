@@ -18,10 +18,6 @@ Back to https://github.com/Kwangkee/FL
   * Learning Markets: An AI Collaboration Framework Based on Blockchain and Smart Contracts, https://ieeexplore.ieee.org/abstract/document/9234516 
   * APPFLChain: A Privacy Protection Distributed Artificial-Intelligence Architecture Based on Federated Learning and Consortium Blockchain, https://deepai.org/publication/appflchain-a-privacy-protection-distributed-artificial-intelligence-architecture-based-on-federated-learning-and-consortium-blockchain 
 
-#### FL Market
-- FL-Market: Trading Private Models in Federated Learning, https://arxiv.org/abs/2106.04384. The source code, data, and/or other artifacts have been made available at https://github.com/teijyogen/FL-Market 
-- [[CrowdFL: A Marketplace for Crowdsourced Federated Learning](https://github.com/Kwangkee/FL/blob/main/FL@Nanyang.md#crowdfl)], AAAI-22 Demonstration Track, https://ojs.aaai.org/index.php/AAAI/article/view/21715   
-
 ## 부경대
 
 [Sandi Rahmadika@부경대]
@@ -37,9 +33,7 @@ Blockchain technology for providing an architecture model of decentralized perso
 PDPM: A Patient-Defined Data Privacy Management with Nudge Theory in Decentralized E-Health Environments, https://www.jstage.jst.go.jp/article/transinf/E104.D/11/E104.D_2021NGP0015/_pdf
 
 A Study on Blockchain-Based Asynchronous Federated Learning Framework, https://papersearch.net/google_link/fulltext.asp?file_name=52825060.pdf
-
-Back to the [Top](#list)  
-Back to https://github.com/Kwangkee/FL
+ 
 ## 서울대 
 
 문수묵 교수, https://altair.snu.ac.kr/ 
@@ -66,9 +60,7 @@ Back to https://github.com/Kwangkee/FL
 본 연구에서는 불균일한 데이터 분포 환경을 다룰 수 있도록 블록체인 기반의 탈중앙화 연합학습 플랫폼을 제안함으로써 다음 두 목표를 이루고자 한다. 
 첫째, 각 노드가 가지고 있는 데이터들이 불균일하고 심지어 거짓된 데이터가 섞여 있어도 글로벌 모델의 수렴성을 유지한다. 
 둘째, 비슷한 분포의 데이터를 가지고 있는 노드들이 자신들의 데이터에 적합한 독자적인 글로벌 모델을 가진다.
-
-Back to the [Top](#list)  
-Back to https://github.com/Kwangkee/FL
+ 
 ## KETI 
 
 KETI (한국전자기술연구원, 구 전자부품연구원)  
@@ -76,8 +68,6 @@ Design and Development of Server-Client Cooperation Framework for Federated Lear
 
 Federated learning is a machine learning technique that enables distributed training without explicitly data sharing between multiple heterogeneous devices. In this paper, we propose and develop a practical federated learning framework to effectively support model deployment, aggregation, and client device monitoring. The proposed approach is designed as a microarchitecture service using container-related technologies such as **\_Docker, Kubernetes\_**, and Prometheus.
 
-Back to the [Top](#list)  
-Back to https://github.com/Kwangkee/FL
 ## ETC
 
 [연세대] Blockchained On-Device Federated Learning - arXiv, https://arxiv.org/abs/1808.03949
