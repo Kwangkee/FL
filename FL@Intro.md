@@ -10,6 +10,9 @@
 - A Field Guide to Federated Optimization, https://arxiv.org/abs/2107.06917  
 - Federated Learning: Challenges, Methods, and Future Directions, https://arxiv.org/abs/1908.07873   
 
+[YouTube]
+- Federated Learning One World Seminar, https://sites.google.com/view/one-world-seminar-series-flow/home, https://www.youtube.com/channel/UCpAXM9I-v76xEPtevcCuA5g
+- WeBank/QiangYang, Recent Advances in Trustworthy Federated Learning, https://www.youtube.com/watch?v=tCBr_XQwPGY
 ***
 
 ## FL Introduction
@@ -17,10 +20,6 @@
 [Google]
 - Federated Learning Tutorial, https://sites.google.com/view/fl-tutorial/
 - FL with Google, https://federated.withgoogle.com/  
-
-[YouTube]
-- Federated Learning One World Seminar, https://sites.google.com/view/one-world-seminar-series-flow/home, https://www.youtube.com/channel/UCpAXM9I-v76xEPtevcCuA5g
-- WeBank/QiangYang, Recent Advances in Trustworthy Federated Learning, https://www.youtube.com/watch?v=tCBr_XQwPGY
 
 [한글]
 - IITP, 인공지능 기술청사진 2030 2차년도 보고서, https://www.iitp.kr/kr/1/knowledge/openReference/view.it?ArticleIdx=5248&count=true   
