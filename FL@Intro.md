@@ -15,8 +15,8 @@
 ## FL Introduction
 
 [Google]
+- Federated Learning Tutorial, https://sites.google.com/view/fl-tutorial/
 - FL with Google, https://federated.withgoogle.com/  
-- Federated Learning Tutorial by Peter Kairouz, Brendan McMahan, Virginia Smith, https://sites.google.com/view/fl-tutorial/
 
 [YouTube]
 - Federated Learning One World Seminar, https://sites.google.com/view/one-world-seminar-series-flow/home, https://www.youtube.com/channel/UCpAXM9I-v76xEPtevcCuA5g
