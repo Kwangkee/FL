@@ -20,7 +20,8 @@ Back to https://github.com/Kwangkee/FL
 
 #### FL Market
 - FL-Market: Trading Private Models in Federated Learning, https://arxiv.org/abs/2106.04384. The source code, data, and/or other artifacts have been made available at https://github.com/teijyogen/FL-Market 
-- CrowdFL: A Marketplace for Crowdsourced Federated Learning, https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=eXgoTXMAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=eXgoTXMAAAAJ:edV_OwlUe4UC
+- [[CrowdFL: A Marketplace for Crowdsourced Federated Learning](#crowdfl)], AAAI-22 Demonstration Track, https://ojs.aaai.org/index.php/AAAI/article/view/21715  
+
 
 ## 부경대
 
