@@ -1,7 +1,7 @@
 Back to https://github.com/Kwangkee/FL
 ***
 
-https://github.com/symbioticlab  
+University of Michigan, https://github.com/symbioticlab  
 Mosharaf Chowdhury, https://www.mosharaf.com/  
 Fan Lai, http://www-personal.umich.edu/~fanlai/  
 https://jaewonchung.me/about.html  
