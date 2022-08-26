@@ -4,6 +4,7 @@ Back to https://github.com/Kwangkee/FL
 
 ## fedscale.ai
 A scalable and extensible federated learning engine and benchmark, http://fedscale.ai/  
+Open-Source Systems for Federated Learning | Stanford MLSys #48, https://www.youtube.com/watch?v=TcbOMbg4F9g  
 
 ## FedScale
 FedScale: Benchmarking Model and System Performance of Federated Learning at Scale, https://arxiv.org/abs/2105.11367  
