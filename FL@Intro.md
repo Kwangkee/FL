@@ -4,6 +4,7 @@
 ## Google Papers  
 - Communication-Efficient Learning of Deep Networks from Decentralized Data, https://arxiv.org/abs/1602.05629  
 - Towards Federated Learning at Scale: System Design, https://arxiv.org/abs/1902.01046  
+- Adaptive Federrated Optimization, https://arxiv.org/abs/2003.00295
 
 ## Survey  
 - Advances and Open Problems in Federated Learning, https://arxiv.org/abs/1912.04977  
