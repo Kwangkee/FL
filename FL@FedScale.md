@@ -1,13 +1,21 @@
 Back to https://github.com/Kwangkee/FL
 ***
 
+https://github.com/symbioticlab  
+Mosharaf Chowdhury, https://www.mosharaf.com/  
+Fan Lai, http://www-personal.umich.edu/~fanlai/  
+https://jaewonchung.me/about.html  
+
+***
 
 ## fedscale.ai
 A scalable and extensible federated learning engine and benchmark, http://fedscale.ai/  
 Open-Source Systems for Federated Learning | Stanford MLSys #48, https://www.youtube.com/watch?v=TcbOMbg4F9g  
 
 ## FedScale
-FedScale: Benchmarking Model and System Performance of Federated Learning at Scale, https://arxiv.org/abs/2105.11367  
+FedScale: Benchmarking Model and System Performance of Federated Learning at Scale, https://arxiv.org/abs/2105.11367   
+[slides] http://www-personal.umich.edu/~fanlai/assets/docs/fedscale-icml-slides.pdf from http://www-personal.umich.edu/~fanlai/  
+
 ![image](https://user-images.githubusercontent.com/109835677/185089825-e67182b6-d70f-4009-87d1-ceb3bff2c367.png)
 >Second, existing benchmarks often overlook system speed, connectivity, and availability of the clients (e.g., FedML (He et al., 2020) and Flower (Beutel et al., 2021)). This discourages FL efforts from considering system efficiency and leads to overly optimistic statistical performance (§2).
 >
