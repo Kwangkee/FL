@@ -11,6 +11,8 @@
 - A Field Guide to Federated Optimization, https://arxiv.org/abs/2107.06917  
 - Federated Learning: Challenges, Methods, and Future Directions, https://arxiv.org/abs/1908.07873   
 
+- The Internet of Federated Things (IoFT): A Vision for the Future and In-depth Survey of Data-driven Approaches for Federated Learning, https://arxiv.org/abs/2111.05326
+
 [YouTube]
 - Federated Learning One World Seminar, https://sites.google.com/view/one-world-seminar-series-flow/home, https://www.youtube.com/channel/UCpAXM9I-v76xEPtevcCuA5g
 - WeBank/QiangYang, Recent Advances in Trustworthy Federated Learning, https://www.youtube.com/watch?v=tCBr_XQwPGY
