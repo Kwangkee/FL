@@ -14,8 +14,8 @@
 ## ETC  
 - Federated Learning One World Seminar, https://sites.google.com/view/one-world-seminar-series-flow/home, https://www.youtube.com/channel/UCpAXM9I-v76xEPtevcCuA5g
 - WeBank/QiangYang, Recent Advances in Trustworthy Federated Learning, https://www.youtube.com/watch?v=tCBr_XQwPGY
-- The Internet of Federated Things (IoFT): A Vision for the Future and In-depth Survey of Data-driven Approaches for Federated Learning, https://arxiv.org/abs/2111.05326, [Site] https://ioft-data.engin.umich.edu/, [YouTube] https://www.youtube.com/watch?v=RrubcIWCihk
-- 
+- The Internet of Federated Things (IoFT): A Vision for the Future and In-depth Survey of Data-driven Approaches for Federated Learning, https://arxiv.org/abs/2111.05326, [YouTube] https://www.youtube.com/watch?v=RrubcIWCihk, [Site] https://ioft-data.engin.umich.edu/, https://sites.google.com/site/schungkorea/
+
 ***
 
 ## FL Introduction
