@@ -3,7 +3,7 @@ Back to https://github.com/Kwangkee/FL
 
 ## Papers 
 
-- [[Oort: Informed Participant Selection for Scalable Federated Learning](https://github.com/Kwangkee/FL/blob/main/FL@ClientSelection.md#oort)], https://arxiv.org/abs/2010.06081
+- [[Oort: Efficient Federated Learning  via Guided Participant Selection](https://github.com/Kwangkee/FL/blob/main/FL@ClientSelection.md#oort)], https://arxiv.org/abs/2010.06081
   >- Now merged as part of FedScale. More detials, https://github.com/Kwangkee/FL/blob/main/FL@ClientSelection.md#fedscale
 
 - [Contribution-based selection algorithm (Contribution-Based Exponential-weight algorithm for Exploration and Exploitation, CBE3)](https://github.com/Kwangkee/FL/blob/main/FL@ClientSelection.md#cbe3)
@@ -35,7 +35,7 @@ https://github.com/innovation-cat/Awesome-Federated-Machine-Learning#15-client-s
 ***
 
 ## Oort
-Oort: Informed Participant Selection for Scalable Federated Learning, https://arxiv.org/abs/2010.06081
+Oort: Efficient Federated Learning  via Guided Participant Selection, https://www.usenix.org/conference/osdi21/presentation/lai, https://arxiv.org/abs/2010.06081
 
 - https://www.usenix.org/conference/osdi21/presentation/lai     
   >Presentation Video: https://www.youtube.com/watch?v=5npOel4T4Mw  
