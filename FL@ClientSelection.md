@@ -11,8 +11,10 @@ Back to https://github.com/Kwangkee/FL
 - Client selection in federated learning: Convergence analysis and power-of-choice selection strategies, https://github.com/Kwangkee/FL/blob/main/FL@CarnegieMellon.md#yae-jee-cho
 
 - [[FedBalancer: Data and Pace Control for Efficient Federated Learning on Heterogeneous Clients (ACM MobiSys 2022)](https://github.com/Kwangkee/FL/blob/main/FL@ClientSelection.md#fedbalancer)], https://dl.acm.org/doi/abs/10.1145/3498361.3538917 
- 
 
+- Client Selection for Asynchronous Federated Learning with Fairness Consideration, https://ieeexplore.ieee.org/document/9814669  
+- Client Selection for Federated Learning With Label Noise, https://ieeexplore.ieee.org/document/9632344  
+ 
 ## ETC
 
 - [FedCS] Client selection for federated learning with heterogeneous resources in mobile edge, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Client+Selection+for+Federated+Learning+with+Heterogeneous+Resources+in+Mobile+Edge&btnG=
