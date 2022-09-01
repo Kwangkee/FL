@@ -11,6 +11,12 @@
 - A Field Guide to Federated Optimization, https://arxiv.org/abs/2107.06917  
 - Federated Learning: Challenges, Methods, and Future Directions, https://arxiv.org/abs/1908.07873   
 
+## Introduction to the Special Issue on the Federated Learning
+Introduction to the Special Issue on the Federated Learning: Algorithms, Systems, and Applications: Part 1, https://dl.acm.org/doi/full/10.1145/3514223
+- Federated Learning for Healthcare: Systematic Review and Architecture Proposal, https://dl.acm.org/doi/10.1145/3501813
+- GTG-Shapley: Efficient and Accurate Participant Contribution Evaluation in Federated Learning, https://dl.acm.org/doi/10.1145/3501811
+
+
 ## ETC  
 - Federated Learning One World Seminar, https://sites.google.com/view/one-world-seminar-series-flow/home, https://www.youtube.com/channel/UCpAXM9I-v76xEPtevcCuA5g
 - WeBank/QiangYang, Recent Advances in Trustworthy Federated Learning, https://www.youtube.com/watch?v=tCBr_XQwPGY
