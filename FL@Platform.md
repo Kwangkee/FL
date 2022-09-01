@@ -8,12 +8,9 @@ Back to https://github.com/Kwangkee/FL
 [FedML](https://fedml.ai/)  
 [OpenFed](#openfed)  
 
-TensorFlow Federated (TFF)  
-LEAF   
-PySyft   
-PaddleFL   
-
-
+TensorFlow Federated (TFF), https://www.tensorflow.org/federated?hl=ko    
+LEAF: A Benchmark for Federated Settings, https://arxiv.org/abs/1812.01097, https://leaf.cmu.edu/   
+PySyft, https://github.com/OpenMined/PySyft       
 
 FL_PyTorch: optimization research simulator for federated learning, https://dl.acm.org/doi/abs/10.1145/3488659.3493775  
 https://github.com/burlachenkok/flpytorch  
