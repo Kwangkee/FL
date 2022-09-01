@@ -12,7 +12,7 @@
 - Federated Learning: Challenges, Methods, and Future Directions, https://arxiv.org/abs/1908.07873   
 
 ## ACM: Introduction to the Special Issue on the Federated Learning
-Introduction to the Special Issue on the Federated Learning: Algorithms, Systems, and Applications: Part 1, https://dl.acm.org/doi/full/10.1145/3514223
+Introduction to the Special Issue on the Federated Learning: Algorithms, Systems, and Applications: Part 1, https://dl.acm.org/toc/tist/2022/13/4, https://dl.acm.org/doi/full/10.1145/3514223,
 - Federated Learning for Healthcare: Systematic Review and Architecture Proposal, https://dl.acm.org/doi/10.1145/3501813
 - GTG-Shapley: Efficient and Accurate Participant Contribution Evaluation in Federated Learning, https://dl.acm.org/doi/10.1145/3501811
 
