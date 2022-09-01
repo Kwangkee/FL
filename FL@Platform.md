@@ -7,6 +7,13 @@ Back to https://github.com/Kwangkee/FL
 [FedSclae](https://github.com/Kwangkee/FL/blob/main/FL%40FedScale.md)  
 [FedML](https://fedml.ai/)
 
+TensorFlow Federated (TFF)  
+LEAF   
+PySyft   
+PaddleFL   
+OpenFed   
+
+
 FL_PyTorch: optimization research simulator for federated learning, https://dl.acm.org/doi/abs/10.1145/3488659.3493775  
 https://github.com/burlachenkok/flpytorch  
 
