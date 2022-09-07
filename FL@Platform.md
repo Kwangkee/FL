@@ -18,9 +18,9 @@ https://github.com/burlachenkok/flpytorch
 ***   
 
 ## FedML
-FedML: https://fedml.ai/
-https://fedml.ai/platform-tutorial/
-https://doc.fedml.ai/  
+FedML: https://fedml.ai/  
+Tutorial for Platform, https://fedml.ai/platform-tutorial/  
+https://doc.fedml.ai/   
 
 
 ## Flower 
