@@ -17,6 +17,12 @@ https://github.com/burlachenkok/flpytorch
 
 ***   
 
+## FedML
+FedML: https://fedml.ai/
+https://fedml.ai/platform-tutorial/
+https://doc.fedml.ai/  
+
+
 ## Flower 
 
 Flower: A Friendly Federated Learning Framework, https://flower.dev/  
