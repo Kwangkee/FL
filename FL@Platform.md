@@ -5,7 +5,7 @@ Back to https://github.com/Kwangkee/FL
 [Flower](#flower)  
 [FLSim](#flsim)  
 [FedSclae](https://github.com/Kwangkee/FL/blob/main/FL%40FedScale.md)  
-[FedML](https://fedml.ai/), https://fedml.ai/, https://doc.fedml.ai/  
+[FedML](https://fedml.ai/)
 [OpenFed](#openfed)  
 
 TensorFlow Federated (TFF), https://www.tensorflow.org/federated?hl=ko    
