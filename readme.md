@@ -34,6 +34,9 @@ https://github.com/innovation-cat/Awesome-Federated-Machine-Learning
 ***
 
 ■ **BCFL Survey**, 블록체인 융합 연합학습 (Blockchain-enabled Federated Learning)     
+Blockchain-based Federated Learning for Securing Internet of Things: A Comprehensive Survey, https://dl.acm.org/doi/10.1145/3560816   
+
+
 Federated Learning Meets Blockchain in Edge Computing: Opportunities and Challenges, https://ieeexplore.ieee.org/abstract/document/9403374   
 Blockchain-based Federated Learning: A Comprehensive Survey, https://arxiv.org/abs/2110.02182  
 Integration of blockchain and federated learning for Internet of Things: Recent advances and future challenges, https://www.sciencedirect.com/science/article/pii/S0167404821001796  
