@@ -2,6 +2,11 @@ Back to https://github.com/Kwangkee/FL
 ***
 
 ## list
+
+Federated Learning for Smart Healthcare: A Survey, https://dl.acm.org/doi/full/10.1145/3501296  
+A framework for privacy-preservation of IoT healthcare data using Federated Learning and blockchain technology, https://www.sciencedirect.com/science/article/abs/pii/S0167739X21004726
+
+
 - [[Contribution-Aware Federated Learning for Smart Healthcare](https://github.com/Kwangkee/FL/blob/main/FL@Nanyang.md#carefl)], https://ojs.aaai.org/index.php/AAAI/article/view/21505
 
 - [[삼성병원: 신수용 교수](https://github.com/Kwangkee/FL/blob/main/FL@Medical.md#%EC%82%BC%EC%84%B1%EB%B3%91%EC%9B%90-%EC%8B%A0%EC%88%98%EC%9A%A9-%EA%B5%90%EC%88%98)] 
