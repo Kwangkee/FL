@@ -13,6 +13,9 @@ https://scholar.google.com/citations?hl=ko&user=TuL21poAAAAJ&view_op=list_works&
 ## FLRA: A Reference Architecture for Federated Learning Systems
 FLRA: A Reference Architecture for Federated Learning Systems, https://arxiv.org/abs/2106.11570
 
+>Although much effort has been put into federated learning from the machine learning perspectives, our previous systematic literature review on the area shows that there is a distinct lack of considerations for software architecture design for federated learning. In this paper, we propose **FLRA, a reference architecture for federated learning systems**, which provides a template design for federated learning-based solutions. 
+>The FLRA reference architecture consists of a pool of architectural patterns that could address the frequently recurring design problems in federated learning architectures. The FLRA reference architecture can serve as a design guideline to assist architects and developers with practical solutions for their problems, which can be further customised.
+
 #### FLRA: a reference architecture of federated learning systems
 ![image](https://user-images.githubusercontent.com/109835677/186174360-3c0d2d90-36c7-4650-b5c6-befabcf2b055.png)
 
