@@ -10,7 +10,7 @@ Back to https://github.com/Kwangkee/FL
 
 |Web Site|More Info|
 |--|--|
-|Flower: A Friendly Federated Learning Framework, https://flower.dev/|-|
+|Flower: A Friendly Federated Learning Framework, https://flower.dev/|https://github.com/Kwangkee/FL/blob/main/FL@Platform.md#flower|
 |A scalable and extensible federated learning engine and benchmark, http://fedscale.ai/|https://github.com/Kwangkee/FL/blob/main/FL%40FedScale.md|
 |FedML: https://fedml.ai/|https://github.com/Kwangkee/FL/blob/main/FL%40Platform.md#fedml|
 |FLSim: https://github.com/facebookresearch/FLSim|https://github.com/Kwangkee/FL/blob/main/FL%40Platform.md#flsim|
