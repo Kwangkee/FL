@@ -3,7 +3,7 @@ Back to https://github.com/Kwangkee/FL
 
 ## List
 
-#### Open FL Platform (Active)
+## Open FL Platform (Active)
 |Open FL Platform (Active)|Affiliation|More Info|
 |--|--|--|
 |Flower: A Friendly Federated Learning Framework, https://flower.dev/|U of Cambridge, Samsung|https://github.com/Kwangkee/FL/blob/main/FL@Platform.md#flower|
@@ -11,7 +11,7 @@ Back to https://github.com/Kwangkee/FL
 |FedML: https://fedml.ai/|USC & FedML Inc.|https://github.com/Kwangkee/FL/blob/main/FL%40Platform.md#fedml|
 |FLSim: https://github.com/facebookresearch/FLSim|Meta/Facebook Research|https://github.com/Kwangkee/FL/blob/main/FL%40Platform.md#flsim|
 
-#### Open FL Platform (Etc)
+## Open FL Platform (Etc)
 |Open FL Platform (Etc)|Affiliation|More Info|
 |--|--|--|
 |TensorFlow Federated (TFF), https://www.tensorflow.org/federated?hl=ko|Google|--|
@@ -22,7 +22,7 @@ Back to https://github.com/Kwangkee/FL
 |OpenFed, https://github.com/FederalLab/OpenFed|--|https://github.com/Kwangkee/FL/blob/main/FL@Platform.md#openfed|
 |FL_PyTorch, https://github.com/burlachenkok/flpytorch|--|https://dl.acm.org/doi/abs/10.1145/3488659.3493775|
 
-#### FL Benchmark
+## FL Benchmark
 |FL Benchmark|Affiliation|More Info|
 |--|--|--|
 |LEAF: A Benchmark for Federated Settings, https://arxiv.org/abs/1812.01097, https://leaf.cmu.edu/|Carnegie Mellon|-|
@@ -30,7 +30,7 @@ Back to https://github.com/Kwangkee/FL
 |An Empirical Study of Personalized Federated Learning, https://arxiv.org/abs/2206.13190, Github: https://github.com/OnizukaLab/FedBench|Osaka University|-|
 |pFL-Bench: A Comprehensive Benchmark for Personalized Federated Learning, https://arxiv.org/abs/2206.03655, Github: https://github.com/alibaba/FederatedScope/tree/master/benchmark/pFL-Bench|Alibaba Group|-|
 
-#### Commercial FL Platform
+## Commercial FL Platform
 |Commercial FL Platform|Affiliation|More Info|
 |--|--|--|
 |STADLE FEDERATED LEARNING, https://www.tieset.com/|--|--|
