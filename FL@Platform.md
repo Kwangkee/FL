@@ -13,12 +13,9 @@ Back to https://github.com/Kwangkee/FL
 |Benchmarking|Affiliation|More Info|
 |--|--|--|
 |LEAF: A Benchmark for Federated Settings, https://arxiv.org/abs/1812.01097, https://leaf.cmu.edu/|Carnegie Mellon|--|
-|Motley: Benchmarking Heterogeneity and Personalization in Federated Learning, https://arxiv.org/abs/2206.09262
-Github: https://github.com/google-research/federated/tree/master/personalization_benchmark|Carnegie Mellon|https://github.com/Kwangkee/FL/blob/main/FL%40Benchmark.md#motleycarnegie-mellon|
-|An Empirical Study of Personalized Federated Learning, https://arxiv.org/abs/2206.13190
-Github: https://github.com/OnizukaLab/FedBench|Osaka University|--|
-|pFL-Bench: A Comprehensive Benchmark for Personalized Federated Learning, https://arxiv.org/abs/2206.03655
-Github: https://github.com/alibaba/FederatedScope/tree/master/benchmark/pFL-Bench|Alibaba Group|--|
+|Motley: Benchmarking Heterogeneity and Personalization in Federated Learning, https://arxiv.org/abs/2206.09262, Github: https://github.com/google-research/federated/tree/master/personalization_benchmark|Carnegie Mellon|https://github.com/Kwangkee/FL/blob/main/FL%40Benchmark.md#motleycarnegie-mellon|
+|An Empirical Study of Personalized Federated Learning, https://arxiv.org/abs/2206.13190, Github: https://github.com/OnizukaLab/FedBench|Osaka University|--|
+|pFL-Bench: A Comprehensive Benchmark for Personalized Federated Learning, https://arxiv.org/abs/2206.03655, Github: https://github.com/alibaba/FederatedScope/tree/master/benchmark/pFL-Bench|Alibaba Group|https://github.com/Kwangkee/FL/blob/main/FL%40Benchmark.md#pfl-benchalibaba-group|
 
 |Open FL Platform (Etc) |Affiliation|More Info|
 |--|--|--|
