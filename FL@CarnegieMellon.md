@@ -15,8 +15,7 @@ https://scholar.google.com/citations?hl=ko&user=MR333jsAAAAJ&view_op=list_works&
 https://yaejeec.github.io/   
 
 - [[Towards Understanding Biased Client Selection in Federated Learning](https://github.com/Kwangkee/FL/blob/main/FL@CarnegieMellon.md#biased-client-selection)], https://proceedings.mlr.press/v151/jee-cho22a.html    
-- [[To Federate or Not To Federate: Incentivizing Client Participation in Federated Learning](https://github.com/Kwangkee/FL/blob/main/FL@CarnegieMellon.md#incfl)], https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=MR333jsAAAAJ&sortby=pubdate&citation_for_view=MR333jsAAAAJ:UebtZRa9Y70C  
-
+- [[To Federate or Not To Federate: Incentivizing Client Participation in Federated Learning](https://github.com/Kwangkee/FL/blob/main/FL@CarnegieMellon.md#incfl)], https://arxiv.org/abs/2205.14840  
 ***
 
 ## Biased Client Selection
@@ -27,7 +26,7 @@ Towards Understanding Biased Client Selection in Federated Learning, https://pro
 In our work, we present the convergence analysis of federated learning with biased client selection and quantify how the bias affects convergence speed. **We show that biasing client selection towards clients with higher local loss yields faster error convergence.** From this insight, we propose Power-of-Choice, a communication- and computation-efficient client selection framework that flexibly spans the trade-off between convergence speed and solution bias. Extensive experiments demonstrate that Power-of-Choice can converge up to 3× faster and give 10% higher test accuracy than the baseline random selection.  
 
 ## IncFL
-To Federate or Not To Federate: Incentivizing Client Participation in Federated Learning, https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=MR333jsAAAAJ&sortby=pubdate&citation_for_view=MR333jsAAAAJ:UebtZRa9Y70C  
+To Federate or Not To Federate: Incentivizing Client Participation in Federated Learning, https://arxiv.org/abs/2205.14840  
 
 In this paper, we propose an algorithm called IncFL that explicitly maximizes the fraction of clients who are incentivized to use the global model by dynamically adjusting the aggregation weights assigned to their updates. Our experiments show that IncFL increases the number of incentivized clients by 30-55% compared to standard federated training algorithms, and can also improve the generalization performance of the global model on unseen clients.
 
