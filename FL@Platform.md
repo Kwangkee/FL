@@ -11,22 +11,6 @@ Back to https://github.com/Kwangkee/FL
 |FedML: https://fedml.ai/|USC & FedML Inc.|https://github.com/Kwangkee/FL/blob/main/FL%40Platform.md#fedml|
 |FLSim: https://github.com/facebookresearch/FLSim|Meta/Facebook Research|https://github.com/Kwangkee/FL/blob/main/FL%40Platform.md#flsim|
 
-#### FL Benchmark
-|FL Benchmark|Affiliation|More Info|
-|--|--|--|
-|LEAF: A Benchmark for Federated Settings, https://arxiv.org/abs/1812.01097, https://leaf.cmu.edu/|Carnegie Mellon|-|
-|Motley: Benchmarking Heterogeneity and Personalization in Federated Learning, https://arxiv.org/abs/2206.09262, Github: https://github.com/google-research/federated/tree/master/personalization_benchmark|Carnegie Mellon|-|
-|An Empirical Study of Personalized Federated Learning, https://arxiv.org/abs/2206.13190, Github: https://github.com/OnizukaLab/FedBench|Osaka University|-|
-|pFL-Bench: A Comprehensive Benchmark for Personalized Federated Learning, https://arxiv.org/abs/2206.03655, Github: https://github.com/alibaba/FederatedScope/tree/master/benchmark/pFL-Bench|Alibaba Group|-|
-
-***
-
-#### Commercial FL Platform
-|Commercial FL Platform|Affiliation|More Info|
-|--|--|--|
-|STADLE FEDERATED LEARNING, https://www.tieset.com/|--|--|
-|integrate.ai, https://www.integrate.ai/|--|Design a federated learning system in seven steps, https://integrate.ai/blog/design-a-federated-learning-system-in-seven-steps-pftl/|
-
 #### Open FL Platform (Etc)
 |Open FL Platform (Etc)|Affiliation|More Info|
 |--|--|--|
@@ -37,6 +21,22 @@ Back to https://github.com/Kwangkee/FL
 |IBM Federated Learning, https://ibmfl.mybluemix.net/|IBM Research.|Github: https://github.com/IBM/federated-learning-lib|
 |OpenFed, https://github.com/FederalLab/OpenFed|--|https://github.com/Kwangkee/FL/blob/main/FL@Platform.md#openfed|
 |FL_PyTorch, https://github.com/burlachenkok/flpytorch|--|https://dl.acm.org/doi/abs/10.1145/3488659.3493775|
+
+#### FL Benchmark
+|FL Benchmark|Affiliation|More Info|
+|--|--|--|
+|LEAF: A Benchmark for Federated Settings, https://arxiv.org/abs/1812.01097, https://leaf.cmu.edu/|Carnegie Mellon|-|
+|Motley: Benchmarking Heterogeneity and Personalization in Federated Learning, https://arxiv.org/abs/2206.09262, Github: https://github.com/google-research/federated/tree/master/personalization_benchmark|Carnegie Mellon|-|
+|An Empirical Study of Personalized Federated Learning, https://arxiv.org/abs/2206.13190, Github: https://github.com/OnizukaLab/FedBench|Osaka University|-|
+|pFL-Bench: A Comprehensive Benchmark for Personalized Federated Learning, https://arxiv.org/abs/2206.03655, Github: https://github.com/alibaba/FederatedScope/tree/master/benchmark/pFL-Bench|Alibaba Group|-|
+
+#### Commercial FL Platform
+|Commercial FL Platform|Affiliation|More Info|
+|--|--|--|
+|STADLE FEDERATED LEARNING, https://www.tieset.com/|--|--|
+|integrate.ai, https://www.integrate.ai/|--|Design a federated learning system in seven steps, https://integrate.ai/blog/design-a-federated-learning-system-in-seven-steps-pftl/|
+
+
 
 ***   
 
