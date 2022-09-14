@@ -2,11 +2,6 @@ Back to https://github.com/Kwangkee/FL
 ***
 
 ## List
-[Flower](#flower)  
-[FedSclae](https://github.com/Kwangkee/FL/blob/main/FL%40FedScale.md)  
-[FedML](#fedml)  
-[FLSim](#flsim)  
-
 
 |Open FL Platform|Affiliation|More Info|
 |--|--|--|
@@ -14,12 +9,18 @@ Back to https://github.com/Kwangkee/FL
 |A scalable and extensible federated learning engine and benchmark, http://fedscale.ai/|U of Michigan|https://github.com/Kwangkee/FL/blob/main/FL%40FedScale.md|
 |FedML: https://fedml.ai/|USC, FedML, Inc.|https://github.com/Kwangkee/FL/blob/main/FL%40Platform.md#fedml|
 |FLSim: https://github.com/facebookresearch/FLSim|Meta/Facebook Research|https://github.com/Kwangkee/FL/blob/main/FL%40Platform.md#flsim|
+|IBM|--|--|
+|Intel|--|--|
+|--|--|--|
+|TensorFlow Federated (TFF), https://www.tensorflow.org/federated?hl=ko|--|--|
+|PySyft, https://github.com/OpenMined/PySyft|--|--|
+|Benchmarking|--|--|
+|LEAF: A Benchmark for Federated Settings, https://arxiv.org/abs/1812.01097, https://leaf.cmu.edu/|CMU|--|
+|--|--|--|
+|OpenFed, https://github.com/FederalLab/OpenFed|--|https://github.com/Kwangkee/FL/edit/main/FL@Platform.md#openfed|
+|FL_PyTorch, https://github.com/burlachenkok/flpytorch|--|https://dl.acm.org/doi/abs/10.1145/3488659.3493775|
 
 
-
-TensorFlow Federated (TFF), https://www.tensorflow.org/federated?hl=ko    
-PySyft, https://github.com/OpenMined/PySyft     
-LEAF: A Benchmark for Federated Settings, https://arxiv.org/abs/1812.01097, https://leaf.cmu.edu/ 
 
 [OpenFed](#openfed)  
 FL_PyTorch: optimization research simulator for federated learning, https://dl.acm.org/doi/abs/10.1145/3488659.3493775  
