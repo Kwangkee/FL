@@ -34,7 +34,8 @@ Introduction to the Special Issue on the Federated Learning: Algorithms, Systems
 - “중앙집중식 ML 방식에서 로컬라이징” [특별기획 AI 2030] ⑲ 연합학습, https://www.aitimes.com/news/articleView.html?idxno=136724   
 - 연합학습 기술 동향 및 산업적 시사점 [기술정책 트렌드 2020-06], https://www.itfind.or.kr/publication/regular/periodical/read.do?selectedId=02-001-201223-000002&fbclid=IwAR2kkwI-9n3pwzROqvkLSjCW9XKT6fs5K62jv9Ery-0-aTxtGLEGryiUxrQ   
 - 동적인 디바이스 환경에서 적응적 연합학습 기술, https://itfind.or.kr/publication/regular/weeklytrend/pastList/read.do?selectedId=1237   
-- 동적인 디바이스 환경에서 적응적 연합학습기술 개발 (Adaptive Federated Learning in Dynamic Heterogeneous Environment), https://github.com/Kwangkee/FL/blob/main/AFL.md   
+- 동적인 디바이스 환경에서 적응적 연합학습기술 개발 (Adaptive Federated Learning in Dynamic Heterogeneous Environment), https://github.com/Kwangkee/FL/blob/main/AFL.md
+- 엣지 컴퓨팅과 연합학습을 활용한 제조 공정의 AI 데이터 분석 모델의 제안, https://www.itfind.or.kr/publication/regular/weeklytrend/weekly/list.do?selectedId=1248   
 
 [한글 동영상 강의]  
 - 연합학습 기초, https://www.laidd.org/course/105  
