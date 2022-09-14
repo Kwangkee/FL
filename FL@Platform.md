@@ -8,12 +8,12 @@ Back to https://github.com/Kwangkee/FL
 [FLSim](#flsim)  
 
 
-|Open FL Platform|More Info|
+|Open FL Platform|Affiliation|More Info|
 |--|--|--|
-|Flower: A Friendly Federated Learning Framework, https://flower.dev/|https://github.com/Kwangkee/FL/blob/main/FL@Platform.md#flower|
-|A scalable and extensible federated learning engine and benchmark, http://fedscale.ai/|https://github.com/Kwangkee/FL/blob/main/FL%40FedScale.md|
-|FedML: https://fedml.ai/|https://github.com/Kwangkee/FL/blob/main/FL%40Platform.md#fedml|
-|FLSim: https://github.com/facebookresearch/FLSim|https://github.com/Kwangkee/FL/blob/main/FL%40Platform.md#flsim|
+|Flower: A Friendly Federated Learning Framework, https://flower.dev/|U of Cabbridge, Samsung|https://github.com/Kwangkee/FL/blob/main/FL@Platform.md#flower|
+|A scalable and extensible federated learning engine and benchmark, http://fedscale.ai/|U of Michigan|https://github.com/Kwangkee/FL/blob/main/FL%40FedScale.md|
+|FedML: https://fedml.ai/|USC, FedML, Inc.|https://github.com/Kwangkee/FL/blob/main/FL%40Platform.md#fedml|
+|FLSim: https://github.com/facebookresearch/FLSim|Meta/Facebook Research|https://github.com/Kwangkee/FL/blob/main/FL%40Platform.md#flsim|
 
 
 
