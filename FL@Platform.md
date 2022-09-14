@@ -15,7 +15,7 @@ Back to https://github.com/Kwangkee/FL
 |TensorFlow Federated (TFF), https://www.tensorflow.org/federated?hl=ko|--|--|
 |PySyft, https://github.com/OpenMined/PySyft|--|--|
 
-|Benchmarking|--|--|
+|Benchmarking|Affiliation|More Info|
 |--|--|--|
 |LEAF: A Benchmark for Federated Settings, https://arxiv.org/abs/1812.01097, https://leaf.cmu.edu/|CMU|--|
 |OpenFed, https://github.com/FederalLab/OpenFed|--|https://github.com/Kwangkee/FL/blob/main/FL@Platform.md#openfed|
