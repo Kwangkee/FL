@@ -3,21 +3,23 @@ Back to https://github.com/Kwangkee/FL
 
 ## List
 
-|Open FL Platform|Affiliation|More Info|
+|Open FL Platform (Active) |Affiliation|More Info|
 |--|--|--|
 |Flower: A Friendly Federated Learning Framework, https://flower.dev/|U of Cambridge, Samsung|https://github.com/Kwangkee/FL/blob/main/FL@Platform.md#flower|
-|A scalable and extensible federated learning engine and benchmark, http://fedscale.ai/|U of Michigan|https://github.com/Kwangkee/FL/blob/main/FL%40FedScale.md|
-|FedML: https://fedml.ai/|USC, FedML, Inc.|https://github.com/Kwangkee/FL/blob/main/FL%40Platform.md#fedml|
+|FedScale: A scalable and extensible federated learning engine and benchmark, http://fedscale.ai/|U of Michigan|https://github.com/Kwangkee/FL/blob/main/FL%40FedScale.md|
+|FedML: https://fedml.ai/|USC & FedML Inc.|https://github.com/Kwangkee/FL/blob/main/FL%40Platform.md#fedml|
 |FLSim: https://github.com/facebookresearch/FLSim|Meta/Facebook Research|https://github.com/Kwangkee/FL/blob/main/FL%40Platform.md#flsim|
-|IBM|--|--|
-|Intel|--|--|
-|--|--|--|
-|TensorFlow Federated (TFF), https://www.tensorflow.org/federated?hl=ko|--|--|
-|PySyft, https://github.com/OpenMined/PySyft|--|--|
 
 |Benchmarking|Affiliation|More Info|
 |--|--|--|
 |LEAF: A Benchmark for Federated Settings, https://arxiv.org/abs/1812.01097, https://leaf.cmu.edu/|CMU|--|
+
+|Open FL Platform (Etc) |Affiliation|More Info|
+|--|--|--|
+|TensorFlow Federated (TFF), https://www.tensorflow.org/federated?hl=ko|Google|--|
+|PySyft, https://github.com/OpenMined/PySyft|OpenMined|https://www.openmined.org/|
+|Open Federated Learning (OpenFL) - An Open-Source Framework For Federated Learning, https://github.com/intel/openfl|Intel|--|
+|IBM Federated Learning, https://ibmfl.mybluemix.net/|--|Github: https://github.com/IBM/federated-learning-lib|
 |OpenFed, https://github.com/FederalLab/OpenFed|--|https://github.com/Kwangkee/FL/blob/main/FL@Platform.md#openfed|
 |FL_PyTorch, https://github.com/burlachenkok/flpytorch|--|https://dl.acm.org/doi/abs/10.1145/3488659.3493775|
 
