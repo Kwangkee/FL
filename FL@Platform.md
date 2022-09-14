@@ -3,14 +3,16 @@ Back to https://github.com/Kwangkee/FL
 
 ## List
 
-|Open FL Platform (Active) |Affiliation|More Info|
+#### Open FL Platform (Active)
+|Open FL Platform (Active)|Affiliation|More Info|
 |--|--|--|
 |Flower: A Friendly Federated Learning Framework, https://flower.dev/|U of Cambridge, Samsung|https://github.com/Kwangkee/FL/blob/main/FL@Platform.md#flower|
 |FedScale: A scalable and extensible federated learning engine and benchmark, http://fedscale.ai/|U of Michigan|https://github.com/Kwangkee/FL/blob/main/FL%40FedScale.md|
 |FedML: https://fedml.ai/|USC & FedML Inc.|https://github.com/Kwangkee/FL/blob/main/FL%40Platform.md#fedml|
 |FLSim: https://github.com/facebookresearch/FLSim|Meta/Facebook Research|https://github.com/Kwangkee/FL/blob/main/FL%40Platform.md#flsim|
 
-|Benchmarking|Affiliation|More Info|
+#### FL Benchmark
+|FL Benchmark|Affiliation|More Info|
 |--|--|--|
 |LEAF: A Benchmark for Federated Settings, https://arxiv.org/abs/1812.01097, https://leaf.cmu.edu/|Carnegie Mellon|-|
 |Motley: Benchmarking Heterogeneity and Personalization in Federated Learning, https://arxiv.org/abs/2206.09262, Github: https://github.com/google-research/federated/tree/master/personalization_benchmark|Carnegie Mellon|-|
@@ -18,12 +20,15 @@ Back to https://github.com/Kwangkee/FL
 |pFL-Bench: A Comprehensive Benchmark for Personalized Federated Learning, https://arxiv.org/abs/2206.03655, Github: https://github.com/alibaba/FederatedScope/tree/master/benchmark/pFL-Bench|Alibaba Group|-|
 
 ***
-|Commercial FL Platform |Affiliation|More Info|
+
+#### Commercial FL Platform
+|Commercial FL Platform|Affiliation|More Info|
 |--|--|--|
 |STADLE FEDERATED LEARNING, https://www.tieset.com/|--|--|
-|integrate.ai, https://www.integrate.ai/|--|--|
+|integrate.ai, https://www.integrate.ai/|--|Design a federated learning system in seven steps, https://integrate.ai/blog/design-a-federated-learning-system-in-seven-steps-pftl/|
 
-|Open FL Platform (Etc) |Affiliation|More Info|
+#### Open FL Platform (Etc)
+|Open FL Platform (Etc)|Affiliation|More Info|
 |--|--|--|
 |TensorFlow Federated (TFF), https://www.tensorflow.org/federated?hl=ko|Google|--|
 |PySyft, https://github.com/OpenMined/PySyft|OpenMined|https://www.openmined.org/|
