@@ -17,10 +17,17 @@ Back to https://github.com/Kwangkee/FL
 |An Empirical Study of Personalized Federated Learning, https://arxiv.org/abs/2206.13190, Github: https://github.com/OnizukaLab/FedBench|Osaka University|-|
 |pFL-Bench: A Comprehensive Benchmark for Personalized Federated Learning, https://arxiv.org/abs/2206.03655, Github: https://github.com/alibaba/FederatedScope/tree/master/benchmark/pFL-Bench|Alibaba Group|-|
 
+***
+|Commercial FL Platform |Affiliation|More Info|
+|--|--|--|
+|STADLE FEDERATED LEARNING, https://www.tieset.com/|--|--|
+|integrate.ai, https://www.integrate.ai/|--|--|
+
 |Open FL Platform (Etc) |Affiliation|More Info|
 |--|--|--|
 |TensorFlow Federated (TFF), https://www.tensorflow.org/federated?hl=ko|Google|--|
 |PySyft, https://github.com/OpenMined/PySyft|OpenMined|https://www.openmined.org/|
+|FedAI, https://www.fedai.org/|-|-|
 |Open Federated Learning (OpenFL) - An Open-Source Framework For Federated Learning, https://github.com/intel/openfl|Intel|--|
 |IBM Federated Learning, https://ibmfl.mybluemix.net/|--|Github: https://github.com/IBM/federated-learning-lib|
 |OpenFed, https://github.com/FederalLab/OpenFed|--|https://github.com/Kwangkee/FL/blob/main/FL@Platform.md#openfed|
