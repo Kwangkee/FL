@@ -14,17 +14,12 @@ Back to https://github.com/Kwangkee/FL
 |--|--|--|
 |TensorFlow Federated (TFF), https://www.tensorflow.org/federated?hl=ko|--|--|
 |PySyft, https://github.com/OpenMined/PySyft|--|--|
+
 |Benchmarking|--|--|
 |LEAF: A Benchmark for Federated Settings, https://arxiv.org/abs/1812.01097, https://leaf.cmu.edu/|CMU|--|
 |--|--|--|
 |OpenFed, https://github.com/FederalLab/OpenFed|--|https://github.com/Kwangkee/FL/blob/main/FL@Platform.md#openfed|
 |FL_PyTorch, https://github.com/burlachenkok/flpytorch|--|https://dl.acm.org/doi/abs/10.1145/3488659.3493775|
-
-
-
-[OpenFed](#openfed)  
-FL_PyTorch: optimization research simulator for federated learning, https://dl.acm.org/doi/abs/10.1145/3488659.3493775  
-https://github.com/burlachenkok/flpytorch  
 
 ***   
 
