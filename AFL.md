@@ -25,6 +25,11 @@ Back to https://github.com/Kwangkee/FL
     >- https://nmsl.kaist.ac.kr/projects/fedbalancer/  
     >- 보도자료: http://www.aitimes.kr/news/articleView.html?idxno=25693  
 
+https://jaemin-shin.github.io/  
+[MobiSys'22] FedBalancer: Data and Pace Control for Efficient Federated Learning on Heterogeneous Clients  
+Jaemin Shin, Yuanchun Li, Yunxin Liu, and Sung-Ju Lee  
+[pdf] [arxiv] [video] [code] [slides] [bibtex]  
+
 -	MyDJ: Sensing Food Intakes with an Attachable on Your Eyeglass Frame (ACM CHI 2022, best paper award honorable mention), https://dl.acm.org/doi/abs/10.1145/3491102.3502041 : 딥러닝 기반의 안경 부착형 웨어러블 기술 개발
 
 #### [T2, 성균관대] 
