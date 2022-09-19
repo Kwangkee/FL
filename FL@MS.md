@@ -25,3 +25,9 @@ https://scholar.google.com/citations?user=w9QAUcAAAAAJ&hl=ko&oi=ao
 - Leveraging Blockchain for Greater Accessibility of Machine Learning Models, https://stanford-jblp.pubpub.org/pub/blockchain-machine-learning/release/1
 - Blockchain-orchestrated machine learning for privacy preserving federated learning in electronic health data, https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=w9QAUcAAAAAJ&sortby=pubdate&citation_for_view=w9QAUcAAAAAJ:W7OEmFMy1HYC
 - Decentralized & Collaborative AI on Blockchain, https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=w9QAUcAAAAAJ&sortby=pubdate&citation_for_view=w9QAUcAAAAAJ:9yKSN-GCB0IC
+
+
+Sharing Updatable Models (SUM) on Blockchain, https://github.com/microsoft/0xDeCA10B
+Survey on the Convergence of Machine Learning and Blockchain, https://arxiv.org/abs/2201.00976
+An Investigation of Smart Contract for Collaborative Machine Learning Model Training, https://arxiv.org/abs/2209.05017
+
