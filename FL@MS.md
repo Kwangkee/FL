@@ -16,6 +16,7 @@ Project FTL, https://www.microsoft.com/en-us/research/project/project-flute/
 - Personalized Federated Learning with Adaptive Batchnorm for Healthcare, https://www.microsoft.com/en-us/research/publication/personalized-federated-learning-with-adaptive-batchnorm-for-healthcare/ 
 >In this article, we propose FedAP to tackle domain shifts and then obtain personalized models for local clients. FedAP learns the similarity between clients based on the statistics of the batch normalization layers while preserving the specificity of each client with different local batch normalization. Comprehensive experiments on five healthcare benchmarks demonstrate that FedAP achieves better accuracy compared to state-of-the-art methods (e.g., 10%+ accuracy improvement for PAMAP2) with faster convergence speed.
 
+***
 ## Justin D. Harris
 https://www.microsoft.com/en-us/research/people/juharri/
 Justin is using his experience in ML and crowdsourcing to implement a framework for ML in smart contracts to collect quality data and provide models that are free to use. Experiments are done on the Ethereum blockchain. Blog post: https://aka.ms/0xDeCA10B-blog1. Details: https://github.com/microsoft/0xDeCA10B. Justin is now interested in applying these incentives in a Federated Learning setting to ensure that while data is kept private, people can also be rewarded and fairly compensated for their contributions.
@@ -26,7 +27,7 @@ https://scholar.google.com/citations?user=w9QAUcAAAAAJ&hl=ko&oi=ao
 - Blockchain-orchestrated machine learning for privacy preserving federated learning in electronic health data, https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=w9QAUcAAAAAJ&sortby=pubdate&citation_for_view=w9QAUcAAAAAJ:W7OEmFMy1HYC
 - Decentralized & Collaborative AI on Blockchain, https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=w9QAUcAAAAAJ&sortby=pubdate&citation_for_view=w9QAUcAAAAAJ:9yKSN-GCB0IC
 
-
+***
 Sharing Updatable Models (SUM) on Blockchain, https://github.com/microsoft/0xDeCA10B
 Survey on the Convergence of Machine Learning and Blockchain, https://arxiv.org/abs/2201.00976
 An Investigation of Smart Contract for Collaborative Machine Learning Model Training, https://arxiv.org/abs/2209.05017
