@@ -16,6 +16,12 @@ https://yaejeec.github.io/
 
 - [[Towards Understanding Biased Client Selection in Federated Learning](https://github.com/Kwangkee/FL/blob/main/FL@CarnegieMellon.md#biased-client-selection)], https://proceedings.mlr.press/v151/jee-cho22a.html    
 - [[To Federate or Not To Federate: Incentivizing Client Participation in Federated Learning](https://github.com/Kwangkee/FL/blob/main/FL@CarnegieMellon.md#incfl)], https://arxiv.org/abs/2205.14840  
+
+## HYUNSUNG CHO
+https://scholar.google.co.kr/citations?user=VpQp9hEAAAAJ  
+- FLAME: Federated Learning Across Multi-device Environments, https://arxiv.org/abs/2202.08922  
+
+
 ***
 
 ## Biased Client Selection
