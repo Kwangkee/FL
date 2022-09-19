@@ -11,13 +11,12 @@ A framework for privacy-preservation of IoT healthcare data using Federated Lear
 
 - [[삼성병원: 신수용 교수](https://github.com/Kwangkee/FL/blob/main/FL@Medical.md#%EC%82%BC%EC%84%B1%EB%B3%91%EC%9B%90-%EC%8B%A0%EC%88%98%EC%9A%A9-%EA%B5%90%EC%88%98)] 
 - [[Google: Privacy-first Health Research with Federated Learning](https://github.com/Kwangkee/FL/blob/main/FL@Medical.md#google-privacy-first-health-research-with-federated-learning)]
-- [[KAIST: 양은호 교수: Towards the Practical Utility of Federated Learning in the Medical Domain](https://github.com/Kwangkee/FL/blob/main/FL@Medical.md#kaist-%EC%96%91%EC%9D%80%ED%98%B8-%EA%B5%90%EC%88%98-towards-the-practical-utility-of-federated-learning-in-the-medical-domain)]
+- [[KAIST](https://github.com/Kwangkee/FL/blob/main/FL@Medical.md#kaist)]
 - [[Havard: A Review of Medical Federated Learning](https://github.com/Kwangkee/FL/blob/main/FL@Medical.md#harvard)]
 - Federated learning for smart healthcare: A survey, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Federated+Learning+for+Smart+Healthcare%3A+A+Survey&btnG=
 
 
 ***
-
 ## 삼성병원: 신수용 교수
 https://sooyongshin.wordpress.com/2020/11/22/federated-learning/  
 Reliability and Performance Assessment of Federated Learning on Clinical Benchmark Data, https://arxiv.org/abs/2005.11756  
@@ -28,7 +27,7 @@ https://saihst.skku.edu/m/45_3_view.php?bbs_data=aWR4PTIxNSZzdGFydFBhZ2U9MTU=%7C
 http://www.hitnews.co.kr/news/articleView.html?idxno=19310  
 https://zdnet.co.kr/view/?no=20191101095900  
 
-
+***
 ## Google: Privacy-first Health Research with Federated Learning
 [Google] Privacy-first Health Research with Federated Learning, https://research.google/pubs/pub50116/
 
@@ -48,7 +47,10 @@ To demonstrate the efficacy of federated learning on this dataset, we compare th
 (2) TF federated cross-device model: A model trained on clients on a per-patient basis. Each training round has 16 participating patients, and we trained the model for 500 rounds. 
 (3) TF federated cross-silo model: A model training on clients on a per-silo basis. We use a Dirichlet distribution with parameter alpha of 10 to randomly group all patents to 20 groups of various sizes according to the distribution, and select 5 groups to participate in each federated training round.
 
-## KAIST: 양은호 교수: Towards the Practical Utility of Federated Learning in the Medical Domain
+***
+## KAIST
+
+#### Towards the Practical Utility of Federated Learning in the Medical Domain
 Towards the Practical Utility of Federated Learning in the Medical Domain, https://arxiv.org/abs/2207.03075  
 GitHub: https://github.com/wns823/medical_federated  
 - eICU 포함 3가지 dataset 에 대해, Cross-silo 관점에서 실험 -> **D-3. 실증에 참고**
@@ -64,6 +66,13 @@ We test all algorithms on the three representative real-world medical datasets w
 >Federated Learning for Electronic Health Records, https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=F2ET1WsAAAAJ&sortby=pubdate&citation_for_view=F2ET1WsAAAAJ:yB1At4FlUx8C  
 >[60] Tom J Pollard, Alistair EW Johnson, Jesse D Rafa, Leo A Celi, Roger G Mark, and Omar Badawi. 2018. The eICU Collaborative Research Database, a freely available multi-center database for critical care research. Scientiic data 5, 1 (2018), 1ś13., https://www.nature.com/articles/sdata2018178 
 
+#### Federated Split Vision Transformer for COVID-19 CXR Diagnosis using Task-Agnostic Training
+Federated Split Vision Transformer for COVID-19 CXR Diagnosis using Task-Agnostic Training, https://arxiv.org/abs/2111.01338
+
+Sangjoon Park
+Bio Imaging, Signal Processing & Learning Lab, Korea advanced institute of science and technology, https://scholar.google.com/citations?user=3H5NDOsAAAAJ&hl=ko&oi=ao 
+
+***
 ## Harvard
 A Review of Medical Federated Learning: Applications in Oncology and Cancer Research, https://link.springer.com/chapter/10.1007/978-3-031-08999-2_1  
 Download conference paper PDF, https://link.springer.com/content/pdf/10.1007/978-3-031-08999-2_1.pdf
