@@ -23,12 +23,8 @@ Back to https://github.com/Kwangkee/FL
     >- The source code of our FedBalancer implementation are available at https://github.com/jaemin-shin/FedBalancer
     >- For the testbed experiment on Android devices in our paper (Section 4.6), please refer to the following repository: [flower-FedBalancer-testbed](https://github.com/jaemin-shin/flower-FedBalancer-testbed).  
     >- https://nmsl.kaist.ac.kr/projects/fedbalancer/  
+    >- https://jaemin-shin.github.io/  
     >- 보도자료: http://www.aitimes.kr/news/articleView.html?idxno=25693  
-
-https://jaemin-shin.github.io/  
-[MobiSys'22] FedBalancer: Data and Pace Control for Efficient Federated Learning on Heterogeneous Clients  
-Jaemin Shin, Yuanchun Li, Yunxin Liu, and Sung-Ju Lee  
-[pdf] [arxiv] [video] [code] [slides] [bibtex]  
 
 -	MyDJ: Sensing Food Intakes with an Attachable on Your Eyeglass Frame (ACM CHI 2022, best paper award honorable mention), https://dl.acm.org/doi/abs/10.1145/3491102.3502041 : 딥러닝 기반의 안경 부착형 웨어러블 기술 개발
 
