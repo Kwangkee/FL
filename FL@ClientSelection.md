@@ -138,7 +138,7 @@ FedBalancer: Data and Pace Control for Efficient Federated Learning on Heterogen
 - https://nmsl.kaist.ac.kr/projects/fedbalancer/  
 - The source code of our FedBalancer implementation are available at https://github.com/jaemin-shin/FedBalancer
 - For the testbed experiment on Android devices in our paper (Section 4.6), please refer to the following repository: [flower-FedBalancer-testbed](https://github.com/jaemin-shin/flower-FedBalancer-testbed).  
-
+- https://github.com/Kwangkee/FL/blob/main/AFL.md#t1-kaist
 
 #### 3.2 Client Sample Selection 
 >In Section 2.2, we observed that existing FL methods consume large portion of time to train samples that contribute only small gradient to the model. As these samples are quickly learned after few rounds, we design FedBalancer to start training with all samples and **gradually remove already-learned samples**. This enables FedBalancer to efficiently **focus on more important samples at each round** while optimizing the training process of FL. However, implementing such design in FL is non-trivial as the following question needs to be addressed: *How should FedBalancer distinguish between important and non-important samples at each stage of FL?*  
