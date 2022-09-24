@@ -15,6 +15,11 @@ A framework for privacy-preservation of IoT healthcare data using Federated Lear
 - [[Havard: A Review of Medical Federated Learning](https://github.com/Kwangkee/FL/blob/main/FL@Medical.md#harvard)]
 - Federated learning for smart healthcare: A survey, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Federated+Learning+for+Smart+Healthcare%3A+A+Survey&btnG=
 
+***
+## 성균관대
+- Open problems in medical federated learning, https://www.emerald.com/insight/content/doi/10.1108/IJWIS-04-2022-0080/full/html
+- Federated Learning: Issues in Medical Application, https://arxiv.org/abs/2109.00202
+- Personalized Federated Learning with Clustering: Non-IID Heart Rate Variability Data Application, https://arxiv.org/abs/2108.01903 
 
 ***
 ## 삼성병원: 신수용 교수
