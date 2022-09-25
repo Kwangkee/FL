@@ -16,6 +16,11 @@ A framework for privacy-preservation of IoT healthcare data using Federated Lear
 - Federated learning for smart healthcare: A survey, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Federated+Learning+for+Smart+Healthcare%3A+A+Survey&btnG=
 
 ***
+## 대
+Federated Learning for Thyroid Ultrasound Image Analysis to Protect Personal Information: Validation Study in a Real Health Care Environment, https://medinform.jmir.org/2021/5/e25869/
+
+
+***
 ## 성균관대
 - Open problems in medical federated learning, https://www.emerald.com/insight/content/doi/10.1108/IJWIS-04-2022-0080/full/html
 - Federated Learning: Issues in Medical Application, https://arxiv.org/abs/2109.00202
