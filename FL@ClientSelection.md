@@ -155,11 +155,12 @@ FedBalancer: Data and Pace Control for Efficient Federated Learning on Heterogen
 #### 3.2.3 Client selection with sample selection. 
 >Researchers have studied on how to select a group of clients for a training round to optimize convergence speed and model performance in heterogeneous FL[14, 15, 38]. While these approaches prioritize clients with higher statistical utility from the data, applying them along with FedBalancer is non-trivial as the samples are dynamically selected with the loss threshold. To address this issue, we propose a new formulation to calculate the statistical utility of a client 𝑖 along with the sample selection strategy of FedBalancer as follow ......
 
->Sample selection method: We implement the baseline sample selection method that is a combination of the following: (1) We determined how many samples to select based on FedSS [12], which controls the training dataset size on clients with larger datasets for each training round. (2) There were several approaches that propose which samples to select based on loss [52, 61], gradient [5], or gradient norm upper bound [34, 42] of samples. As in FedBalancer, we use loss to select samples for the
+#### 4.1 Experimental Setup
+>*Sample selection method*: We implement the baseline sample selection method that is a combination of the following: (1) We determined how many samples to select based on FedSS [12], which controls the training dataset size on clients with larger datasets for each training round. (2) There were several approaches that propose which samples to select based on loss [52, 61], gradient [5], or gradient norm upper bound [34, 42] of samples. As in FedBalancer, we use loss to select samples for the
 baseline experiment.  
->[12] Lingshuang Cai, Di Lin, Jiale Zhang, and Shui Yu. 2020. Dynamic sample selection for federated learning with heterogeneous data in fog computing. In ICC
-2020-2020 IEEE International Conference on Communications (ICC). IEEE, 1–6  
->Dynamic Sample Selection for Federated Learning with Heterogeneous Data in Fog Computing, https://ieeexplore.ieee.org/abstract/document/9148586  
+>- [12] Lingshuang Cai, Di Lin, Jiale Zhang, and Shui Yu. 2020. Dynamic sample selection for federated learning with heterogeneous data in fog computing. In ICC
+2020-2020 IEEE International Conference on Communications (ICC). IEEE, 1–6   
+>- Dynamic Sample Selection for Federated Learning with Heterogeneous Data in Fog Computing, https://ieeexplore.ieee.org/abstract/document/9148586  
 
 
 #### Future work 
