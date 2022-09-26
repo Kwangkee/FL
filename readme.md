@@ -34,13 +34,12 @@ https://github.com/innovation-cat/Awesome-Federated-Machine-Learning
 ***
 
 ■ **BCFL Survey**, 블록체인 융합 연합학습 (Blockchain-enabled Federated Learning)     
-Blockchain-based Federated Learning for Securing Internet of Things: A Comprehensive Survey, https://dl.acm.org/doi/10.1145/3560816   
-
-
-Federated Learning Meets Blockchain in Edge Computing: Opportunities and Challenges, https://ieeexplore.ieee.org/abstract/document/9403374   
-Blockchain-based Federated Learning: A Comprehensive Survey, https://arxiv.org/abs/2110.02182  
-Integration of blockchain and federated learning for Internet of Things: Recent advances and future challenges, https://www.sciencedirect.com/science/article/pii/S0167404821001796  
-Blockchain for federated learning toward secure distributed machine learning systems: a systemic survey, https://link.springer.com/article/10.1007/s00500-021-06496-5  
+- Blockchain-based Federated Learning for Securing Internet of Things: A Comprehensive Survey, https://dl.acm.org/doi/10.1145/3560816   
+- Blockchain for federated learning toward secure distributed machine learning systems: a systemic survey, https://link.springer.com/article/10.1007/s00500-021-06496-5
+- Federated Learning Meets Blockchain in Edge Computing: Opportunities and Challenges, https://ieeexplore.ieee.org/abstract/document/9403374   
+- Blockchain-based Federated Learning: A Comprehensive Survey, https://arxiv.org/abs/2110.02182  
+- Integration of blockchain and federated learning for Internet of Things: Recent advances and future challenges, https://www.sciencedirect.com/science/article/pii/S0167404821001796  
+- Blockchain for federated learning toward secure distributed machine learning systems: a systemic survey, https://link.springer.com/article/10.1007/s00500-021-06496-5 
 
 ■ **BCFL Implementation**  
 - 2CP: Decentralized Protocols to Transparently Evaluate Contributivity in Blockchain Federated Learning Environments, https://arxiv.org/abs/2011.07516, Code: https://github.com/cai-harry/2CP 
