@@ -40,3 +40,7 @@ The challenges for FL in networked scenario and the limitations of existing meth
 there exist a few works considering the problem of online FL or continuous FL [17, 31, 83], they did not consider the device properties of limited on-device storage and streaming networked data, and thus cannot be applied to the practical FL scenarios.
 >- **Data Selection.** In FL, selecting data from streaming data can be seen as sampling batches of data from its data distribution, which is similar to mini-batch SGD. To accelerate the training process of SGD, the majority of existing methods quantify the importance of each data sample (such as loss [53, 63, 68], gradient norm [38, 87], uncertainty [14, 79]) and leverage importance sampling to select training samples for each round. Another closer area to our work is data evaluation, which
 tries to measure the contribution/importance of each data sample to the training process, such as leave-one-out test [20] and data shapley [29]. These methods fail to work for the network scenario as they require arbitrary access to the full dataset for model retraining.
+
+***
+Back to [Papers](#papers)  
+Back to https://github.com/Kwangkee/FL
