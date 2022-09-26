@@ -15,14 +15,14 @@ Back to https://github.com/Kwangkee/FL
 - Client Selection for Asynchronous Federated Learning with Fairness Consideration, https://ieeexplore.ieee.org/document/9814669  
 - Client Selection for Federated Learning With Label Noise, https://ieeexplore.ieee.org/document/9632344  
  
+
+## ETC
+
 Lam Duc Nguyen, https://lamnd09.github.io/lamnd09/     
 - A Contribution-based Device Selection Scheme in Federated Learning, https://arxiv.org/abs/2203.05369
 - FedToken: Tokenized Incentives for Data Contribution in Federated Learning, https://arxiv.org/abs/2209.09775
 - A Marketplace for Trading AI Models based on Blockchain and Incentives for IoT Data, https://arxiv.org/abs/2112.02870
 - Modeling and Analysis of Data Trading on Blockchain-Based Market in IoT Networks, https://ieeexplore.ieee.org/abstract/document/9324804
-
-
-## ETC
 
 - [FedCS] Client selection for federated learning with heterogeneous resources in mobile edge, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Client+Selection+for+Federated+Learning+with+Heterogeneous+Resources+in+Mobile+Edge&btnG=
   >Specifically, FedCS solves a client selection problem with resource constraints, which allows the server to aggregate as many client updates as possible and to accelerate performance improvement in ML models. We conducted an experimental evaluation using publicly-available large-scale image datasets to train deep neural networks on MEC environment simulations. The experimental results show that FedCS is able to complete its training process in a significantly shorter time compared to the original FL protocol.
