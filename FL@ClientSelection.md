@@ -14,6 +14,11 @@ Back to https://github.com/Kwangkee/FL
 
 Zhenzhe Zheng, https://scholar.google.com/citations?hl=en&user=kx_5xxEAAAAJ&view_op=list_works&sortby=pubdate
 - ODE: A Data Sampling Method for Practical Federated Learning with Streaming Data and Limited Buffer, https://arxiv.org/abs/2209.00195 
+>- **Federated Learning** is a distributed learning framework that aims to collaboratively learn a global statistical model over the networked devices’ data under the constraint that the data is stored and processed locally [51, 55]. Existing works mostly focus on how to overcome the data heterogeneity problem [13, 18, 78, 85], reduce the communication cost [34, 42, 42, 82], select important clients [19, 47, 50, 59] or train a personalized model for each client [25, 36]. Despite that
+there exist a few works considering the problem of online FL or continuous FL [17, 31, 83], they did not consider the device properties of limited on-device storage and streaming networked data, and thus cannot be applied to the practical FL scenarios.
+>- **Data Selection.** In FL, selecting data from streaming data can be seen as sampling batches of data from its data distribution, which is similar to mini-batch SGD. To accelerate the training process of SGD, the majority of existing methods quantify the importance of each data sample (such as loss [53, 63, 68], gradient norm [38, 87], uncertainty [14, 79]) and leverage importance sampling to select training samples for each round. Another closer area to our work is data evaluation, which
+tries to measure the contribution/importance of each data sample to the training process, such as leave-one-out test [20] and data shapley [29]. These methods fail to work for the network scenario as they require arbitrary access to the full dataset for model retraining.
+
 - Online Data Valuation and Pricing for Machine Learning Tasks in Mobile Health, https://ieeexplore-ieee-org.libproxy.kw.ac.kr/document/9796669?arnumber=9796669&SID=EBSCO:edseee
 - Data-Free Evaluation of User Contributions in Federated Learning, https://ieeexplore-ieee-org.libproxy.kw.ac.kr/document/9589136?arnumber=9589136&SID=EBSCO:edseee
 - Toward Understanding the Influence of Individual Clients in Federated Learning, https://ojs.aaai.org/index.php/AAAI/article/view/17263
