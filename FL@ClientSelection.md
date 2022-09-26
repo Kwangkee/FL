@@ -53,6 +53,10 @@ https://github.com/innovation-cat/Awesome-Federated-Machine-Learning#15-client-s
 Zhenzhe Zheng, https://scholar.google.com/citations?hl=en&user=kx_5xxEAAAAJ&view_op=list_works&sortby=pubdate  
 ODE: A Data Sampling Method for Practical Federated Learning with Streaming Data and Limited Buffer, https://arxiv.org/abs/2209.00195 
 
+We first define a new data valuation metric for data selection in FL: **the projection of local gradient over an on-device data sample onto the global gradient over the data from all devices**. We further design ODE, a framework of Online Data sElection for FL, to coordinate networked devices to store valuable data samples collaboratively, with theoretical guarantees for speeding up model convergence and enhancing final model accuracy, simultaneously.
+
+Therefore, a fundamental problem when applying FL to mobile network is *how to filter valuable samples from the streaming data on device to simultaneously accelerate model training convergence and enhance inference accuracy of the final global FL model?*
+
 #### Design Challenges
 The design of such an online data selection framework for FL with limited on-device storage involves three key challenges:
 - (1) There is still no theoretical understanding about the impact of local on-device data on the training speedup and accuracy enhancement of global model in FL. Due to the lack of information about raw data and local model updates of the other devices, it is challenging for a specific device to derive the impact of one individual local data sample on the performance of the global model, which is an aggregation of all the devices’ local models in FL. Furthermore, the sample-level correlation between convergence rate and model accuracy is undiscovered and complicated in FL. Due to the data heterogeneity across devices, the impacts of local data samples on convergence rate and model accuracy could be quite different, and thus it is hard to simultaneously guarantee these two aspects through optimizing a unified data valuation metric.
@@ -63,6 +67,10 @@ The design of such an online data selection framework for FL with limited on-dev
 The prior works on data evaluation and selection in ML failed to solve the above challenges.
 - (1) The data selection in centralized ML, such as leave-one-out test [20], Data Shapley [29] and Importance Sampling [53, 63, 68, 71], is not appropriate for online data selection in FL due to the first challenge: they could only measure the valuation of each data sample corresponding to the model trained locally, instead of the aggregated global model in FL.
 - (2) The prior works on data selection in FL did not consider the two new properties of FL devices identified in this work. Mercury [86], FedBalancer [67] and the work from Li et al. [48] adopt importance sampling framework [87] to select the data samples with high loss or gradient norm for reducing the training time per epoch but they failed to solve the second challenge of lacking temporal and spatial information. These methods need to inspect all the data in each training round for normalized sampling weight computation2 as well as noise and outliers removal [35, 48].
+
+#### Our Solutions. 
+The challenges for FL in networked scenario and the limitations of existing methods motivate us to investigate the online data selection for FL with limited on-device storage. To this end, we design ODE, an online data valuation framework that coordinates networked devices to select and store valuable data samples locally and collaboratively for model training in FL, with the theoretical guarantee for speeding up model convergence and enhancing final model accuracy, simultaneously.
+
 
 #### 5 RELATED WORKS
 
