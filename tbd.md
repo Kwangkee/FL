@@ -1,4 +1,10 @@
 
+## Game of Gradients: Mitigating Irrelevant Clients in Federated Learning
+Game of Gradients: Mitigating Irrelevant Clients in Federated Learning, https://ojs.aaai.org/index.php/AAAI/article/view/17093   
+
+
+Secure Shapley Value for Cross-Silo Federated Learning, https://arxiv.org/abs/2209.04856  
+
 ## FedFOR
 FedFOR: Stateless Heterogeneous Federated Learning with First-Order Regularization, https://arxiv.org/abs/2209.10537  
 
