@@ -4,6 +4,7 @@ Back to https://github.com/Kwangkee/FL
 ## list
 
 - Federated Learning for Smart Healthcare: A Survey, https://dl.acm.org/doi/full/10.1145/3501296  
+- FedHome: Cloud-Edge Based Personalized Federated Learning for In-Home Health Monitoring, https://arxiv.org/abs/2012.07450 
 - A framework for privacy-preservation of IoT healthcare data using Federated Learning and blockchain technology, https://www.sciencedirect.com/science/article/abs/pii/S0167739X21004726?casa_token=iZ1z_z9EQRgAAAAA:dhQva3N3EqVnNMBceYhprRMEAdBGHI3omeq4A8z0VeI5OxTIUjZuKjGKgRQRWlXR-5U6MdS4Nw
 
 
