@@ -10,7 +10,7 @@ Commercial FL Platform, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md#
 ## Open FL Platform (Active)
 |Open FL Platform (Active)|Affiliation|More Info|
 |--|--|--|
-|FederatedScope, https://federatedscope.io/|Alibaba|https://github.com/Kwangkee/FL/blob/main/FL@Platform.md#FederatedScope|
+|FederatedScope, https://federatedscope.io/|Alibaba|https://github.com/Kwangkee/FL/blob/main/FL@Platform.md#federatedscope|
 |Flower: A Friendly Federated Learning Framework, https://flower.dev/|U of Cambridge, Samsung|https://github.com/Kwangkee/FL/blob/main/FL@Platform.md#flower|
 |FedScale: A scalable and extensible federated learning engine and benchmark, http://fedscale.ai/|U of Michigan|https://github.com/Kwangkee/FL/blob/main/FL%40FedScale.md|
 |FedML: https://fedml.ai/|USC & FedML Inc.|https://github.com/Kwangkee/FL/blob/main/FL%40Platform.md#fedml|
@@ -41,6 +41,14 @@ Commercial FL Platform, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md#
 |STADLE FEDERATED LEARNING, https://www.tieset.com/|--|--|
 |integrate.ai, https://www.integrate.ai/|--|Design a federated learning system in seven steps, https://integrate.ai/blog/design-a-federated-learning-system-in-seven-steps-pftl/|
 
+
+***   
+
+## FederatedScope
+FederatedScope: https://federatedscope.io/ 
+- FederatedScope: A Flexible Federated Learning Platform for Heterogeneity, https://arxiv.org/abs/2204.05011  
+- FederatedScope-GNN: Towards a Unified, Comprehensive and Efficient Package for Federated Graph Learning, https://arxiv.org/abs/2204.05562
+- https://github.com/alibaba/FederatedScope
 
 
 ***   
