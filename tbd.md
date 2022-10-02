@@ -1,4 +1,7 @@
 
+## Federated Learning Design and FunctionalModels: Survey
+Federated Learning Design and FunctionalModels: Survey, https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Federated+Learning+Design+and+FunctionalModels%3A+Survey&btnG=
+
 ## Game of Gradients: Mitigating Irrelevant Clients in Federated Learning
 Game of Gradients: Mitigating Irrelevant Clients in Federated Learning, https://ojs.aaai.org/index.php/AAAI/article/view/17093   
 
