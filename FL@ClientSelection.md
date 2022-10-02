@@ -14,7 +14,7 @@ Back to https://github.com/Kwangkee/FL
 
 
 [Takayuki Nishio] https://scholar.google.com/citations?hl=en&user=hHnMMMkAAAAJ&view_op=list_works&sortby=pubdate   
-- [FedCS] Client selection for federated learning with heterogeneous resources in mobile edge, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Client+Selection+for+Federated+Learning+with+Heterogeneous+Resources+in+Mobile+Edge&btnG=
+- [FedCS] Client selection for federated learning with heterogeneous resources in mobile edge, https://arxiv.org/abs/1804.08333  
   >Specifically, FedCS solves a client selection problem with resource constraints, which allows the server to aggregate as many client updates as possible and to accelerate performance improvement in ML models. We conducted an experimental evaluation using publicly-available large-scale image datasets to train deep neural networks on MEC environment simulations. The experimental results show that FedCS is able to complete its training process in a significantly shorter time compared to the original FL protocol.
 - MAB-based Client Selection for Federated Learning with Uncertain Resources in Mobile Networks, https://arxiv.org/abs/2009.13879
 
