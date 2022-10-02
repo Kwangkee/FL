@@ -1,5 +1,4 @@
 
-A secure healthcare 5.0 system based on blockchain technology entangled with federated learning technique, https://www.sciencedirect.com/science/article/pii/S0010482522007417
 
 ## Federated Learning Design and FunctionalModels: Survey
 Federated Learning Design and FunctionalModels: Survey, https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Federated+Learning+Design+and+FunctionalModels%3A+Survey&btnG=
