@@ -58,6 +58,7 @@ Back to https://github.com/Kwangkee/FL
 
 ## [성과홍보]
 -	동적인 디바이스 환경에서 적응적 연합학습 기술, https://itfind.or.kr/publication/regular/weeklytrend/pastList/read.do?selectedId=1237 
+-	‘연합학습기술’, 분산환경 데이터 기술의 ‘핵심’으로 부각, https://www.apple-economy.com/news/articleView.html?idxno=69922  
 - KAIST-칭화대 공동연구팀, 모바일 기기에서 인공지능 '연합학습 속도 4.5배' 높이는 획기적 기법 개발, http://www.aitimes.kr/news/articleView.html?idxno=25693
 - 제한된 네트워크 환경에서의 전이 강화 학습 기반 드론 운행 기법
 
