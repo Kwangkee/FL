@@ -17,9 +17,17 @@ Back to https://github.com/Kwangkee/FL
 - Federated learning for smart healthcare: A survey, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Federated+Learning+for+Smart+Healthcare%3A+A+Survey&btnG=
 
 ***
+## 서울과기대
+서울과기대 박종혁 교수, https://scholar.google.com/citations?hl=en&user=IshTErgAAAAJ&view_op=list_works&sortby=pubdate  
+-	FusionFedBlock: Fusion of Blockchain and Federated Learning to Preserve Privacy in Industry 5.0, https://www.sciencedirect.com/science/article/abs/pii/S1566253522001658
+-	Federated Learning-based secure Electronic Health Record sharing scheme in Medical Informatics, https://ieeexplore.ieee.org/abstract/document/9774951 
+
+
+
+
+***
 ## 서울대
 Federated Learning for Thyroid Ultrasound Image Analysis to Protect Personal Information: Validation Study in a Real Health Care Environment, https://medinform.jmir.org/2021/5/e25869/
-
 
 ***
 ## 성균관대
