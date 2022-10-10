@@ -4,6 +4,9 @@
 - Game of Gradients: Mitigating Irrelevant Clients in Federated Learning, https://ojs.aaai.org/index.php/AAAI/article/view/17093   
 - Secure Shapley Value for Cross-Silo Federated Learning, https://arxiv.org/abs/2209.04856  
 
+- Empirical Measurement of Client Contribution for Federated Learning with Data Size Diversification, https://ieeexplore.ieee.org/document/9906094
+- FedCCEA : A Practical Approach of Client Contribution Evaluation for Federated Learning, https://arxiv.org/abs/2106.02310
+
 ## Asynch FL 
 - A Study on Blockchain-Based Asynchronous Federated Learning Framework, https://koreascience.kr/article/CFKO202220859352236.pdf
 - BAFL: A Blockchain-Based Asynchronous Federated Learning Framework, https://ieeexplore.ieee.org/document/9399813
@@ -18,6 +21,7 @@
 - Deep Physiological Sensing Toolbox, https://arxiv.org/abs/2210.00716
 - Real-Time Monitoring of User Stress, Heart Rate, and Heart Rate Variability on Mobile Devices, https://arxiv.org/pdf/2210.01791
 - Adaptive-Weight Network for imaging photoplethysmography signal extraction and heart rate estimation, https://ieeexplore.ieee.org/abstract/document/9912354
+- Home blood pressure monitoring: a position statement from the Korean Society of Hypertension Home Blood Pressure Forum, https://clinicalhypertension.biomedcentral.com/articles/10.1186/s40885-022-00218-1
 
 
 ## FedFOR
