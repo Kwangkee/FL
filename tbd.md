@@ -3,8 +3,8 @@
 - Adaptive-Weight Network for imaging photoplethysmography signal extraction and heart rate estimation, https://ieeexplore.ieee.org/abstract/document/9912354
 - FusionFedBlock: Fusion of blockchain and federated learning to preserve privacy in industry 5.0, https://www.sciencedirect.com/science/article/pii/S1566253522001658?casa_token=VXH5TQ4DZ2sAAAAA:AFQnf8oJj0TgA_nnluqCev-je0txTXht-0ZY2toq9DonlZdIwUzHaCtex7imVQC3yVz_TqVqMTE
 - A Study of Blockchain-Based Federated Learning, https://link.springer.com/chapter/10.1007/978-3-031-11748-0_7
-- 
-
+- A Study on Blockchain-Based Asynchronous Federated Learning Framework, https://koreascience.kr/article/CFKO202220859352236.pdf
+- https://ieeexplore.ieee.org/document/9399813, https://ieeexplore.ieee.org/document/9399813
 
 ## Fed-CBS: A Heterogeneity-Aware Client Sampling Mechanism for Federated Learning via Class-Imbalance Reduction
 Fed-CBS: A Heterogeneity-Aware Client Sampling Mechanism for Federated Learning via Class-Imbalance Reduction, https://arxiv.org/abs/2209.15245
