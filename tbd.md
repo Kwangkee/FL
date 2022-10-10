@@ -1,7 +1,7 @@
 - Deep Physiological Sensing Toolbox, https://arxiv.org/abs/2210.00716
 - Real-Time Monitoring of User Stress, Heart Rate, and Heart Rate Variability on Mobile Devices, https://arxiv.org/pdf/2210.01791
 - Adaptive-Weight Network for imaging photoplethysmography signal extraction and heart rate estimation, https://ieeexplore.ieee.org/abstract/document/9912354
-- FusionFedBlock: Fusion of blockchain and federated learning to preserve privacy in industry 5.0,  https://www.sciencedirect.com/science/article/pii/S1566253522001658
+- FusionFedBlock: Fusion of blockchain and federated learning to preserve privacy in industry 5.0, https://www.sciencedirect.com/science/article/pii/S1566253522001658?casa_token=VXH5TQ4DZ2sAAAAA:AFQnf8oJj0TgA_nnluqCev-je0txTXht-0ZY2toq9DonlZdIwUzHaCtex7imVQC3yVz_TqVqMTE
 
 
 
