@@ -22,7 +22,7 @@ Commercial FL Platform, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md#
 |TensorFlow Federated (TFF), https://www.tensorflow.org/federated?hl=ko|Google|--|
 |PySyft, https://github.com/OpenMined/PySyft|OpenMined|https://www.openmined.org/|
 |FedAI, https://www.fedai.org/|WeBank|-|
-|Open Federated Learning (OpenFL) - An Open-Source Framework For Federated Learning, https://github.com/intel/openfl|Intel|--|
+|Open Federated Learning (OpenFL) - An Open-Source Framework For Federated Learning, https://github.com/intel/openfl|Intel|https://iopscience.iop.org/article/10.1088/1361-6560/ac97d9|
 |IBM Federated Learning, https://ibmfl.mybluemix.net/|IBM Research.|Github: https://github.com/IBM/federated-learning-lib|
 |OpenFed, https://github.com/FederalLab/OpenFed|--|https://github.com/Kwangkee/FL/blob/main/FL@Platform.md#openfed|
 |FL_PyTorch, https://github.com/burlachenkok/flpytorch|--|https://dl.acm.org/doi/abs/10.1145/3488659.3493775|
