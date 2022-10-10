@@ -3,10 +3,10 @@ Back to https://github.com/Kwangkee/FL
 
 ## list
 
+- When Collaborative Federated Learning Meets Blockchain to Preserve Privacy in Healthcare, https://ieeexplore.ieee.org/abstract/document/9906419
+- A framework for privacy-preservation of IoT healthcare data using Federated Learning and blockchain technology, https://www.sciencedirect.com/science/article/abs/pii/S0167739X21004726
 - Federated Learning for Smart Healthcare: A Survey, https://dl.acm.org/doi/full/10.1145/3501296  
 - FedHome: Cloud-Edge Based Personalized Federated Learning for In-Home Health Monitoring, https://arxiv.org/abs/2012.07450 
-- A framework for privacy-preservation of IoT healthcare data using Federated Learning and blockchain technology, https://www.sciencedirect.com/science/article/abs/pii/S0167739X21004726?casa_token=iZ1z_z9EQRgAAAAA:dhQva3N3EqVnNMBceYhprRMEAdBGHI3omeq4A8z0VeI5OxTIUjZuKjGKgRQRWlXR-5U6MdS4Nw
-
 
 - [[Contribution-Aware Federated Learning for Smart Healthcare](https://github.com/Kwangkee/FL/blob/main/FL@Nanyang.md#carefl)], https://ojs.aaai.org/index.php/AAAI/article/view/21505
 
