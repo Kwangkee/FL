@@ -1,29 +1,24 @@
+## FL Client Selection
+- FusionFedBlock: Fusion of blockchain and federated learning to preserve privacy in industry 5.0, https://www.sciencedirect.com/science/article/pii/S1566253522001658?casa_token=VXH5TQ4DZ2sAAAAA:AFQnf8oJj0TgA_nnluqCev-je0txTXht-0ZY2toq9DonlZdIwUzHaCtex7imVQC3yVz_TqVqMTE
+- Fed-CBS: A Heterogeneity-Aware Client Sampling Mechanism for Federated Learning via Class-Imbalance Reduction, https://arxiv.org/abs/2209.15245
+- Game of Gradients: Mitigating Irrelevant Clients in Federated Learning, https://ojs.aaai.org/index.php/AAAI/article/view/17093   
+- Secure Shapley Value for Cross-Silo Federated Learning, https://arxiv.org/abs/2209.04856  
+
+## Asynch FL 
+- A Study on Blockchain-Based Asynchronous Federated Learning Framework, https://koreascience.kr/article/CFKO202220859352236.pdf
+- BAFL: A Blockchain-Based Asynchronous Federated Learning Framework, https://ieeexplore.ieee.org/document/9399813
+- PersA-FL: Personalized Asynchronous Federated Learning, https://arxiv.org/abs/2210.01176
+
+## FL
+- A Study of Blockchain-Based Federated Learning, https://link.springer.com/chapter/10.1007/978-3-031-11748-0_7
+- Securing federated learning with blockchain: a systematic literature review, https://link.springer.com/article/10.1007/s10462-022-10271-9
+- Federated Learning Design and FunctionalModels: Survey, https://www.researchsquare.com/article/rs-2101865/latest.pdf
+
+## rPPG
 - Deep Physiological Sensing Toolbox, https://arxiv.org/abs/2210.00716
 - Real-Time Monitoring of User Stress, Heart Rate, and Heart Rate Variability on Mobile Devices, https://arxiv.org/pdf/2210.01791
 - Adaptive-Weight Network for imaging photoplethysmography signal extraction and heart rate estimation, https://ieeexplore.ieee.org/abstract/document/9912354
-- FusionFedBlock: Fusion of blockchain and federated learning to preserve privacy in industry 5.0, https://www.sciencedirect.com/science/article/pii/S1566253522001658?casa_token=VXH5TQ4DZ2sAAAAA:AFQnf8oJj0TgA_nnluqCev-je0txTXht-0ZY2toq9DonlZdIwUzHaCtex7imVQC3yVz_TqVqMTE
-- A Study of Blockchain-Based Federated Learning, https://link.springer.com/chapter/10.1007/978-3-031-11748-0_7
-- A Study on Blockchain-Based Asynchronous Federated Learning Framework, https://koreascience.kr/article/CFKO202220859352236.pdf
-- https://ieeexplore.ieee.org/document/9399813, https://ieeexplore.ieee.org/document/9399813
 
-## Fed-CBS: A Heterogeneity-Aware Client Sampling Mechanism for Federated Learning via Class-Imbalance Reduction
-Fed-CBS: A Heterogeneity-Aware Client Sampling Mechanism for Federated Learning via Class-Imbalance Reduction, https://arxiv.org/abs/2209.15245
-
-## Securing federated learning with blockchain: a systematic literature review
-Securing federated learning with blockchain: a systematic literature review, https://link.springer.com/article/10.1007/s10462-022-10271-9
-
-## PersA-FL: Personalized Asynchronous Federated Learning
-PersA-FL: Personalized Asynchronous Federated Learning, https://arxiv.org/abs/2210.01176
-
-
-## Federated Learning Design and FunctionalModels: Survey
-Federated Learning Design and FunctionalModels: Survey, https://www.researchsquare.com/article/rs-2101865/latest.pdf
-
-## Game of Gradients: Mitigating Irrelevant Clients in Federated Learning
-Game of Gradients: Mitigating Irrelevant Clients in Federated Learning, https://ojs.aaai.org/index.php/AAAI/article/view/17093   
-
-
-Secure Shapley Value for Cross-Silo Federated Learning, https://arxiv.org/abs/2209.04856  
 
 ## FedFOR
 FedFOR: Stateless Heterogeneous Federated Learning with First-Order Regularization, https://arxiv.org/abs/2209.10537  
