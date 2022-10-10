@@ -1,5 +1,10 @@
 
 
+
+## PersA-FL: Personalized Asynchronous Federated Learning
+PersA-FL: Personalized Asynchronous Federated Learning, https://arxiv.org/abs/2210.01176
+
+
 ## Federated Learning Design and FunctionalModels: Survey
 Federated Learning Design and FunctionalModels: Survey, https://www.researchsquare.com/article/rs-2101865/latest.pdf
 
