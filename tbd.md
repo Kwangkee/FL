@@ -1,5 +1,15 @@
+- Deep Physiological Sensing Toolbox, https://arxiv.org/abs/2210.00716
+- Real-Time Monitoring of User Stress, Heart Rate, and Heart Rate Variability on Mobile Devices, https://arxiv.org/pdf/2210.01791
+- Adaptive-Weight Network for imaging photoplethysmography signal extraction and heart rate estimation, https://ieeexplore.ieee.org/abstract/document/9912354
+- 
 
 
+
+## Fed-CBS: A Heterogeneity-Aware Client Sampling Mechanism for Federated Learning via Class-Imbalance Reduction
+Fed-CBS: A Heterogeneity-Aware Client Sampling Mechanism for Federated Learning via Class-Imbalance Reduction, https://arxiv.org/abs/2209.15245
+
+## Securing federated learning with blockchain: a systematic literature review
+Securing federated learning with blockchain: a systematic literature review, https://link.springer.com/article/10.1007/s10462-022-10271-9
 
 ## PersA-FL: Personalized Asynchronous Federated Learning
 PersA-FL: Personalized Asynchronous Federated Learning, https://arxiv.org/abs/2210.01176
