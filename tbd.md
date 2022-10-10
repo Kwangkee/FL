@@ -11,18 +11,21 @@
 - A Study on Blockchain-Based Asynchronous Federated Learning Framework, https://koreascience.kr/article/CFKO202220859352236.pdf
 - BAFL: A Blockchain-Based Asynchronous Federated Learning Framework, https://ieeexplore.ieee.org/document/9399813
 - PersA-FL: Personalized Asynchronous Federated Learning, https://arxiv.org/abs/2210.01176
+- Analysis and Evaluation of Synchronous and Asynchronous FLchain, https://arxiv.org/abs/2112.07938
 
 ## FL
 - A Study of Blockchain-Based Federated Learning, https://link.springer.com/chapter/10.1007/978-3-031-11748-0_7
 - Securing federated learning with blockchain: a systematic literature review, https://link.springer.com/article/10.1007/s10462-022-10271-9
 - Federated Learning Design and FunctionalModels: Survey, https://www.researchsquare.com/article/rs-2101865/latest.pdf
+- Meta Knowledge Condensation for Federated Learning, https://arxiv.org/abs/2209.14851
+- FedTA: Teacher Assistant Knowledge Distillation in non-IID Federated Learning, https://jeremyzhang1.github.io/assets/CS242_Report.pdf
 
 ## rPPG
 - Deep Physiological Sensing Toolbox, https://arxiv.org/abs/2210.00716
 - Real-Time Monitoring of User Stress, Heart Rate, and Heart Rate Variability on Mobile Devices, https://arxiv.org/pdf/2210.01791
 - Adaptive-Weight Network for imaging photoplethysmography signal extraction and heart rate estimation, https://ieeexplore.ieee.org/abstract/document/9912354
-- Home blood pressure monitoring: a position statement from the Korean Society of Hypertension Home Blood Pressure Forum, https://clinicalhypertension.biomedcentral.com/articles/10.1186/s40885-022-00218-1
-
+- Systolic Blood Pressure Estimation from PPG Signal Using ANN, www.mdpi.com/2079-9292/11/18/2909/
+- Contactless Blood Pressure Estimation System Using a Computer Vision System, https://www.mdpi.com/2411-5134/7/3/84/htm
 
 ## FedFOR
 FedFOR: Stateless Heterogeneous Federated Learning with First-Order Regularization, https://arxiv.org/abs/2209.10537  
