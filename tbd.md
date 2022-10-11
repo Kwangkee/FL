@@ -1,3 +1,11 @@
+## BC
+- Novel smart homecare IoT system with Edge-AI and Blockchain, https://www.researchgate.net/publication/364122174_Novel_smart_homecare_IoT_system_with_Edge-AI_and_Blockchain
+
+- https://scholar.google.com/citations?hl=ko&user=8RfIQ9cAAAAJ&view_op=list_works&sortby=pubdate
+- Towards a Remote Monitoring of Patient Vital Signs Based on IoT-Based Blockchain Integrity Management Platforms in Smart Hospitals, https://www.mdpi.com/1424-8220/20/8/2195
+- Improving blockchain performance in clinical trials using intelligent optimal transaction traffic control mechanism in smart healthcare applications, https://www.sciencedirect.com/science/article/abs/pii/S0360835222003801
+- HealthBlock: Asecureblockchain-basedhealthcaredatamanagementsystem, https://www.sciencedirect.com/science/article/abs/pii/S1389128621004382
+
 ## FL Client Selection
 - FusionFedBlock: Fusion of blockchain and federated learning to preserve privacy in industry 5.0, https://www.sciencedirect.com/science/article/pii/S1566253522001658?casa_token=VXH5TQ4DZ2sAAAAA:AFQnf8oJj0TgA_nnluqCev-je0txTXht-0ZY2toq9DonlZdIwUzHaCtex7imVQC3yVz_TqVqMTE
 - Fed-CBS: A Heterogeneity-Aware Client Sampling Mechanism for Federated Learning via Class-Imbalance Reduction, https://arxiv.org/abs/2209.15245
