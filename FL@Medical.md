@@ -3,6 +3,9 @@ Back to https://github.com/Kwangkee/FL
 
 ## list
 
+- [CVPR 2022, NVIDIA] Closing the Generalization Gap of Cross-Silo Federated Medical Image Segmentation, https://openaccess.thecvf.com/content/CVPR2022/html/Xu_Closing_the_Generalization_Gap_of_Cross-Silo_Federated_Medical_Image_Segmentation_CVPR_2022_paper.html
+
+
 - When Collaborative Federated Learning Meets Blockchain to Preserve Privacy in Healthcare, https://ieeexplore.ieee.org/abstract/document/9906419
 - A framework for privacy-preservation of IoT healthcare data using Federated Learning and blockchain technology, https://www.sciencedirect.com/science/article/abs/pii/S0167739X21004726
 - Federated Learning for Smart Healthcare: A Survey, https://dl.acm.org/doi/full/10.1145/3501296  
