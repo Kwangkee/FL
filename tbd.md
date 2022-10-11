@@ -27,6 +27,11 @@
 - Systolic Blood Pressure Estimation from PPG Signal Using ANN, www.mdpi.com/2079-9292/11/18/2909/
 - Contactless Blood Pressure Estimation System Using a Computer Vision System, https://www.mdpi.com/2411-5134/7/3/84/htm
 
+- COVID-19 detection using a model of photoplethysmography (PPG) signals, https://www.sciencedirect.com/science/article/pii/S1350453322001527
+- Intra-beat biomarker for accurate continuous non-invasive blood pressure monitoring, https://www.nature.com/articles/s41598-022-19096-6  
+  >Data availability: The data that support the fndings of this study are available from the corresponding author (M.K.) upon reasonable request.
+- BePCon: A Photoplethysmography-based Quality-aware Continuous Beat-to-Beat Blood Pressure Measurement Technique Using Deep Learning, https://ieeexplore.ieee.org/abstract/document/9913482
+
 ## FedFOR
 FedFOR: Stateless Heterogeneous Federated Learning with First-Order Regularization, https://arxiv.org/abs/2209.10537  
 
