@@ -7,7 +7,7 @@
 - HealthBlock: Asecureblockchain-basedhealthcaredatamanagementsystem, https://www.sciencedirect.com/science/article/abs/pii/S1389128621004382
 
 ## FL Client Selection
-- FusionFedBlock: Fusion of blockchain and federated learning to preserve privacy in industry 5.0, https://www.sciencedirect.com/science/article/pii/S1566253522001658?casa_token=VXH5TQ4DZ2sAAAAA:AFQnf8oJj0TgA_nnluqCev-je0txTXht-0ZY2toq9DonlZdIwUzHaCtex7imVQC3yVz_TqVqMTE
+- FusionFedBlock: Fusion of blockchain and federated learning to preserve privacy in industry 5.0, https://www.sciencedirect.com/science/article/pii/S1566253522001658?casa_token=g9mYhfccIkQAAAAA:xGRJ3OZ5rjq8cCTM7i1RVqWEF90HIOOBd-cTM_7-Qr8xjfYar1hIKb1VeVN6SKv11dbLAAarMWI
 - Fed-CBS: A Heterogeneity-Aware Client Sampling Mechanism for Federated Learning via Class-Imbalance Reduction, https://arxiv.org/abs/2209.15245
 - Game of Gradients: Mitigating Irrelevant Clients in Federated Learning, https://ojs.aaai.org/index.php/AAAI/article/view/17093   
 - Secure Shapley Value for Cross-Silo Federated Learning, https://arxiv.org/abs/2209.04856  
