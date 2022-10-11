@@ -3,6 +3,11 @@ Back to https://github.com/Kwangkee/FL
 
 ## list
 
+- [JIP/DKTK] Joint Imaging Platform ( JIP ) is a strategic initiative within the German Cancer Consortium (DKTK), https://jip.dktk.dkfz.de/jiphomepage/
+  >The underlying infrastructure facilitates applications like federated learning across multiple clinical centers.
+- [JIP/DKTK] Joint Imaging Platform for Federated Clinical Data Analytics, https://ascopubs.org/doi/full/10.1200/CCI.20.00045
+- Towards Real-World Federated Learning in Medical Image Analysis Using Kaapana, https://link.springer.com/chapter/10.1007/978-3-031-18523-6_13
+
 - [CVPR 2022, NVIDIA] Closing the Generalization Gap of Cross-Silo Federated Medical Image Segmentation, https://openaccess.thecvf.com/content/CVPR2022/html/Xu_Closing_the_Generalization_Gap_of_Cross-Silo_Federated_Medical_Image_Segmentation_CVPR_2022_paper.html
 
 
