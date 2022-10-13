@@ -1,3 +1,9 @@
+
+## FedRL
+- https://scholar.google.com/citations?hl=en&user=rkb3_FgAAAAJ&view_op=list_works&sortby=pubdate
+>- e λ is the testing accuracy of the global models on the validation set after t rounds
+- 
+
 ## BC
 - Novel smart homecare IoT system with Edge-AI and Blockchain, https://www.researchgate.net/publication/364122174_Novel_smart_homecare_IoT_system_with_Edge-AI_and_Blockchain
 
