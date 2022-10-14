@@ -9,7 +9,7 @@ Back to https://github.com/Kwangkee/FL
 - Towards Real-World Federated Learning in Medical Image Analysis Using Kaapana, https://link.springer.com/chapter/10.1007/978-3-031-18523-6_13
 
 - [CVPR 2022, NVIDIA] Closing the Generalization Gap of Cross-Silo Federated Medical Image Segmentation, https://openaccess.thecvf.com/content/CVPR2022/html/Xu_Closing_the_Generalization_Gap_of_Cross-Silo_Federated_Medical_Image_Segmentation_CVPR_2022_paper.html
-
+  >https://github.com/NVIDIA/NVFlare/examples/FedSM
 
 - When Collaborative Federated Learning Meets Blockchain to Preserve Privacy in Healthcare, https://ieeexplore.ieee.org/abstract/document/9906419
 - A framework for privacy-preservation of IoT healthcare data using Federated Learning and blockchain technology, https://www.sciencedirect.com/science/article/abs/pii/S0167739X21004726
