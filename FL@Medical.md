@@ -11,6 +11,10 @@ Back to https://github.com/Kwangkee/FL
 - [CVPR 2022, NVIDIA] Closing the Generalization Gap of Cross-Silo Federated Medical Image Segmentation, https://openaccess.thecvf.com/content/CVPR2022/html/Xu_Closing_the_Generalization_Gap_of_Cross-Silo_Federated_Medical_Image_Segmentation_CVPR_2022_paper.html
   >https://github.com/NVIDIA/NVFlare/examples/FedSM
 
+- Reward Systems for Trustworthy Medical Federated Learning, https://arxiv.org/abs/2205.00470
+  >We publish the source code of our experiments, including the random seeds of the data splits, on GitHub: https://github.com/kpandl/Reward-System-forTrustworthy-Medical-Federated-Learning - this allows future research to reproduce and build on our results. We run our work on a computing cluster consisting of NVIDIA Tesla V100 and NVIDIA GeForce RTX 3090 GPUs using Python 3.7.11 and PyTorch 1.10.2.
+
+
 - When Collaborative Federated Learning Meets Blockchain to Preserve Privacy in Healthcare, https://ieeexplore.ieee.org/abstract/document/9906419
 - A framework for privacy-preservation of IoT healthcare data using Federated Learning and blockchain technology, https://www.sciencedirect.com/science/article/abs/pii/S0167739X21004726
 - Federated Learning for Smart Healthcare: A Survey, https://dl.acm.org/doi/full/10.1145/3501296  
