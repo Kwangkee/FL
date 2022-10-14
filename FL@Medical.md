@@ -13,6 +13,7 @@ Back to https://github.com/Kwangkee/FL
 
 - Reward Systems for Trustworthy Medical Federated Learning, https://arxiv.org/abs/2205.00470
   >We publish the source code of our experiments, including the random seeds of the data splits, on GitHub: https://github.com/kpandl/Reward-System-forTrustworthy-Medical-Federated-Learning - this allows future research to reproduce and build on our results. We run our work on a computing cluster consisting of NVIDIA Tesla V100 and NVIDIA GeForce RTX 3090 GPUs using Python 3.7.11 and PyTorch 1.10.2.
+  >https://github.com/kpandl/Reward-System-for-Trustworthy-Medical-Federated-Learning
 
 
 - When Collaborative Federated Learning Meets Blockchain to Preserve Privacy in Healthcare, https://ieeexplore.ieee.org/abstract/document/9906419
