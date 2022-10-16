@@ -22,6 +22,7 @@
 - FedCCEA : A Practical Approach of Client Contribution Evaluation for Federated Learning, https://arxiv.org/abs/2106.02310
 
 ## Asynch FL 
+- A Survey on Heterogeneous Federated Learning, https://arxiv.org/abs/2210.04505
 - A Study on Blockchain-Based Asynchronous Federated Learning Framework, https://koreascience.kr/article/CFKO202220859352236.pdf
 - BAFL: A Blockchain-Based Asynchronous Federated Learning Framework, https://ieeexplore.ieee.org/document/9399813
 - PersA-FL: Personalized Asynchronous Federated Learning, https://arxiv.org/abs/2210.01176
