@@ -31,6 +31,7 @@
 - Analysis and Evaluation of Synchronous and Asynchronous FLchain, https://arxiv.org/abs/2112.07938
 
 ## FL
+- FL-Market: Trading Private Models in Federated Learning, https://arxiv.org/abs/2106.04384
 - A Study of Blockchain-Based Federated Learning, https://link.springer.com/chapter/10.1007/978-3-031-11748-0_7
 - Securing federated learning with blockchain: a systematic literature review, https://link.springer.com/article/10.1007/s10462-022-10271-9
 - Federated Learning Design and FunctionalModels: Survey, https://www.researchsquare.com/article/rs-2101865/latest.pdf
