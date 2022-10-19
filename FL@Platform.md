@@ -10,6 +10,7 @@ Commercial FL Platform, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md#
 ## Open FL Platform (Active)
 |Open FL Platform (Active)|Affiliation|More Info|
 |--|--|--|
+|FLASH, https://thub.com/PKU-Chengxu/FLASH|Alibaba|https://github.com/Kwangkee/FL/blob/main/FL@Platform.md#flash|
 |FederatedScope, https://federatedscope.io/|Alibaba|https://github.com/Kwangkee/FL/blob/main/FL@Platform.md#federatedscope|
 |Flower: A Friendly Federated Learning Framework, https://flower.dev/|U of Cambridge, Samsung|https://github.com/Kwangkee/FL/blob/main/FL@Platform.md#flower|
 |FedScale: A scalable and extensible federated learning engine and benchmark, http://fedscale.ai/|U of Michigan|https://github.com/Kwangkee/FL/blob/main/FL%40FedScale.md|
@@ -41,7 +42,14 @@ Commercial FL Platform, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md#
 |STADLE FEDERATED LEARNING, https://www.tieset.com/|--|--|
 |integrate.ai, https://www.integrate.ai/|--|Design a federated learning system in seven steps, https://integrate.ai/blog/design-a-federated-learning-system-in-seven-steps-pftl/|
 
+***   
 
+## FLASH
+-	FLASH: Heterogeneity-Aware Federated Learning at Scale, https://ieeexplore.ieee.org/abstract/document/9917556 
+-	Characterizing Impacts of Heterogeneity in Federated Learning upon Large-Scale Smartphone Data, https://arxiv.org/abs/2006.06983
+-	https://github.com/PKU-Chengxu/FLASH
+
+- 
 ***   
 
 ## FederatedScope
