@@ -6,6 +6,9 @@ Back to https://github.com/Kwangkee/FL
 [[Reconciling Security and Communication Efficiency in Federated Learning](https://github.com/Kwangkee/FL/blob/main/FL@Meta.md#reconciling-security-and-communication-efficiency-in-federated-learning)], https://arxiv.org/abs/2207.12779  
 [[Where to Begin? Exploring the Impact of Pre-Training and Initialization in Federated Learning](https://github.com/Kwangkee/FL/blob/main/FL@Meta.md#where-to-begin-exploring-the-impact-of-pre-training-and-initialization-in-federated-learning)], https://arxiv.org/abs/2206.15387
 
+Where to Begin? On the Impact of Pre-Training and Initialization in Federated Learning, https://arxiv.org/abs/2210.08090
+>In the literature, empirical evaluations usually start federated training from random initialization. However, in many practical applications of federated learning, the server has access to proxy data for the training task that can be used to pre-train a model before starting federated training. We empirically study the impact of starting from a pre-trained model in federated learning using four standard federated learning benchmark datasets. 
+
 ## Simulator
 [[Federated Learning Simulator (FLSim)](https://github.com/Kwangkee/FL/blob/main/FL@Meta.md#federated-learning-simulator-flsim)], https://github.com/facebookresearch/FLSim
 
