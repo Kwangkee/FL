@@ -43,6 +43,11 @@
 - FedTA: Teacher Assistant Knowledge Distillation in non-IID Federated Learning, https://jeremyzhang1.github.io/assets/CS242_Report.pdf
 
 ## rPPG
+- Accurate and Reliable Assessment of Heart Rate in Real-Life Clinical Settings Using an Imaging Photoplethysmography, https://www.mdpi.com/2077-0383/11/20/6101
+- Remote Photoplethysmography Is an Accurate Method to Remotely Measure Respiratory Rate: A Hospital-Based Trial, https://www.mdpi.com/2077-0383/11/13/3647
+- Innovative measurement of routine physiological variables (heart rate, respiratory rate and oxygen saturation) using a remote photoplethysmography imaging system: a prospective comparative trial protocol, https://bmjopen.bmj.com/content/11/8/e047896.abstract
+- Innovative measurement of routine physiological variables (heart rate, respiratory rate and oxygen saturation) using a remote photoplethysmography imaging system: a prospective comparative trial protocol, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8365801/
+
 - Deep Physiological Sensing Toolbox, https://arxiv.org/abs/2210.00716
 - Real-Time Monitoring of User Stress, Heart Rate, and Heart Rate Variability on Mobile Devices, https://arxiv.org/pdf/2210.01791
 - Adaptive-Weight Network for imaging photoplethysmography signal extraction and heart rate estimation, https://ieeexplore.ieee.org/abstract/document/9912354
