@@ -5,6 +5,10 @@
 - 
 
 ## BC
+- Blockchain based Federated Learning for Object Detection, https://dl.acm.org/doi/abs/10.1145/3548608.3559272
+- 
+
+
 - Novel smart homecare IoT system with Edge-AI and Blockchain, https://www.researchgate.net/publication/364122174_Novel_smart_homecare_IoT_system_with_Edge-AI_and_Blockchain
 
 - https://scholar.google.com/citations?hl=ko&user=8RfIQ9cAAAAJ&view_op=list_works&sortby=pubdate
@@ -35,6 +39,18 @@
 - Blockchain-enhanced Federated Learning Market with Social Internet of Things, https://ieeexplore.ieee.org/abstract/document/9918042
 
 ## FL
+- Federated and Meta learning over Non-Wireless and Wireless Networks: A Tutorial, https://arxiv.org/abs/2210.13111
+- NVIDIAFLARE: Federated Learning fromSimulationtoReal-World, https://arxiv.org/abs/2210.13291
+
+- Incentive Mechanisms in Federated Learning, https://journal-home.s3.ap-northeast-2.amazonaws.com/site/ictc2022/abs/B8-5.pdf 
+- Bong Jun Choi, https://scholar.google.com/citations?hl=en&user=IlNI3yoAAAAJ&view_op=list_works&sortby=pubdate
+
+- Hierarchical Federated Learning based Anomaly Detection using Digital Twins for Smart Healthcare, https://arxiv.org/abs/2111.12241
+- Detecting Anomalous User Behavior in Remote Patient Monitoring, https://arxiv.org/abs/2106.11844
+
+- REFL: Resource-Efficient Federated Learning, https://mcanini.github.io/papers/refl.eurosys23.pdf
+- Github: https://github.com/ahmedcs/REFL
+
 - FeLebrities: a user-centric assessment of Federated Learning frameworks, https://www.techrxiv.org/articles/preprint/FeLebrities_a_user-centric_assessment_of_Federated_Learning_frameworks/21263013
 - A Study of Blockchain-Based Federated Learning, https://link.springer.com/chapter/10.1007/978-3-031-11748-0_7
 - Securing federated learning with blockchain: a systematic literature review, https://link.springer.com/article/10.1007/s10462-022-10271-9
@@ -43,6 +59,12 @@
 - FedTA: Teacher Assistant Knowledge Distillation in non-IID Federated Learning, https://jeremyzhang1.github.io/assets/CS242_Report.pdf
 
 ## rPPG
+- [ECCV 2022] Augmentation of rPPG Benchmark Datasets: Learning to Remove and Embed rPPG Signals via Double Cycle Consistent Learning from Unpaired Facial Videos, https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136760351.pdf
+- Github: https://github.com/nthumplab/RErPPGNet
+
+
+- Blood Pressure Measurement: From Cuff-Based to Contactless Monitoring, https://www.mdpi.com/2227-9032/10/10/2113
+
 - Accurate and Reliable Assessment of Heart Rate in Real-Life Clinical Settings Using an Imaging Photoplethysmography, https://www.mdpi.com/2077-0383/11/20/6101
 - Remote Photoplethysmography Is an Accurate Method to Remotely Measure Respiratory Rate: A Hospital-Based Trial, https://www.mdpi.com/2077-0383/11/13/3647
 - Innovative measurement of routine physiological variables (heart rate, respiratory rate and oxygen saturation) using a remote photoplethysmography imaging system: a prospective comparative trial protocol, https://bmjopen.bmj.com/content/11/8/e047896.abstract
