@@ -17,6 +17,9 @@
 - HealthBlock: Asecureblockchain-basedhealthcaredatamanagementsystem, https://www.sciencedirect.com/science/article/abs/pii/S1389128621004382
 
 ## FL Client Selection
+
+- HARMONY: Heterogeneity-Aware Hierarchical Management for Federated Learning System, https://ieeexplore.ieee.org/abstract/document/9923843
+
 - A Snapshot of the Frontiers of Client Selection in Federated Learning, https://arxiv.org/abs/2210.04607
 - A Multi-agent Reinforcement Learning Approach for Efficient Client Selection in Federated Learning, https://arxiv.org/abs/2201.02932
 - FusionFedBlock: Fusion of blockchain and federated learning to preserve privacy in industry 5.0, https://www.sciencedirect.com/science/article/pii/S1566253522001658?casa_token=Auk-KEz5MVwAAAAA:b22Xfdso55xBMPassPW_VF4cHOda2h2vuujBJ41JKkIcsAR0LmIoQduiLa7V-UvnKNtXAh6zptc
@@ -59,6 +62,10 @@
 - FedTA: Teacher Assistant Knowledge Distillation in non-IID Federated Learning, https://jeremyzhang1.github.io/assets/CS242_Report.pdf
 
 ## rPPG
+
+- Self-supervised RGB-NIR Fusion Video Vision Transformer Framework for rPPG Estimation, https://scholar.google.com/scholar_url?url=https://ieeexplore.ieee.org/iel7/19/4407674/09931758.pdf&hl=ko&sa=X&d=11937844283758553921&ei=HupgY7UmwJXL1g_8mZWwBQ&scisig=AAGBfm0bOwAMn3qcEDj52pxk-saZ63EMWA&oi=scholaralrt&hist=V4mg3H8AAAAJ:15478209296966665704:AAGBfm3b1PyKVVElLCN_doAkP7blIxswRw&html=&pos=3&folt=cit
+- Video-based Remote Physiological Measurement via Self-supervised Learning, https://arxiv.org/abs/2210.15401
+
 - [ECCV 2022] Augmentation of rPPG Benchmark Datasets: Learning to Remove and Embed rPPG Signals via Double Cycle Consistent Learning from Unpaired Facial Videos, https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136760351.pdf
 - Github: https://github.com/nthumplab/RErPPGNet
 
