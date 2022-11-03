@@ -49,9 +49,10 @@ https://github.com/innovation-cat/Awesome-Federated-Machine-Learning
 - https://github.com/Kwangkee/FL/blob/main/FL%40Incentive.md
 
 ■ 공정한 연합학습 (Fair Federated Learning)  
-Improving Fairness via Federated Learning, https://arxiv.org/abs/2110.15545?context=cs     
-Fair and Robust Federated Learning Through Personalization, http://proceedings.mlr.press/v139/li21h/li21h.pdf   
-KDD 2021 Tutorial on Towards Fair Federated Learning, www.cas.mcmaster.ca/~chul9/Contents/KDD_2021_Tutorial.html   
+- GIFAIR-FL: A Framework for Group and Individual Fairness in Federated Learning, https://pubsonline.informs.org/doi/full/10.1287/ijds.2022.0022
+- Improving Fairness via Federated Learning, https://arxiv.org/abs/2110.15545?context=cs     
+- Fair and Robust Federated Learning Through Personalization, http://proceedings.mlr.press/v139/li21h/li21h.pdf   
+- KDD 2021 Tutorial on Towards Fair Federated Learning, www.cas.mcmaster.ca/~chul9/Contents/KDD_2021_Tutorial.html   
 
 ■ 신뢰할 수 있는 연합학습 (Trustworthy Federated Learning)  
 FL-IJCAI 2022 : International Workshop on Trustworthy Federated Learning in Conjunction with IJCAI 2022 (FL-IJCAI'22), http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=156561&copyownerid=80806   
