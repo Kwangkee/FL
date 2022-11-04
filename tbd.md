@@ -5,6 +5,11 @@
 - 
 
 ## BC
+- 
+- Blockchain-Based Decentralized Federated Learning, https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Blockchain-Based+Decentralized+Federated+Learning&btnG=
+  >We design our solution to abstract functionalities enabling the framework to be applicable to many problems. We also integrate the proposed system with smart contracts to ensure fairness and full transparency of the FL process. The full source code is available at https://github.com/adirir/DFL.
+
+- 
 - Blockchain based Federated Learning for Object Detection, https://dl.acm.org/doi/abs/10.1145/3548608.3559272
 - 
 
@@ -18,6 +23,7 @@
 
 ## FL Client Selection
 
+- Data-Centric Client Selection for Federated Learning over Distributed Edge Networks, https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Data-Centric+Client+Selection+for+Federated+Learning+over+Distributed+Edge+Networks&btnG=
 - HARMONY: Heterogeneity-Aware Hierarchical Management for Federated Learning System, https://ieeexplore.ieee.org/abstract/document/9923843
 
 - A Snapshot of the Frontiers of Client Selection in Federated Learning, https://arxiv.org/abs/2210.04607
