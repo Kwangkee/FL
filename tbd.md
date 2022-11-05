@@ -5,7 +5,11 @@
 - 
 
 ## BC
+- A Novel Framework for Data Trading Markets based on Blockchain-enabled Federated Learning, https://ieeexplore.ieee.org/abstract/document/9922422
 
+- Decentralized Federated Learning: A Comprehensive Survey and a New Blockchain-based Data Evaluation Scheme, https://ieeexplore.ieee.org/abstract/document/9922390
+
+- Making Smart Contracts Predict and Scale, https://ieeexplore.ieee.org/abstract/document/9922480
 - Smarter Contracts to Predict using Deep-Learning Algorithms, https://ieeexplore.ieee.org/abstract/document/9922240
   >https://towardsdatascience.com/3-ai-marketplaces-everyone-has-to-know-one-will-define-the-century-a4295d4f0229, SingularityNet uses a blockchain platform for storing models but fails to predict on-chain. https://singularitynet.io/
 - Blockchain based Decentralised Model Aggregation for Cross-Silo Federated Learning in Industry 4.0, https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Blockchain+based+Decentralised+Model+Aggregation+for+Cross-Silo+Federated+Learning+in+Industry+4.0&btnG=
