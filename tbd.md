@@ -5,7 +5,8 @@
 - Federated learning @ AWS, https://www.amazon.science/tag/federated-learning
 
 ## xyz
-International Workshop on Federated Learning: Recent Advances and New Challenges in Conjunction with NeurIPS 2022 (FL-NeurIPS'22), https://federated-learning.org/fl-neurips-2022/
+- International Workshop on Federated Learning: Recent Advances and New Challenges in Conjunction with NeurIPS 2022 (FL-NeurIPS'22), https://federated-learning.org/fl-neurips-2022/
+- ICASSP 2022 Special session:Frontiers of Federated Learning: Applications, Challenges, and Opportunities, https://2022.ieeeicassp.org/view_session.php?SessionID=1297
 
 ## FedRL
 - https://scholar.google.com/citations?hl=en&user=rkb3_FgAAAAJ&view_op=list_works&sortby=pubdate
