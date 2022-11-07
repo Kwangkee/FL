@@ -82,7 +82,7 @@
 
 ## rPPG
 
-- Self-supervised RGB-NIR Fusion Video Vision Transformer Framework for rPPG Estimation, https://scholar.google.com/scholar_url?url=https://ieeexplore.ieee.org/iel7/19/4407674/09931758.pdf&hl=ko&sa=X&d=11937844283758553921&ei=HupgY7UmwJXL1g_8mZWwBQ&scisig=AAGBfm0bOwAMn3qcEDj52pxk-saZ63EMWA&oi=scholaralrt&hist=V4mg3H8AAAAJ:15478209296966665704:AAGBfm3b1PyKVVElLCN_doAkP7blIxswRw&html=&pos=3&folt=cit
+- Self-supervised RGB-NIR Fusion Video Vision Transformer Framework for rPPG Estimation, https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9931758
 - Video-based Remote Physiological Measurement via Self-supervised Learning, https://arxiv.org/abs/2210.15401
 
 - [ECCV 2022] Augmentation of rPPG Benchmark Datasets: Learning to Remove and Embed rPPG Signals via Double Cycle Consistent Learning from Unpaired Facial Videos, https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136760351.pdf
