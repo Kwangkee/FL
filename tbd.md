@@ -4,7 +4,8 @@
 - Federated learning challenges and opportunities: An outlook, https://www.amazon.science/publications/federated-learning-challenges-and-opportunities-an-outlook
 - Federated learning @ AWS, https://www.amazon.science/tag/federated-learning
 
-
+## xyz
+International Workshop on Federated Learning: Recent Advances and New Challenges in Conjunction with NeurIPS 2022 (FL-NeurIPS'22), https://federated-learning.org/fl-neurips-2022/
 
 ## FedRL
 - https://scholar.google.com/citations?hl=en&user=rkb3_FgAAAAJ&view_op=list_works&sortby=pubdate
