@@ -1,4 +1,9 @@
 
+## xyz
+- Amazon re:MARS 2022 - Managed federated learning on AWS: A case study for healthcare (MLR312), https://www.youtube.com/watch?v=-aXlyBSeP60
+- 
+
+
 ## FedRL
 - https://scholar.google.com/citations?hl=en&user=rkb3_FgAAAAJ&view_op=list_works&sortby=pubdate
 >- e λ is the testing accuracy of the global models on the validation set after t rounds
