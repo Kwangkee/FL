@@ -27,7 +27,7 @@
   >https://towardsdatascience.com/3-ai-marketplaces-everyone-has-to-know-one-will-define-the-century-a4295d4f0229, SingularityNet uses a blockchain platform for storing models but fails to predict on-chain. https://singularitynet.io/
 - Blockchain based Decentralised Model Aggregation for Cross-Silo Federated Learning in Industry 4.0, https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Blockchain+based+Decentralised+Model+Aggregation+for+Cross-Silo+Federated+Learning+in+Industry+4.0&btnG=
 - Blockchain-Based Decentralized Federated Learning, https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Blockchain-Based+Decentralized+Federated+Learning&btnG=
-  >We design our solution to abstract functionalities enabling the framework to be applicable to many problems. We also integrate the proposed system with smart contracts to ensure fairness and full transparency of the FL process. The full source code is available at https://github.com/adirir/DFL.
+  >We design our solution to abstract functionalities enabling the framework to be applicable to many problems. We also integrate the proposed system with smart contracts to ensure fairness and full transparency of the FL process. The full source code is available at https://github.com/a-dirir/DFL.
 
 - 
 - Blockchain based Federated Learning for Object Detection, https://dl.acm.org/doi/abs/10.1145/3548608.3559272
