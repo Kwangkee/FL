@@ -1,5 +1,9 @@
 
 ## xyz
+- Blockchain and homomorphic encryption based privacy-preserving model aggregation for medical images, https://www.sciencedirect.com/science/article/pii/S0895611122001094
+
+
+## xyz
 - Amazon re:MARS 2022 - Managed federated learning on AWS: A case study for healthcare (MLR312), https://www.youtube.com/watch?v=-aXlyBSeP60
 - Federated learning challenges and opportunities: An outlook, https://www.amazon.science/publications/federated-learning-challenges-and-opportunities-an-outlook
 - Federated learning @ AWS, https://www.amazon.science/tag/federated-learning
