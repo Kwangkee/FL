@@ -18,9 +18,9 @@
 - FLock: Defending Malicious Behaviors in Federated Learning with Blockchain, https://arxiv.org/abs/2211.04344, https://flock.io/
 
 - Blockchain-empowered Federated Learning: Challenges, Solutions, and Future Directions, https://dl.acm.org/doi/abs/10.1145/3570953
-  >• Decoupled model. For each node, it works either in federated learning or blockchain. No nodes work in both systems. 
-  >• Coupled model. All the nodes work in both federated learning and blockchain. 
-  >• Overlapped model. A portion of nodes work in both federated learning and blockchain. The nodes’ roles can adjust dynamically
+  >• Decoupled model. For each node, it works either in federated learning or blockchain. No nodes work in both systems.   
+  >• Coupled model. All the nodes work in both federated learning and blockchain.   
+  >• Overlapped model. A portion of nodes work in both federated learning and blockchain. The nodes’ roles can adjust dynamically  
 
 - A Novel Framework for Data Trading Markets based on Blockchain-enabled Federated Learning, https://ieeexplore.ieee.org/abstract/document/9922422
 
