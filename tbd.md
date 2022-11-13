@@ -3,10 +3,6 @@
 - Blockchain and homomorphic encryption based privacy-preserving model aggregation for medical images, https://www.sciencedirect.com/science/article/pii/S0895611122001094
 - Client Selection in Federated Learning: Principles, Challenges, and Opportunities, https://scholar.google.com/scholar_url?url=https://arxiv.org/pdf/2211.01549&hl=en&sa=X&d=2115249361318653297&ei=HBtqY46zLs6vywSCpZqQAQ&scisig=AAGBfm2a2m565SgYEYGYi_adsYlgcaIqkA&oi=scholaralrt&hist=V4mg3H8AAAAJ:5696132008450199958:AAGBfm1cdWgR_IqsnmWMWDhOWv33uveUSg&html=&pos=1&folt=cit
 
-## xyz
-- Amazon re:MARS 2022 - Managed federated learning on AWS: A case study for healthcare (MLR312), https://www.youtube.com/watch?v=-aXlyBSeP60
-- Federated learning challenges and opportunities: An outlook, https://www.amazon.science/publications/federated-learning-challenges-and-opportunities-an-outlook
-- Federated learning @ AWS, https://www.amazon.science/tag/federated-learning
 
 ## xyz
 - International Workshop on Federated Learning: Recent Advances and New Challenges in Conjunction with NeurIPS 2022 (FL-NeurIPS'22), https://federated-learning.org/fl-neurips-2022/
