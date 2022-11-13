@@ -18,6 +18,11 @@
 - 
 
 ## BC
+
+- FLock: Defending Malicious Behaviors in Federated Learning with Blockchain, https://arxiv.org/abs/2211.04344, https://flock.io/
+
+- Blockchain-empowered Federated Learning: Challenges, Solutions, and Future Directions, https://dl.acm.org/doi/abs/10.1145/3570953
+
 - A Novel Framework for Data Trading Markets based on Blockchain-enabled Federated Learning, https://ieeexplore.ieee.org/abstract/document/9922422
 
 - Decentralized Federated Learning: A Comprehensive Survey and a New Blockchain-based Data Evaluation Scheme, https://ieeexplore.ieee.org/abstract/document/9922390
