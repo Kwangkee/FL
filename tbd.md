@@ -11,7 +11,13 @@
 ## FedRL
 - https://scholar.google.com/citations?hl=en&user=rkb3_FgAAAAJ&view_op=list_works&sortby=pubdate
 >- e λ is the testing accuracy of the global models on the validation set after t rounds
-- 
+
+## Cuffless BP
+Toshiyo Tamura, https://scholar.google.com/citations?hl=en&user=z72Gli4AAAAJ&view_op=list_works&sortby=pubdate
+- Cuffless Blood Pressure Monitors: Principles, Standards and Approval for Medical Use, https://www.jstage.jst.go.jp/article/transcom/E104.B/6/E104.B_2020HMI0002/_article/-char/ja/
+- Progress of Home Healthcare Sensor in Our Experience: Development of Wearable and Unobtrusive Monitoring, https://www.jstage.jst.go.jp/article/abe/9/0/9_9_189/_article/-char/ja/
+
+
 
 ## BC
 
@@ -51,6 +57,17 @@
 - HealthBlock: Asecureblockchain-basedhealthcaredatamanagementsystem, https://www.sciencedirect.com/science/article/abs/pii/S1389128621004382
 
 ## FL Client Selection
+
+- Optimizing Server-side Aggregation For Robust Federated Learning via Subspace Training, https://arxiv.org/abs/2211.05554
+  >We consider a practical scenario that the service provider itself can collect a small amount of clean training data for the current learning task, which raises an emerging line of research in prior FL studies [5, 9, 45, 47, 62].  
+  >
+  >Unfortunately, it is impractical for the service provider to collect lots of on-server proxy data.
+  >
+  >To be precise, each time after local training, SmartFL updates the global model to be the optimal convex combination of the received client models’ parameters by fitting the on-server proxy data.  
+  >
+  >This makes SmartFL enjoy a much lower demand for on-server proxy data, better generalization, and higher aggregation eff iciency. With an optimized global model, SmartFL successfully boosts performance under either or both challenging conditions. We also establish theoretical guarantees on the convergence and generalization of SmartFL.
+  >
+  >It is worth mentioning that our setup is practical, which assumes the service provider itself collects a small clean labelled proxy dataset (around a hundred samples by default).
 
 - FedCos: A Scene-adaptive Enhancement for Federated Learning, https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=FedCos%3A+A+Scene-adaptive+Enhancement+for+Federated+Learning&btnG=
 - Data-Centric Client Selection for Federated Learning over Distributed Edge Networks, https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Data-Centric+Client+Selection+for+Federated+Learning+over+Distributed+Edge+Networks&btnG=
