@@ -12,10 +12,6 @@
 - https://scholar.google.com/citations?hl=en&user=rkb3_FgAAAAJ&view_op=list_works&sortby=pubdate
 >- e λ is the testing accuracy of the global models on the validation set after t rounds
 
-## Cuffless BP
-Toshiyo Tamura, https://scholar.google.com/citations?hl=en&user=z72Gli4AAAAJ&view_op=list_works&sortby=pubdate
-- Cuffless Blood Pressure Monitors: Principles, Standards and Approval for Medical Use, https://www.jstage.jst.go.jp/article/transcom/E104.B/6/E104.B_2020HMI0002/_article/-char/ja/
-- Progress of Home Healthcare Sensor in Our Experience: Development of Wearable and Unobtrusive Monitoring, https://www.jstage.jst.go.jp/article/abe/9/0/9_9_189/_article/-char/ja/
 
 
 
