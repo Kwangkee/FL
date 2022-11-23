@@ -1,7 +1,9 @@
 
 ## xyz
 - https://github.com/hacdias/blocklearning
-- 
+- Blockchain-based Federated Learning: A Systematic Survey, https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Blockchain-based+Federated+Learning%3A+A+Systematic+Survey&btnG=
+- FLSys: Toward an Open Ecosystem for Federated Learning Mobile Apps, https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=FLSys%3A+Toward+an+Open+Ecosystem+for+Federated+Learning+Mobile+App&btnG=
+
 - Blockchain and homomorphic encryption based privacy-preserving model aggregation for medical images, https://www.sciencedirect.com/science/article/pii/S0895611122001094
 - Client Selection in Federated Learning: Principles, Challenges, and Opportunities, https://scholar.google.com/scholar_url?url=https://arxiv.org/pdf/2211.01549&hl=en&sa=X&d=2115249361318653297&ei=HBtqY46zLs6vywSCpZqQAQ&scisig=AAGBfm2a2m565SgYEYGYi_adsYlgcaIqkA&oi=scholaralrt&hist=V4mg3H8AAAAJ:5696132008450199958:AAGBfm1cdWgR_IqsnmWMWDhOWv33uveUSg&html=&pos=1&folt=cit
 
