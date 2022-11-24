@@ -23,3 +23,7 @@ servers. In addition, the smart contracts hold information regarding the current
 ![image](https://user-images.githubusercontent.com/109835677/203719280-702de149-7a33-4421-b856-29d5b628dd8b.png)
 
 
+#### 5.2 Client Sampling
+
+In order to perform the horizontal client sampling, we used a publicly available tool [79] that supports sampling from the MNIST data set directly using the Dirichlet distribution.
+>- Personalized Federated Learning Platform, https://github.com/TsingZ0/PFL-Non-IID
