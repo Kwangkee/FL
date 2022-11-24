@@ -18,6 +18,10 @@ Back to https://github.com/Kwangkee/FL
 ## A Novel Framework
 - A Novel Framework for Data Trading Markets based on Blockchain-enabled Federated Learning, https://ieeexplore.ieee.org/abstract/document/9922422
 
+![image](https://user-images.githubusercontent.com/109835677/203696213-a00c13c8-b458-4da5-bb4f-b5d4db76f756.png)
+
+![image](https://user-images.githubusercontent.com/109835677/203696136-0e9aa748-85a4-490a-991e-4665f0fd7bcc.png)
+
 
 ***   
 ## FL-Market
