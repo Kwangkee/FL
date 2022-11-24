@@ -34,7 +34,6 @@
   >• Coupled model. All the nodes work in both federated learning and blockchain.   
   >• Overlapped model. A portion of nodes work in both federated learning and blockchain. The nodes’ roles can adjust dynamically  
 
-- A Novel Framework for Data Trading Markets based on Blockchain-enabled Federated Learning, https://ieeexplore.ieee.org/abstract/document/9922422
 
 - Decentralized Federated Learning: A Comprehensive Survey and a New Blockchain-based Data Evaluation Scheme, https://ieeexplore.ieee.org/abstract/document/9922390
 
@@ -90,9 +89,6 @@
 - PersA-FL: Personalized Asynchronous Federated Learning, https://arxiv.org/abs/2210.01176
 - Analysis and Evaluation of Synchronous and Asynchronous FLchain, https://arxiv.org/abs/2112.07938
 
-## FL Market
-- FL-Market: Trading Private Models in Federated Learning, https://arxiv.org/abs/2106.04384
-- Blockchain-enhanced Federated Learning Market with Social Internet of Things, https://ieeexplore.ieee.org/abstract/document/9918042
 
 ## FL
 - Federated and Meta learning over Non-Wireless and Wireless Networks: A Tutorial, https://arxiv.org/abs/2210.13111
