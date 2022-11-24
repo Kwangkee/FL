@@ -7,19 +7,19 @@ Back to https://github.com/Kwangkee/FL
 
 ***   
 
-## FL-Market
-
+#### xxx
 
 - A Novel Framework for Data Trading Markets based on Blockchain-enabled Federated Learning, https://ieeexplore.ieee.org/abstract/document/9922422
 - Smarter Contracts to Predict using Deep-Learning Algorithms, https://ieeexplore.ieee.org/abstract/document/9922240
   >https://towardsdatascience.com/3-ai-marketplaces-everyone-has-to-know-one-will-define-the-century-a4295d4f0229, SingularityNet uses a blockchain platform for storing models but fails to predict on-chain. https://singularitynet.io/
 
 
-## FL Market
+#### xxx
 - FL-Market: Trading Private Models in Federated Learning, https://arxiv.org/abs/2106.04384
 - Blockchain-enhanced Federated Learning Market with Social Internet of Things, https://ieeexplore.ieee.org/abstract/document/9918042
 
 
+***   
 
 - FL-Market: Trading Private Models in Federated Learning, https://arxiv.org/abs/2106.04384. The source code, data, and/or other artifacts have been made available at https://github.com/teijyogen/FL-Market 
 
