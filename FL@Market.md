@@ -35,6 +35,9 @@ YouTube: https://www.youtube.com/watch?v=_jZTPCgWkeI
 
 In this paper, we present CrowdFL, a platform to facilitate the crowdsourcing of FL model training. It coordinates client selection, model training, and reputation management, which are essential steps for the FL crowdsourcing operations. By implementing model training on actual mobile devices, we demonstrate that the platform improves model performance and training efficiency. To the best of our knowledge, it is the first platform to support crowdsourcing-based FL on edge devices.
 
+![image](https://user-images.githubusercontent.com/109835677/203695212-092a8865-d15e-4a47-abd1-c2bfebddbe06.png)
+
+
 ## xyz 
 
 - Learning Markets: An AI Collaboration Framework Based on Blockchain and Smart Contracts, https://ieeexplore.ieee.org/abstract/document/9234516 
