@@ -18,3 +18,8 @@ Framework Design and Implementation
 The first component of the framework is the smart contracts. The smart contracts live on the blockchain and are the main means of communication between FL clients and
 servers. In addition, the smart contracts hold information regarding the current status of the round, as well as the updates, scores, aggregations, among others. 
 
+#### 4.2.1 Smart Contracts
+
+![image](https://user-images.githubusercontent.com/109835677/203719280-702de149-7a33-4421-b856-29d5b628dd8b.png)
+
+
