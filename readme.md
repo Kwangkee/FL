@@ -2,6 +2,7 @@
 - Federated Learning Market 
 >- https://www.marketsandmarkets.com/Market-Reports/federated-learning-solutions-market-151896843.html
 >- https://www.kbvresearch.com/federated-learning-market/
+>- https://www.giikorea.co.kr/php/report.php?CODE=mama1072748-federated-learning-market-by-application-drug.html&TYPE=0
 
 ***
 Advances and Open Problems in Federated Learning, https://arxiv.org/abs/1912.04977  
