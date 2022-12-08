@@ -1,4 +1,9 @@
 ***
+- Federated Learning Market 
+>- https://www.marketsandmarkets.com/Market-Reports/federated-learning-solutions-market-151896843.html
+>- https://www.kbvresearch.com/federated-learning-market/
+
+***
 Advances and Open Problems in Federated Learning, https://arxiv.org/abs/1912.04977  
 A Field Guide to Federated Optimization, https://arxiv.org/abs/2107.06917  
 
