@@ -24,11 +24,6 @@ Personalized Neural Network for Patient-Specific Health Monitoring in IoT: A Met
 
 
 ***
-## Re-engineering a Clinical Trial Management System Using Blockchain Technology
-- Re-engineering a Clinical Trial Management System Using Blockchain Technology: System Design, Development, and Case Studies, https://www.jmir.org/2022/6/e36774/
-- Re-engineering Clinical Trial Management System Using Blockchain Technology, https://blockchainhealthcaretoday.com/index.php/journal/article/view/215
-
-***
 
 ## list
 
