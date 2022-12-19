@@ -4,11 +4,13 @@ Back to https://github.com/Kwangkee/FL
 ***
 ## Jingtong Hu
 - Jingtong Hu, https://scholar.google.com/citations?hl=en&user=OcWo8CYAAAAJ&view_op=list_works&sortby=pubdate
+
+
 - Federated Learning Framework Aims to Improve Fairness in AI Screening Tools, https://healthitanalytics.com/news/federated-learning-framework-aims-to-improve-fairness-in-ai-screening-tools
 >-	October 27, 2022 - A research team from the University of Pittsburgh (Pitt) Swanson School of Engineering has been awarded a $1.7 million National Institutes of Health grant to develop a federated learning (FL)-based approach to achieve fairness in artificial intelligence (AI)-assisted medical screening tools.
 - https://news.engineering.pitt.edu/engineering-more-race-inclusive-ai-in-medicine/
->-	Unlike existing frameworks, this framework would rely on unsupervised learning with data coming from a variety of smartphone models and other devices, allowing more people to participate in the study. The framework would also have to consider the fairness of different machine learning models. The team will develop a machine learning framework that will automatically search existing learning models and use the best architectures for datasets with diverse data.
-Achieve Fairness in AI-Assisted Mobile Healthcare Apps through Unsupervised Federated Learning, https://www.nibib.nih.gov/node/136866
+>-	Unlike existing frameworks, this framework would rely on **unsupervised learning with data coming from a variety of smartphone models and other devices**, allowing more people to participate in the study. The framework would also have to consider the fairness of different machine learning models. The team will develop a machine learning framework that will automatically search existing learning models and use the best architectures for datasets with diverse data.
+- Achieve Fairness in AI-Assisted **Mobile Healthcare Apps through Unsupervised Federated Learning**, https://www.nibib.nih.gov/node/136866
 
 
 - Achieving Fairness in Dermatological Disease Diagnosis through Automatic Weight Adjusting Federated Learning and Personalization, https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OcWo8CYAAAAJ&sortby=pubdate&citation_for_view=OcWo8CYAAAAJ:bz8QjSJIRt4C
