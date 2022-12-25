@@ -6,6 +6,14 @@ Back to https://github.com/Kwangkee/FL
 #### Duc Lam Nguyen
 - Duc Lam Nguyen, https://scholar.google.co.kr/citations?hl=ko&user=HDaJwWUAAAAJ&view_op=list_works&sortby=pubdate
 - Duc Lam Nguyen, https://lamnd09.github.io/lamnd09/
+- BDSP: A Fair Blockchain-enabled Framework for Privacy-Enhanced Enterprise Data Sharing
+- FedToken: Tokenized Incentives for Data Contribution in Federated Learning, 
+- A Contribution-based Device Selection Scheme in Federated Learning
+
+- Blockchain for internet of things: Data markets, learning, and sustainability (Ph.D. Dissertation), https://vbn.aau.dk/ws/files/478977327/phd_DLN_e_pdf.pdf
+>- C Modeling and Analysis of Data Trading on Blockchain-based Market in IoT Networks 47
+>- D A Marketplace for Trading AI Models based on Blockchain and Incentives for IoT Data
+
 
 #### Zhenzhe Zheng
 - Zhenzhe Zheng, https://scholar.google.com/citations?hl=en&user=kx_5xxEAAAAJ&view_op=list_works&sortby=pubdate
