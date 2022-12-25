@@ -1,9 +1,14 @@
 Back to https://github.com/Kwangkee/FL
 ***
 
-## Papers 
+## Researcher 
 
-Zhenzhe Zheng, https://scholar.google.com/citations?hl=en&user=kx_5xxEAAAAJ&view_op=list_works&sortby=pubdate
+#### Duc Lam Nguyen
+- Duc Lam Nguyen, https://scholar.google.co.kr/citations?hl=ko&user=HDaJwWUAAAAJ&view_op=list_works&sortby=pubdate
+- Duc Lam Nguyen, https://lamnd09.github.io/lamnd09/
+
+#### Zhenzhe Zheng
+- Zhenzhe Zheng, https://scholar.google.com/citations?hl=en&user=kx_5xxEAAAAJ&view_op=list_works&sortby=pubdate
 - [[ODE: A Data Sampling Method for Practical Federated Learning with Streaming Data and Limited Buffer](https://github.com/Kwangkee/FL/blob/main/FL@ClientSelection.md#ode-a-framework-of-online-data-selection)], https://arxiv.org/abs/2209.00195 
 - Online Data Valuation and Pricing for Machine Learning Tasks in Mobile Health, https://ieeexplore-ieee-org.libproxy.kw.ac.kr/document/9796669?arnumber=9796669&SID=EBSCO:edseee
 - Data-Free Evaluation of User Contributions in Federated Learning, https://arxiv.org/abs/2108.10623
