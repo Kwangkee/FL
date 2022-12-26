@@ -1,6 +1,21 @@
 Back to https://github.com/Kwangkee/FL
 ***
 
+## Zhenge Jia
+- Zhenge Jia, https://scholar.google.com/citations?hl=en&user=ROgpsv0AAAAJ&view_op=list_works&sortby=pubdate
+- https://zhengejia.github.io/
+
+#### Personalized Deep Learning for IoT-Enabled Health Monitoring, https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ROgpsv0AAAAJ&sortby=pubdate&citation_for_view=ROgpsv0AAAAJ:Se3iqnhoufwC
+
+However, directly applying deep learning is not always feasible for IoT-enabled health monitoring.  
+- [Meta-Learning] First, biosignals are highly variable among patients in terms of morphological characteristics due to individual differences. The detection performances of the pre-trained deep learning model would degrade significantly on some patients. Therefore, effective model personalization methods are in urgent need in patient-specific detection. 
+- [SSL] Second, the deep model personalization process still requires an extensive amount of labeled data. In practice, for some applications, it is impractical to obtain adequate labeled samples due to the overwhelmed workload in manual labeling. 
+- [FL] Third, the data access is limited due to privacy concerns in certain health monitoring applications, where aggregating personal health data in a centralized server is strictly restricted. 
+To address the aforementioned challenges, this dissertation proposes several techniques to enable personalized deep learning for IoT-enabled health monitoring.  
+- First, a novel metalearning algorithm and a prior knowledge incorporated learning approach are proposed to obtain a well-generalized model initialization and to regularize the personalization process with medical knowledge. 
+- Second, a system-level design is proposed to conduct self-supervised and on-device model personalization. 
+- Finally, we propose a personalized meta-federated learning method for distributed IoT health monitors to generate a patient-specific model through collaborative training without accessing personal health data.
+
 ***
 ## Jingtong Hu
 - Jingtong Hu, https://scholar.google.com/citations?hl=en&user=OcWo8CYAAAAJ&view_op=list_works&sortby=pubdate
