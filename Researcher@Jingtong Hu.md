@@ -39,6 +39,9 @@ To address the aforementioned challenges, this dissertation proposes several tec
 >-	Specifically, the proposed metalearning method leverages a novel patientwise training tasks formatting strategy to train the neural network that ends up with a well-generalized model initialization containing across-patient knowledge. The well-generalized model initialization would then be utilized to perform a quick adaptation to the specific patient’s data domain. 
 >-	In this way, **a new patient could be immediately assigned with a personalized neural network using limited labeled data**.
 
+![image](https://user-images.githubusercontent.com/109835677/209490646-f54d4c46-d8f5-4ab2-ada4-bd14c77ab18c.png)
+
+
 - Learning to learn personalized neural network for ventricular arrhythmias detection on intracardiac egms, https://scholar.google.co.kr/scholar?hl=ko&as_sdt=0%2C5&q=Learning+to+learn+personalized+neural+network+for+ventricular+arrhythmias+detection+on+intracardiac+egms&btnG=
 
 
