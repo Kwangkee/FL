@@ -20,10 +20,13 @@ Back to https://github.com/Kwangkee/FL
 ## Indy528
 
 - In this research, we propose an open platform “Indy528” and utilize **NFT tokens to represent federated machine learning (FML) models**. 
-- We design a novel NFT token schema i528 (which is an extension of ERC721) to represent machine learning models as NFTs. 
+>- Currently, NFTs are used to tokenise objects such as arts, collectables, and even real estate. In this research, we propose an open platform “Indy528” and utilize NFT tokens to represent federated machine learning (FML) models.
+
 - As a use-case of Indy528, we propose a concept of the NFT-based decentralized FML model marketplace. 
 >- Model creators can train the FML models and publish them in the marketplace as NFTs. 
 >- Parties who want to use the models can buy them from the model creators as NFTs. The buyers can view model information, accuracy, training process etc via the model card objects stored with the NFT. 
+
+- FL model 을 NFT
 
 ***   
 ## A Novel Framework for Data Trading Markets
