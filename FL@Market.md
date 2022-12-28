@@ -10,10 +10,20 @@ Back to https://github.com/Kwangkee/FL
 
 ***
 
-- Indy528 — Federated Learning Model Tokenization with Non-Fungible Tokens(NFT) and Model Cards, https://ieeexplore.ieee.org/document/9973499
+- [[Indy528 — Federated Learning Model Tokenization with Non-Fungible Tokens(NFT) and Model Cards](https://github.com/Kwangkee/FL/blob/main/FL@Market.md#indy528)], https://ieeexplore.ieee.org/document/9973499
 - [[A Novel Framework:A Novel Framework for Data Trading Markets based on Blockchain-enabled Federated Learning](https://github.com/Kwangkee/FL/blob/main/FL@Market.md#a-novel-framework-for-data-trading-markets)], https://ieeexplore.ieee.org/abstract/document/9922422
 - [[FL-Market: Trading Private Models in Federated Learning](https://github.com/Kwangkee/FL/blob/main/FL%40Market.md#fl-market)], https://arxiv.org/abs/2106.04384
 - [[CrowdFL: A Marketplace for Crowdsourced Federated Learning](https://github.com/Kwangkee/FL/blob/main/FL@Market.md#crowdfl)], AAAI-22 Demonstration Track, https://ojs.aaai.org/index.php/AAAI/article/view/21715   
+
+
+***   
+## Indy528
+
+- In this research, we propose an open platform “Indy528” and utilize **NFT tokens to represent federated machine learning (FML) models**. 
+- We design a novel NFT token schema i528 (which is an extension of ERC721) to represent machine learning models as NFTs. 
+- As a use-case of Indy528, we propose a concept of the NFT-based decentralized FML model marketplace. 
+>- Model creators can train the FML models and publish them in the marketplace as NFTs. 
+>- Parties who want to use the models can buy them from the model creators as NFTs. The buyers can view model information, accuracy, training process etc via the model card objects stored with the NFT. 
 
 ***   
 ## A Novel Framework for Data Trading Markets
