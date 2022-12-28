@@ -26,8 +26,6 @@ Back to https://github.com/Kwangkee/FL
 >- Model creators can train the FML models and publish them in the marketplace as NFTs. 
 >- Parties who want to use the models can buy them from the model creators as NFTs. The buyers can view model information, accuracy, training process etc via the model card objects stored with the NFT. 
 
-- FL model 을 NFT
-
 ***   
 ## A Novel Framework for Data Trading Markets
 - A Novel Framework for Data Trading Markets based on Blockchain-enabled Federated Learning, https://ieeexplore.ieee.org/abstract/document/9922422
