@@ -1,7 +1,7 @@
 Back to https://github.com/Kwangkee/FL
 ***
 
-#### xxx
+#### Not Yet Reviewed
 
 - FedMarket: A Cryptocurrency Driven Marketplace for Mobile Federated Learning Services, https://ieeexplore.ieee.org/document/9858143
 - Smarter Contracts to Predict using Deep-Learning Algorithms, https://ieeexplore.ieee.org/abstract/document/9922240
@@ -10,6 +10,7 @@ Back to https://github.com/Kwangkee/FL
 
 ***
 
+- Indy528 — Federated Learning Model Tokenization with Non-Fungible Tokens(NFT) and Model Cards, https://ieeexplore.ieee.org/document/9973499
 - [[A Novel Framework:A Novel Framework for Data Trading Markets based on Blockchain-enabled Federated Learning](https://github.com/Kwangkee/FL/blob/main/FL@Market.md#a-novel-framework-for-data-trading-markets)], https://ieeexplore.ieee.org/abstract/document/9922422
 - [[FL-Market: Trading Private Models in Federated Learning](https://github.com/Kwangkee/FL/blob/main/FL%40Market.md#fl-market)], https://arxiv.org/abs/2106.04384
 - [[CrowdFL: A Marketplace for Crowdsourced Federated Learning](https://github.com/Kwangkee/FL/blob/main/FL@Market.md#crowdfl)], AAAI-22 Demonstration Track, https://ojs.aaai.org/index.php/AAAI/article/view/21715   
