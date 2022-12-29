@@ -10,7 +10,7 @@ Back to https://github.com/Kwangkee/FL
 
 ***
 
-- [[Indy528 — Federated Learning Model Tokenization with Non-Fungible Tokens(NFT) and Model Cards](https://github.com/Kwangkee/FL/blob/main/FL@Market.md#indy528)], https://ieeexplore.ieee.org/document/9973499
+- [[Indy528 — Federated Learning Model Tokenization with Non-Fungible Tokens(NFT) and Model Cards](https://github.com/Kwangkee/FL/blob/main/FL@Market.md#indy528)], https://scholar.google.co.kr/scholar?hl=ko&as_sdt=0%2C5&q=Indy528+%E2%80%94+Federated+Learning+Model+Tokenization+with+Non-Fungible+Tokens%28NFT%29+and+Model+Cards&btnG=
 - [[A Novel Framework:A Novel Framework for Data Trading Markets based on Blockchain-enabled Federated Learning](https://github.com/Kwangkee/FL/blob/main/FL@Market.md#a-novel-framework-for-data-trading-markets)], https://ieeexplore.ieee.org/abstract/document/9922422
 - [[FL-Market: Trading Private Models in Federated Learning](https://github.com/Kwangkee/FL/blob/main/FL%40Market.md#fl-market)], https://arxiv.org/abs/2106.04384
 - [[CrowdFL: A Marketplace for Crowdsourced Federated Learning](https://github.com/Kwangkee/FL/blob/main/FL@Market.md#crowdfl)], AAAI-22 Demonstration Track, https://ojs.aaai.org/index.php/AAAI/article/view/21715   
@@ -18,7 +18,7 @@ Back to https://github.com/Kwangkee/FL
 
 ***   
 ## Indy528
-- Indy528 — Federated Learning Model Tokenization with Non-Fungible Tokens(NFT) and Model Cards, https://ieeexplore.ieee.org/document/9973499
+- Indy528 — Federated Learning Model Tokenization with Non-Fungible Tokens(NFT) and Model Cards, https://scholar.google.co.kr/scholar?hl=ko&as_sdt=0%2C5&q=Indy528+%E2%80%94+Federated+Learning+Model+Tokenization+with+Non-Fungible+Tokens%28NFT%29+and+Model+Cards&btnG=
 
 - In this research, we propose an open platform “Indy528” and utilize **NFT tokens to represent federated machine learning (FML) models**. 
 >- Currently, NFTs are used to tokenise objects such as arts, collectables, and even real estate. In this research, we propose an open platform “Indy528” and utilize NFT tokens to represent federated machine learning (FML) models.
