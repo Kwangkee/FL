@@ -18,6 +18,7 @@ Back to https://github.com/Kwangkee/FL
 
 ***   
 ## Indy528
+- Indy528 — Federated Learning Model Tokenization with Non-Fungible Tokens(NFT) and Model Cards, https://ieeexplore.ieee.org/document/9973499
 
 - In this research, we propose an open platform “Indy528” and utilize **NFT tokens to represent federated machine learning (FML) models**. 
 >- Currently, NFTs are used to tokenise objects such as arts, collectables, and even real estate. In this research, we propose an open platform “Indy528” and utilize NFT tokens to represent federated machine learning (FML) models.
