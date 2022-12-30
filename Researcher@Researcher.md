@@ -3,6 +3,11 @@ Back to https://github.com/Kwangkee/FL
 
 ## Researcher 
 
+#### Minfeng Qi
+- Minfeng Qi, https://scholar.google.co.kr/citations?hl=ko&user=9KUc_KQAAAAJ&view_op=list_works&sortby=pubdate
+- Privacy protection for blockchain-based healthcare IoT systems: A survey, https://scholar.google.co.kr/citations?view_op=view_citation&hl=ko&user=9KUc_KQAAAAJ&sortby=pubdate&citation_for_view=9KUc_KQAAAAJ:Y0pCki6q_DkC
+
+
 #### Duc Lam Nguyen
 - Duc Lam Nguyen, https://scholar.google.co.kr/citations?hl=ko&user=HDaJwWUAAAAJ&view_op=list_works&sortby=pubdate
 - Duc Lam Nguyen, https://lamnd09.github.io/lamnd09/
