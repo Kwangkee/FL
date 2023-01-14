@@ -3,7 +3,9 @@ Back to https://github.com/Kwangkee/FL
 
 #### Not Yet Reviewed
 
-- FedMarket: A Cryptocurrency Driven Marketplace for Mobile Federated Learning Services, https://ieeexplore.ieee.org/document/9858143
+- [Choong Seon Hong] FL-Incentivizer: FL-NFT and FL-Tokens for Federated Learning Model Trading and Training, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=FL-Incentivizer%3A+FL-NFT+and+FL-Tokens+for+Federated+Learning+Model+Trading+and+Training&btnG=
+- [Choong Seon Hong] FedMarket: A Cryptocurrency Driven Marketplace for Mobile Federated Learning Services, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=FedMarket%3A+A+Cryptocurrency+Driven+Marketplace+for+Mobile+Federated+Learning+Services&btnG=
+
 - Smarter Contracts to Predict using Deep-Learning Algorithms, https://ieeexplore.ieee.org/abstract/document/9922240
   >https://towardsdatascience.com/3-ai-marketplaces-everyone-has-to-know-one-will-define-the-century-a4295d4f0229, SingularityNet uses a blockchain platform for storing models but fails to predict on-chain. https://singularitynet.io/
 - Blockchain-enhanced Federated Learning Market with Social Internet of Things, https://ieeexplore.ieee.org/abstract/document/9918042
