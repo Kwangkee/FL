@@ -46,6 +46,13 @@ Back to https://github.com/Kwangkee/FL
     >- The software is available on GitHub (https://github.com/TVS-AI/Pytorch_rppgs (accessed date 26 November 2021)) for experimentation.
 
 -	MovieDIRec: Drafted-Input-Based Recommendation System for Movies (MDPI Appl. Sci. 2021): [T3-2] 콘텐츠 서비스 분야에서 개인맞춤형 추천 실세계 적용 시나리오에 적응적 연합학습 기술을 적용하기 위한 기반기술, https://www.mdpi.com/2076-3417/11/21/10412
+-	A Study of Projection-based Attentive Spatial-Temporal Map for Remote Photoplethysmography Measurement, https://www.mdpi.com/2306-5354/9/11/638 : 딥러닝 기반의 3가지 대표적인 rPPG 알고리즘의 단점을 보안하고, 추론 속도를 높인 모델 구조를 제안
+▪ 딥러닝 기반 rPPG 모델 사용을 위한 경량 모델 연구, https://drive.google.com/file/d/1-NVJvimbkO5_qgW-jol7aEX6OgGx3VqE/view?usp=sharing 
+▪ 원격 PPG에 대한 메타러닝 기반 개인화 연합학습 적용 및 성능 평가, https://drive.google.com/file/d/1r-IpOKmJ3QUjFMXKLuhyuCl1WsqaQl_l/view?usp=sharing : Federated Learning 환경에서 rPPG의 타당성을 구성하고, Meta-Learning 을 이용하여 성능 향상을 제안
+
+#### [N1, 가천대] 
+- 연합학습시스템에서의 MLOps 구현 방안 연구, http://www.jics.or.kr/digital-library/25791 : FedMLOps: 연합학습을 실제 프로젝트에 적용하여 연합학습의 수명주기를 관리하는 코드/모델 버전 관리, 디바이스 성능/상태 모니터링, 서버-클라이언트 학습 스케줄링을 할 수 있는 FedMLOps 시스템 연구 
+
 
 ## [공개 SW]
 -	[T1, KAIST] Federated MetaSense, https://github.com/nmsl-kaist/federated-metasense : Flower framework을 기반으로 다양한 Federated MetaSense 알고리즘 후보를 구현하고, 그 결과를 여러 데이터셋을 활용하여 분석
