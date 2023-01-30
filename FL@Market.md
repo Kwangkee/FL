@@ -3,8 +3,9 @@ Back to https://github.com/Kwangkee/FL
 
 #### Not Yet Reviewed
 
+- [Choong Seon Hong] FedMarket: A Cryptocurrency Driven Marketplace for Mobile Federated Learning Services, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=FedMarket%3A+A+Cryptocurrency+Driven+Marketplace+for+Mobile+Federated+Learning+Services&btnG=  
+
 - [Choong Seon Hong] FL-Incentivizer: FL-NFT and FL-Tokens for Federated Learning Model Trading and Training, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=FL-Incentivizer%3A+FL-NFT+and+FL-Tokens+for+Federated+Learning+Model+Trading+and+Training&btnG=
-- [Choong Seon Hong] FedMarket: A Cryptocurrency Driven Marketplace for Mobile Federated Learning Services, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=FedMarket%3A+A+Cryptocurrency+Driven+Marketplace+for+Mobile+Federated+Learning+Services&btnG=
   >- FL-Incentivizer **commercializes and tokenizes the global model** using FL-NFT (FL Non-Fungible Token) based on the ERC-721 standard. 
   >- We provide implementation and deployment details, complete smart contract codes, and qualitative evaluation of the FL-Incentivizer. After implementing FL-Incentivizer for a global iteration of a Federated learning task, we showed the **FL-NFT on OpenSea and an FL-Token for a learner on MetaMask**. FL-NFTs can be traded on markets such as OpenSea like other NFTs. While FL-Tokens can be transferred in the same manner as other ERC-20-based tokens.
   >- We introduce FL-NFTs based on the ERC-721 standard for GM trading and ownership claims.
