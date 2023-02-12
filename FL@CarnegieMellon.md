@@ -14,6 +14,7 @@ https://scholar.google.com/citations?hl=ko&user=yqIoH34AAAAJ&view_op=list_works&
 https://scholar.google.com/citations?hl=ko&user=MR333jsAAAAJ&view_op=list_works&sortby=pubdate  
 https://yaejeec.github.io/   
 
+- On the Convergence of Federated Averaging with Cyclic Client Participation, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=On+the+Convergence+of+Federated+Averaging+with+Cyclic+Client+Participation&btnG=
 - [[Towards Understanding Biased Client Selection in Federated Learning](https://github.com/Kwangkee/FL/blob/main/FL@CarnegieMellon.md#biased-client-selection)], https://proceedings.mlr.press/v151/jee-cho22a.html    
 - [[To Federate or Not To Federate: Incentivizing Client Participation in Federated Learning](https://github.com/Kwangkee/FL/blob/main/FL@CarnegieMellon.md#incfl)], https://arxiv.org/abs/2205.14840  
 
