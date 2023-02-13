@@ -2,7 +2,7 @@ Back to https://github.com/Kwangkee/FL
 ***
 
 ## Papers 
-- [[RL-Based Federated Learning Framework Over Blockchain (RL-FL-BC)](https://github.com/Kwangkee/FL/blob/main/BCFL.md#rl-fl-bc)], https://ieeexplore.ieee.org/abstract/document/10034683  
+- [[DFML: Dynamic Federated Meta-Learning for Rare Disease Prediction](https://github.com/Kwangkee/FL/blob/main/Personalization.md#dfml)], https://ieeexplore.ieee.org/abstract/document/10026448
 
 ***
 
