@@ -4,6 +4,8 @@ Back to https://github.com/Kwangkee/FL
 ## Papers 
 - [[RL-Based Federated Learning Framework Over Blockchain (RL-FL-BC)](https://github.com/Kwangkee/FL/blob/main/BCFL.md#rl-fl-bc)], https://ieeexplore.ieee.org/abstract/document/10034683  
 
+- Adaptive Resource Allocation for Blockchain-based Federated Learning in Internet of Things, https://ieeexplore.ieee.org/abstract/document/10034764
+
 - Privacy-Preserving Blockchain-Based Federated Learning for IoT Devices, https://ieeexplore.ieee.org/abstract/document/9170559
 >- To help manufacturers develop a smart home system, we design a federated learning (FL) system leveraging a reputation mechanism to assist home appliance manufacturers to train a machine learning model based on customers’ data. Then, manufacturers can predict customers’ requirements and consumption behaviors in the future. 
 
