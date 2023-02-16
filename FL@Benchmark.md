@@ -1,7 +1,11 @@
 ***
 Back to https://github.com/Kwangkee/FL
 
-Personalized FL Benchmarking
+## Systematic Comparison of FL Platforms/Benchmarks
+A Systematic Comparison of Federated Machine Learning Libraries, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=A+Systematic+Comparison+of+Federated+Machine+Learning+Libraries&btnG=
+DEPARTMENT OF INFORMATICS TECHNISCHE UNIVERSITÄT MÜNCHEN 
+Master’s Thesis in Information Systems
+
 ***
 
 ## Motley@Carnegie Mellon
