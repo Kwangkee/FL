@@ -1,4 +1,14 @@
 
+## FederatedTrust: A Solution for Trustworthy Federated Learning
+- FederatedTrust: A Solution for Trustworthy Federated Learning, https://scholar.google.co.kr/scholar?hl=ko&as_sdt=0%2C5&q=FederatedTrust%3A+A+Solution+for+Trustworthy+Federated+Learning&btnG=
+
+Thus, this work analyzes the existing requirements for trustworthiness evaluation in FL and proposes a comprehensive taxonomy of six pillars (privacy, robustness, fairness, explainability, accountability, and federation) with notions and more than 30 metrics for computing the trustworthiness of FL models. Then, an algorithm called FederatedTrust has been designed according to the pillars and metrics identified in the previous taxonomy to compute the trustworthiness score of FL models. A prototype of FederatedTrust has been implemented and deployed into the learning process of FederatedScope, a well-known FL framework. 
+
+## Welfare and Fairness Dynamics in Federated Learning
+- Welfare and Fairness Dynamics in Federated Learning: A Client Selection Perspective, https://scholar.google.co.kr/scholar?hl=ko&as_sdt=0%2C5&q=Welfare+and+Fairness+Dynamics+in+Federated+Learning%3A+A+Client+Selection+Perspective&btnG=
+
+To address this problem, we designed a novel incentive mechanism that involves a client selection process to remove low-quality clients and a money transfer process to ensure a fair reward distribution. Our experimental results strongly demonstrate that the proposed incentive mechanism can effectively improve the duration and fairness of the federation.
+
 ## Must-read
 - BlockLearning, https://github.com/hacdias/blocklearning
 
