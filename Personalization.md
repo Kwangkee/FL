@@ -2,7 +2,17 @@ Back to https://github.com/Kwangkee/FL
 ***
 
 ## Papers 
+
+[MAML-based FL Personalization]
+- Improving federated learning personalization via model agnostic meta learning, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Improving+federated+learn-ing+personalization+via+model+agnostic+meta+learning&btnG=
+- Personalized federated learning: A meta-learning approach, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Personalized+federated+learning%3A+A+meta-learning+approach&btnG=
+- Personalized federated learning with theoretical guarantees: A model-agnostic meta-learning approach, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Personalized+feder-ated+learning+with+theoretical+guarantees%3A+A+model-agnostic+meta-learning+approach&btnG=
+
+
 - [[DFML: Dynamic Federated Meta-Learning for Rare Disease Prediction](https://github.com/Kwangkee/FL/blob/main/Personalization.md#dfml)], https://ieeexplore.ieee.org/abstract/document/10026448
+- Personalized Privacy-Preserving Framework for Cross-Silo Federated Learning, https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=WQyULhIAAAAJ&sortby=pubdate&citation_for_view=WQyULhIAAAAJ:lgwcVrK6X84C
+
+
 
 ***
 
