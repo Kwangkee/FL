@@ -12,6 +12,8 @@ Back to https://github.com/Kwangkee/FL
 - [[DFML: Dynamic Federated Meta-Learning for Rare Disease Prediction](https://github.com/Kwangkee/FL/blob/main/Personalization.md#dfml)], https://ieeexplore.ieee.org/abstract/document/10026448
 - Personalized Privacy-Preserving Framework for Cross-Silo Federated Learning, https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=WQyULhIAAAAJ&sortby=pubdate&citation_for_view=WQyULhIAAAAJ:lgwcVrK6X84C
 
+## Etc
+FedABC: Targeting Fair Competition in Personalized Federated Learning, https://arxiv.org/abs/2302.07450
 
 
 ***
