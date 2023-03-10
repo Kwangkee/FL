@@ -1,4 +1,7 @@
 
+- A reliable and fair federated learning mechanism for mobile edge computing, https://www.sciencedirect.com/science/article/abs/pii/S1389128623001238
+
+
 ## FederatedTrust: A Solution for Trustworthy Federated Learning
 - FederatedTrust: A Solution for Trustworthy Federated Learning, https://scholar.google.co.kr/scholar?hl=ko&as_sdt=0%2C5&q=FederatedTrust%3A+A+Solution+for+Trustworthy+Federated+Learning&btnG=
 
