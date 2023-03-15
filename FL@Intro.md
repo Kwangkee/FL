@@ -1,6 +1,6 @@
-
-
+Back to https://github.com/Kwangkee/FL
 ***
+
 ## Google Papers  
 - Communication-Efficient Learning of Deep Networks from Decentralized Data, https://arxiv.org/abs/1602.05629  
 - Towards Federated Learning at Scale: System Design, https://arxiv.org/abs/1902.01046  
@@ -40,4 +40,9 @@ Introduction to the Special Issue on the Federated Learning: Algorithms, Systems
 [한글 동영상 강의]  
 - 연합학습 기초, https://www.laidd.org/course/105  
 - 연합 학습 연구 동향, https://laidd.org/course/130
+
+
+***
+Back to [Papers](#papers)  
+Back to https://github.com/Kwangkee/FL
 
