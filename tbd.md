@@ -1,4 +1,7 @@
 
+- FedIL: Federated Incremental Learning from Decentralized Unlabeled Data with Convergence Analysis, https://arxiv.org/abs/2302.11823
+>-Github: https://anonymous.4open.science/r/fedil
+
 - A reliable and fair federated learning mechanism for mobile edge computing, https://www.sciencedirect.com/science/article/abs/pii/S1389128623001238
 
 
