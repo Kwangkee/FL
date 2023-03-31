@@ -1,3 +1,7 @@
+- Federated Learning without Full Labels: A Survey, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=-+Federated+Learning+without+Full+Labels%3A+A+Survey%2C+&btnG=
+- A Survey on Secure and Private Federated Learning Using Blockchain: Theory and Application in Resource-constrained Computing, https://arxiv.org/abs/2303.13727
+- Privacy-Enhancing Technologies in Federated Learning for the Internet of Healthcare Things: A Survey, https://arxiv.org/abs/2303.14544
+
 
 - FedIL: Federated Incremental Learning from Decentralized Unlabeled Data with Convergence Analysis, https://arxiv.org/abs/2302.11823
 >-Github: https://anonymous.4open.science/r/fedil
