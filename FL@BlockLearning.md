@@ -1,8 +1,10 @@
 Back to https://github.com/Kwangkee/FL
 ***
 
+BlockLearning Framework Master Thesis, https://hacdias.com/2022/09/07/thesis-blocklearning-framework
+Github, https://github.com/hacdias/blocklearning
 
-BlockLearning, https://github.com/hacdias/blocklearning
+📄 Thesis📣 Slides🧱 BlockLearning Framework
 
 ***
 ## Chapter 4
