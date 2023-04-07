@@ -22,6 +22,9 @@ YouTube, Towards Trustworthy Federated Learning, https://www.youtube.com/watch?v
 
 ***
 
+-	CAreFL: Enhancing smart healthcare with Contribution‐Aware Federated Learning, https://onlinelibrary.wiley.com/doi/full/10.1002/aaai.12082
+
+
 ## CAreFL
 CAreFL: Contribution-Aware Federated Learning for Smart Healthcare, https://ojs.aaai.org/index.php/AAAI/article/view/21505
 
