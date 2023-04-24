@@ -4,8 +4,15 @@ Back to https://github.com/Kwangkee/FL
 ## list
 
 - Federated Machine Learning, Privacy-Enhancing Technologies, and Data Protection Laws in Medical Research: Scoping Review, https://www.jmir.org/2023/1/e41588/
->- Conclusions: Combining FL with SMPC and DP is necessary to fulfill the legal data protection requirements (GDPR) in medical research dealing with personal data. Even though some technical and legal challenges remain, for example, the possibility of successful attacks on the system, combining FL with SMPC and DP creates enough security to satisfy the legal requirements of the GDPR. This combination thereby provides an attractive technical solution for health institutions willing to collaborate without exposing their data to risk. From a legal perspective, the combination provides enough built-in security measures to satisfy data protection requirements, and from a technical perspective, the combination provides secure systems with comparable performance with centralized machine learning applications.
+> Conclusions: Combining FL with SMPC and DP is necessary to fulfill the legal data protection requirements (GDPR) in medical research dealing with personal data. Even though some technical and legal challenges remain, for example, the possibility of successful attacks on the system, combining FL with SMPC and DP creates enough security to satisfy the legal requirements of the GDPR. This combination thereby provides an attractive technical solution for health institutions willing to collaborate without exposing their data to risk. From a legal perspective, the combination provides enough built-in security measures to satisfy data protection requirements, and from a technical perspective, the combination provides secure systems with comparable performance with centralized machine learning applications.
 
+
+- CAreFL: Enhancing smart healthcare with Contribution‐Aware Federated Learning, https://onlinelibrary.wiley.com/doi/full/10.1002/aaai.12082
+- Melloddy, https://www.melloddy.eu/y3announcement
+>- [YouTube] Industry-scale orchestrated federated learning for drug discovery, https://www.youtube.com/watch?v=J_RmZhKzBcA
+>- [Paper] Industry-Scale Orchestrated Federated Learning for Drug Discovery, https://arxiv.org/abs/2210.08871
+
+- https://github.com/Kwangkee/Gachon/blob/main/lecture_2023_Spring.md#week-7-421
 
 - [JIP/DKTK] Joint Imaging Platform ( JIP ) is a strategic initiative within the German Cancer Consortium (DKTK), https://jip.dktk.dkfz.de/jiphomepage/
   >The underlying infrastructure facilitates applications like federated learning across multiple clinical centers.
