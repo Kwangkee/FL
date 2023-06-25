@@ -15,6 +15,7 @@ Commercial FL Platform, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md#
 ## Open FL Platform (Active)
 |Open FL Platform (Active)|Affiliation|More Info|
 |--|--|--|
+|FLGo: A Fully Customizable Federated Learning Platform, https://arxiv.org/abs/2306.12079|||
 |FLASH, https://github.com/PKU-Chengxu/FLASH|PKU|https://github.com/Kwangkee/FL/blob/main/FL@Platform.md#flash|
 |FederatedScope, https://federatedscope.io/|Alibaba|https://github.com/Kwangkee/FL/blob/main/FL@Platform.md#federatedscope|
 |Flower: A Friendly Federated Learning Framework, https://flower.dev/|U of Cambridge, Samsung|https://github.com/Kwangkee/FL/blob/main/FL@Platform.md#flower|
